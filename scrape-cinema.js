@@ -45,9 +45,10 @@ async function scrapeCinema() {
                     const imageEl = filmEl.querySelector('.css-16rc3bn img');
                     const affiche = imageEl ? imageEl.src : '';
                     
-                    // LIEN vers la fiche du film
-                    const lienEl = filmEl.querySelector('.css-lgj9p7 a');
-                    const lien = lienEl ? 'https://www.cinemacapitole-montceau.fr' + lienEl.getAttribute('href') : '';
+                    // LIEN vers la fiche du film (page individuelle)
+                    const lienEl = filmEl.querySelector('a[href*="/films/"]');
+                    const hrefFilm = lienEl ? lienEl.getAttribute('href') : null;
+                    const lien = hrefFilm ? (hrefFilm.startsWith('http') ? hrefFilm : 'https://www.cinemacapitole-montceau.fr' + hrefFilm) : 'https://www.cinemacapitole-montceau.fr/horaires/';
                     
                     // DURÉE
                     const dureeEl = filmEl.querySelector('.css-uyt4dk span');
