@@ -1,132 +1,136 @@
 {
-  "success": true,
-  "source": "scraper-github",
   "cinema": {
-    "name": "Le Capitole",
-    "city": "Montceau-les-Mines",
-    "address": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
-    "rooms": 4,
-    "seats": 589
+    "nom": "Le Capitole",
+    "ville": "Montceau-les-Mines",
+    "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
+    "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "scraped_at": "2025-12-03T09:24:53.838Z",
-  "scraped_at_fr": "03/12/2025 10:24:53",
-  "count": 12,
+  "date": "2025-12-03",
+  "dateUpdate": "2025-12-03T10:49:37.818Z",
   "films": [
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "18h10"
+      "titre": "Les Enfants vont bien",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/31/7c/317c4fbeed34f4d92456f42388fd7279.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000001481-les-enfants-vont-bien/",
+      "duree": "1h 51min",
+      "genre": "Drame",
+      "horaires": [
+        "18:10"
       ]
     },
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "14h10"
+      "titre": "Panique à Noël",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/19/9f191a2130afb6c28922c480202c7d41.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018369-panique-a-noel/",
+      "duree": "1h 20min",
+      "genre": "Famille, Comédie, Animation",
+      "horaires": [
+        "14:10"
       ]
     },
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "20h30"
+      "titre": "Vie Privée",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9d3503d9ccc1fec7fbdc4bf2934da7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000193-vie-privee/",
+      "duree": "1h 45min",
+      "genre": "Policier, Thriller, Drame",
+      "horaires": [
+        "20:30"
       ]
     },
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "13h50",
-        "16h15",
-        "18h30"
+      "titre": "Zootopie 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
+      "duree": "1h 48min",
+      "genre": "Animation, Aventure, Famille, Comédie",
+      "horaires": [
+        "13:50",
+        "16:15",
+        "18:30"
       ]
     },
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "16h00",
-        "20h20"
+      "titre": "Dossier 137",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f2/64/f2640084cabb11cf1457d43888f43084.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000008860-dossier-137/",
+      "duree": "1h 55min",
+      "genre": "Policier",
+      "horaires": [
+        "16:00",
+        "20:20"
       ]
     },
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "14h00",
-        "18h20"
+      "titre": "Jean Valjean",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/85/66/856696d9b1a53921272ea1b42c4d649f.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012578-jean-valjean/",
+      "duree": "1h 38min",
+      "genre": "Drame, Historique",
+      "horaires": [
+        "14:00",
+        "18:20"
       ]
     },
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "16h40"
+      "titre": "Thelma du pays des glaces",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a4/95/a495b299c1c4ce2605f31be8b99ee1dc.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020385-thelma-du-pays-des-glaces/",
+      "duree": "1h 11min",
+      "genre": "Animation, Aventure, Fantastique",
+      "horaires": [
+        "16:40"
       ]
     },
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "14h00"
+      "titre": "Wicked : partie II",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/65/11/65117c07f97a3721caff88c9abec8bd6.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/303957-wicked-partie-ii/",
+      "duree": "2h 18min",
+      "genre": "Fantastique, Aventure, Comédie musicale, Romance",
+      "horaires": [
+        "14:00"
       ]
     },
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "20h45"
+      "titre": "Insaisissables 3",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ca/83/ca8338e0ec3de262228111a215b567f8.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/238073-insaisissables-3/",
+      "duree": "1h 53min",
+      "genre": "Thriller, Aventure, Comédie",
+      "horaires": [
+        "20:45"
       ]
     },
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "18h15"
+      "titre": "Kika",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/98/59/98592c0740b90e4e1f320156eff772fb.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005699-kika/",
+      "duree": "Interdit -12 ans avec avertissement",
+      "genre": "Drame",
+      "horaires": [
+        "18:15"
       ]
     },
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "20h20"
+      "titre": "La bonne étoile",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9ddc48c0ff901aebede6db487a94d8.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003122-la-bonne-etoile/",
+      "duree": "1h 40min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "20:20"
       ]
     },
     {
-      "title": "Aujourd’hui",
-      "duration": "Non spécifié",
-      "genre": "Film",
-      "poster": null,
-      "times": [
-        "16h00"
+      "titre": "Les Rêveurs",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/fa/c0/fac022188097bde6634d10f789612c2b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/324721-les-reveurs/",
+      "duree": "1h 46min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "16:00"
       ]
     }
-  ],
-  "links": {
-    "official": "https://www.cinemacapitole-montceau.fr/horaires/",
-    "allocine": "https://www.allocine.fr/seance/salle_gen_csalle=G0FNC.html"
-  }
+  ]
 }
