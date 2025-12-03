@@ -1,0 +1,14 @@
+{
+  "name": "scraper-cinema-capitole",
+  "version": "1.0.0",
+  "description": "Scraper pour récupérer les horaires du cinéma Le Capitole (Montceau-les-Mines)",
+  "main": "scrape-cinema.js",
+  "scripts": {
+    "scrape": "node scrape-cinema.js"
+  },
+  "author": "actuetmedia.fr",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  }
+}

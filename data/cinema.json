@@ -1,0 +1,19 @@
+{
+  "success": false,
+  "source": "scraper-github",
+  "cinema": {
+    "name": "Le Capitole",
+    "city": "Montceau-les-Mines",
+    "address": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
+    "rooms": 4,
+    "seats": 589
+  },
+  "scraped_at": null,
+  "count": 0,
+  "films": [],
+  "message": "En attente du premier scraping",
+  "links": {
+    "official": "https://www.cinemacapitole-montceau.fr/horaires/",
+    "allocine": "https://www.allocine.fr/seance/salle_gen_csalle=G0FNC.html"
+  }
+}
