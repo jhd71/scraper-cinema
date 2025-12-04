@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-04",
-  "dateUpdate": "2025-12-04T01:15:50.389Z",
+  "dateUpdate": "2025-12-04T03:55:17.485Z",
   "films": [
     {
       "titre": "Les Enfants vont bien",
@@ -15,17 +15,8 @@
       "duree": "1h 51min",
       "genre": "Drame",
       "horaires": [
-        "18:10"
-      ]
-    },
-    {
-      "titre": "Panique à Noël",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/19/9f191a2130afb6c28922c480202c7d41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018369-panique-a-noel/",
-      "duree": "1h 20min",
-      "genre": "Famille, Comédie, Animation",
-      "horaires": [
-        "14:10"
+        "16:10",
+        "20:30"
       ]
     },
     {
@@ -35,7 +26,8 @@
       "duree": "1h 45min",
       "genre": "Policier, Thriller, Drame",
       "horaires": [
-        "20:30"
+        "14:00",
+        "20:40"
       ]
     },
     {
@@ -45,9 +37,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "13:50",
-        "16:15",
-        "18:30"
+        "18:25"
       ]
     },
     {
@@ -57,8 +47,8 @@
       "duree": "1h 55min",
       "genre": "Policier",
       "horaires": [
-        "16:00",
-        "20:20"
+        "14:00",
+        "18:15"
       ]
     },
     {
@@ -69,17 +59,7 @@
       "genre": "Drame, Historique",
       "horaires": [
         "14:00",
-        "18:20"
-      ]
-    },
-    {
-      "titre": "Thelma du pays des glaces",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a4/95/a495b299c1c4ce2605f31be8b99ee1dc.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020385-thelma-du-pays-des-glaces/",
-      "duree": "1h 11min",
-      "genre": "Animation, Aventure, Fantastique",
-      "horaires": [
-        "16:40"
+        "20:30"
       ]
     },
     {
@@ -89,17 +69,7 @@
       "duree": "2h 18min",
       "genre": "Fantastique, Aventure, Comédie musicale, Romance",
       "horaires": [
-        "14:00"
-      ]
-    },
-    {
-      "titre": "Insaisissables 3",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ca/83/ca8338e0ec3de262228111a215b567f8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/238073-insaisissables-3/",
-      "duree": "1h 53min",
-      "genre": "Thriller, Aventure, Comédie",
-      "horaires": [
-        "20:45"
+        "18:10"
       ]
     },
     {
@@ -109,7 +79,7 @@
       "duree": "Interdit -12 ans avec avertissement",
       "genre": "Drame",
       "horaires": [
-        "18:15"
+        "16:05"
       ]
     },
     {
@@ -119,7 +89,7 @@
       "duree": "1h 40min",
       "genre": "Comédie dramatique",
       "horaires": [
-        "20:20"
+        "14:10"
       ]
     },
     {
@@ -129,7 +99,27 @@
       "duree": "1h 46min",
       "genre": "Comédie dramatique",
       "horaires": [
-        "16:00"
+        "18:20"
+      ]
+    },
+    {
+      "titre": "Les Braises",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/53/11/53112715b19cc07a99b83b53ecf67bd2.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009081-les-braises/",
+      "duree": "1h 42min",
+      "genre": "Drame",
+      "horaires": [
+        "16:15"
+      ]
+    },
+    {
+      "titre": "Une journée particulière",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c5/e2/c5e26b4cbb4969af942dd929761de6b5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/3235-une-journee-particuliere/",
+      "duree": "1h 45min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "20:45"
       ]
     }
   ]
