@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-06",
-  "dateUpdate": "2025-12-06T01:12:03.781Z",
+  "dateUpdate": "2025-12-06T03:44:44.157Z",
   "films": [
     {
       "titre": "Les Enfants vont bien",
@@ -16,7 +16,7 @@
       "genre": "Drame",
       "horaires": [
         "14:00",
-        "20:30"
+        "20:15"
       ]
     },
     {
@@ -26,7 +26,7 @@
       "duree": "1h 20min",
       "genre": "Famille, Comédie, Animation",
       "horaires": [
-        "18:45"
+        "16:30"
       ]
     },
     {
@@ -36,8 +36,7 @@
       "duree": "1h 45min",
       "genre": "Policier, Thriller, Drame",
       "horaires": [
-        "14:00",
-        "18:20"
+        "14:00"
       ]
     },
     {
@@ -47,6 +46,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
+        "13:50",
         "16:15",
         "18:30",
         "20:45"
@@ -59,8 +59,7 @@
       "duree": "1h 55min",
       "genre": "Policier",
       "horaires": [
-        "14:00",
-        "18:15"
+        "18:10"
       ]
     },
     {
@@ -70,7 +69,17 @@
       "duree": "1h 38min",
       "genre": "Drame, Historique",
       "horaires": [
-        "16:15"
+        "20:30"
+      ]
+    },
+    {
+      "titre": "Thelma du pays des glaces",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a4/95/a495b299c1c4ce2605f31be8b99ee1dc.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020385-thelma-du-pays-des-glaces/",
+      "duree": "1h 11min",
+      "genre": "Animation, Aventure, Fantastique",
+      "horaires": [
+        "16:10"
       ]
     },
     {
@@ -80,7 +89,7 @@
       "duree": "2h 18min",
       "genre": "Fantastique, Aventure, Comédie musicale, Romance",
       "horaires": [
-        "20:20"
+        "17:40"
       ]
     },
     {
@@ -90,7 +99,6 @@
       "duree": "1h 53min",
       "genre": "Thriller, Aventure, Comédie",
       "horaires": [
-        "13:55",
         "20:30"
       ]
     },
@@ -101,7 +109,7 @@
       "duree": "Interdit -12 ans avec avertissement",
       "genre": "Drame",
       "horaires": [
-        "16:10"
+        "14:00"
       ]
     },
     {
@@ -111,7 +119,17 @@
       "duree": "1h 46min",
       "genre": "Comédie dramatique",
       "horaires": [
-        "16:20"
+        "18:10"
+      ]
+    },
+    {
+      "titre": "Les Braises",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/53/11/53112715b19cc07a99b83b53ecf67bd2.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009081-les-braises/",
+      "duree": "1h 42min",
+      "genre": "Drame",
+      "horaires": [
+        "16:10"
       ]
     }
   ]
