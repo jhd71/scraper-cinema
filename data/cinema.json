@@ -6,8 +6,18 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-07",
-  "dateUpdate": "2025-12-07T01:22:25.296Z",
+  "dateUpdate": "2025-12-07T03:59:39.986Z",
   "films": [
+    {
+      "titre": "Chasse gardée 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/57/a8/57a8c1e690e543eb1f3db1a21fa5884b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020329-chasse-gardee-2/",
+      "duree": "1h 40min",
+      "genre": "Comédie",
+      "horaires": [
+        "16:45"
+      ]
+    },
     {
       "titre": "Les Enfants vont bien",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/31/7c/317c4fbeed34f4d92456f42388fd7279.jpg",
@@ -15,8 +25,8 @@
       "duree": "1h 51min",
       "genre": "Drame",
       "horaires": [
-        "14:00",
-        "20:15"
+        "14:10",
+        "18:00"
       ]
     },
     {
@@ -26,7 +36,8 @@
       "duree": "1h 20min",
       "genre": "Famille, Comédie, Animation",
       "horaires": [
-        "16:30"
+        "12:30",
+        "16:20"
       ]
     },
     {
@@ -36,7 +47,8 @@
       "duree": "1h 45min",
       "genre": "Policier, Thriller, Drame",
       "horaires": [
-        "14:00"
+        "14:30",
+        "21:00"
       ]
     },
     {
@@ -46,10 +58,10 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "13:50",
-        "16:15",
-        "18:30",
-        "20:45"
+        "10:30",
+        "12:40",
+        "15:00",
+        "17:30"
       ]
     },
     {
@@ -59,7 +71,8 @@
       "duree": "1h 55min",
       "genre": "Policier",
       "horaires": [
-        "18:10"
+        "10:20",
+        "18:45"
       ]
     },
     {
@@ -69,7 +82,8 @@
       "duree": "1h 38min",
       "genre": "Drame, Historique",
       "horaires": [
-        "20:30"
+        "14:20",
+        "19:00"
       ]
     },
     {
@@ -79,7 +93,7 @@
       "duree": "1h 11min",
       "genre": "Animation, Aventure, Fantastique",
       "horaires": [
-        "16:10"
+        "10:20"
       ]
     },
     {
@@ -89,7 +103,8 @@
       "duree": "2h 18min",
       "genre": "Fantastique, Aventure, Comédie musicale, Romance",
       "horaires": [
-        "17:40"
+        "11:45",
+        "16:20"
       ]
     },
     {
@@ -99,27 +114,18 @@
       "duree": "1h 53min",
       "genre": "Thriller, Aventure, Comédie",
       "horaires": [
-        "20:30"
+        "20:00"
       ]
     },
     {
-      "titre": "Kika",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/98/59/98592c0740b90e4e1f320156eff772fb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005699-kika/",
-      "duree": "Interdit -12 ans avec avertissement",
-      "genre": "Drame",
-      "horaires": [
-        "14:00"
-      ]
-    },
-    {
-      "titre": "Les Rêveurs",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/fa/c0/fac022188097bde6634d10f789612c2b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/324721-les-reveurs/",
-      "duree": "1h 46min",
+      "titre": "La bonne étoile",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9ddc48c0ff901aebede6db487a94d8.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003122-la-bonne-etoile/",
+      "duree": "1h 40min",
       "genre": "Comédie dramatique",
       "horaires": [
-        "18:10"
+        "10:30",
+        "20:20"
       ]
     },
     {
@@ -129,7 +135,8 @@
       "duree": "1h 42min",
       "genre": "Drame",
       "horaires": [
-        "16:10"
+        "12:30",
+        "21:00"
       ]
     }
   ]
