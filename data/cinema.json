@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-09",
-  "dateUpdate": "2025-12-09T01:14:58.118Z",
+  "dateUpdate": "2025-12-09T03:53:10.606Z",
   "films": [
     {
       "titre": "Les Enfants vont bien",
@@ -15,7 +15,8 @@
       "duree": "1h 51min",
       "genre": "Drame",
       "horaires": [
-        "13:45"
+        "13:50",
+        "18:00"
       ]
     },
     {
@@ -26,7 +27,7 @@
       "genre": "Policier, Thriller, Drame",
       "horaires": [
         "16:10",
-        "18:20"
+        "20:50"
       ]
     },
     {
@@ -36,7 +37,18 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "18:20"
+        "18:15"
+      ]
+    },
+    {
+      "titre": "Dossier 137",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f2/64/f2640084cabb11cf1457d43888f43084.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000008860-dossier-137/",
+      "duree": "1h 55min",
+      "genre": "Policier",
+      "horaires": [
+        "16:00",
+        "20:20"
       ]
     },
     {
@@ -46,8 +58,18 @@
       "duree": "1h 38min",
       "genre": "Drame, Historique",
       "horaires": [
-        "16:10",
-        "20:30"
+        "14:00",
+        "18:20"
+      ]
+    },
+    {
+      "titre": "Wicked : partie II",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/65/11/65117c07f97a3721caff88c9abec8bd6.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/303957-wicked-partie-ii/",
+      "duree": "2h 18min",
+      "genre": "Fantastique, Aventure, Comédie musicale, Romance",
+      "horaires": [
+        "18:10"
       ]
     },
     {
@@ -67,7 +89,8 @@
       "duree": "Interdit -12 ans avec avertissement",
       "genre": "Drame",
       "horaires": [
-        "14:00"
+        "14:00",
+        "16:00"
       ]
     },
     {
@@ -77,7 +100,7 @@
       "duree": "1h 40min",
       "genre": "Comédie dramatique",
       "horaires": [
-        "18:00"
+        "16:00"
       ]
     },
     {
@@ -87,7 +110,7 @@
       "duree": "1h 46min",
       "genre": "Comédie dramatique",
       "horaires": [
-        "15:55"
+        "20:10"
       ]
     },
     {
@@ -98,47 +121,6 @@
       "genre": "Drame",
       "horaires": [
         "14:00"
-      ]
-    },
-    {
-      "titre": "Météors",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/fe/07/fe073b9c11e50e0049d1a34674df76c7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/328102-meteors/",
-      "duree": "1h 48min",
-      "genre": "Drame",
-      "horaires": [
-        "18:45"
-      ]
-    },
-    {
-      "titre": "Soundtrack to a Coup d'État",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/10/50/1050d72da7e3ce347971ae8c05a7d886.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/297231-soundtrack-to-a-coup-detat/",
-      "duree": "2h 30min",
-      "genre": "Documentaire",
-      "horaires": [
-        "13:45",
-        "20:50"
-      ]
-    },
-    {
-      "titre": "Demain",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/d9/7e/d97ed66cf5d889bb3c47741931a427c6.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/229903-demain/",
-      "duree": "1h 58min",
-      "genre": "Documentaire",
-      "horaires": [
-        "19:45"
-      ]
-    },
-    {
-      "titre": "Conversation secrète",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/06/b1/06b11504fe86b460ca43da6b1072bbba.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/9955-conversation-secrete/",
-      "duree": "1h 53min",
-      "genre": "Thriller, Drame, Espionnage",
-      "horaires": [
-        "16:35"
       ]
     }
   ]
