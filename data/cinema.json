@@ -6,8 +6,18 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-11",
-  "dateUpdate": "2025-12-11T01:18:14.715Z",
+  "dateUpdate": "2025-12-11T03:59:23.586Z",
   "films": [
+    {
+      "titre": "Furcy, né libre",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/292718-furcy-ne-libre/",
+      "duree": "1h 48min",
+      "genre": "Historique, Drame, Judiciaire, Biopic",
+      "horaires": [
+        "20:30"
+      ]
+    },
     {
       "titre": "Animal Totem",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/16/28/16280bc81b9cccc72f377b30d2092da6.jpg",
@@ -15,18 +25,7 @@
       "duree": "1h 29min",
       "genre": "Comédie",
       "horaires": [
-        "14:00",
-        "20:10"
-      ]
-    },
-    {
-      "titre": "Casse-Noisette (The Royal Ballet)",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/74/d4/74d4f3859768d16f2238b72b81d3a8d2.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022517-casse-noisette-the-royal-ballet/",
-      "duree": "2h 40min",
-      "genre": "Opéra",
-      "horaires": [
-        "20:15"
+        "18:20"
       ]
     },
     {
@@ -36,29 +35,19 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "14:00",
+        "16:10",
         "20:30"
       ]
     },
     {
-      "titre": "Les Enfants vont bien",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/31/7c/317c4fbeed34f4d92456f42388fd7279.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000001481-les-enfants-vont-bien/",
-      "duree": "1h 51min",
+      "titre": "La Voix de Hind Rajab",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/66/eb/66eb9392595c24a3ca9975d5cd6b9565.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000027854-la-voix-de-hind-rajab/",
+      "duree": "1h 29min",
       "genre": "Drame",
       "horaires": [
-        "13:50",
-        "18:00"
-      ]
-    },
-    {
-      "titre": "Panique à Noël",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/19/9f191a2130afb6c28922c480202c7d41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018369-panique-a-noel/",
-      "duree": "1h 20min",
-      "genre": "Famille, Comédie, Animation",
-      "horaires": [
-        "16:30"
+        "14:10",
+        "20:10"
       ]
     },
     {
@@ -68,7 +57,7 @@
       "duree": "1h 45min",
       "genre": "Policier, Thriller, Drame",
       "horaires": [
-        "16:00"
+        "18:20"
       ]
     },
     {
@@ -78,8 +67,17 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "14:15",
-        "18:20"
+        "13:45"
+      ]
+    },
+    {
+      "titre": "Dossier 137",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f2/64/f2640084cabb11cf1457d43888f43084.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000008860-dossier-137/",
+      "duree": "1h 55min",
+      "genre": "Policier",
+      "horaires": [
+        "16:00"
       ]
     },
     {
@@ -89,17 +87,7 @@
       "duree": "1h 38min",
       "genre": "Drame, Historique",
       "horaires": [
-        "20:30"
-      ]
-    },
-    {
-      "titre": "Thelma du pays des glaces",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a4/95/a495b299c1c4ce2605f31be8b99ee1dc.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020385-thelma-du-pays-des-glaces/",
-      "duree": "1h 11min",
-      "genre": "Animation, Aventure, Fantastique",
-      "horaires": [
-        "15:50"
+        "18:15"
       ]
     },
     {
@@ -109,7 +97,7 @@
       "duree": "2h 18min",
       "genre": "Fantastique, Aventure, Comédie musicale, Romance",
       "horaires": [
-        "17:30"
+        "20:15"
       ]
     },
     {
@@ -129,7 +117,17 @@
       "duree": "1h 40min",
       "genre": "Comédie dramatique",
       "horaires": [
-        "16:10"
+        "14:00"
+      ]
+    },
+    {
+      "titre": "Les Rêveurs",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/fa/c0/fac022188097bde6634d10f789612c2b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/324721-les-reveurs/",
+      "duree": "1h 46min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "16:00"
       ]
     }
   ]
