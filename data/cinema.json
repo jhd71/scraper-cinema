@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-13",
-  "dateUpdate": "2025-12-13T01:13:11.874Z",
+  "dateUpdate": "2025-12-13T03:50:22.728Z",
   "films": [
     {
       "titre": "Animal Totem",
@@ -15,8 +15,8 @@
       "duree": "1h 29min",
       "genre": "Comédie",
       "horaires": [
-        "14:00",
-        "18:20"
+        "14:20",
+        "20:30"
       ]
     },
     {
@@ -26,8 +26,9 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "16:10",
-        "20:30"
+        "14:00",
+        "18:30",
+        "20:50"
       ]
     },
     {
@@ -38,7 +39,7 @@
       "genre": "Drame",
       "horaires": [
         "16:00",
-        "20:40"
+        "20:30"
       ]
     },
     {
@@ -48,7 +49,7 @@
       "duree": "1h 20min",
       "genre": "Famille, Comédie, Animation",
       "horaires": [
-        "18:40"
+        "16:20"
       ]
     },
     {
@@ -68,19 +69,10 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "18:10",
-        "20:20"
-      ]
-    },
-    {
-      "titre": "Dossier 137",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f2/64/f2640084cabb11cf1457d43888f43084.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000008860-dossier-137/",
-      "duree": "1h 55min",
-      "genre": "Policier",
-      "horaires": [
         "14:10",
-        "18:20"
+        "16:10",
+        "18:10",
+        "20:30"
       ]
     },
     {
@@ -90,37 +82,27 @@
       "duree": "1h 38min",
       "genre": "Drame, Historique",
       "horaires": [
-        "16:30"
+        "18:20"
       ]
     },
     {
-      "titre": "Insaisissables 3",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ca/83/ca8338e0ec3de262228111a215b567f8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/238073-insaisissables-3/",
-      "duree": "1h 53min",
-      "genre": "Thriller, Aventure, Comédie",
+      "titre": "Thelma du pays des glaces",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a4/95/a495b299c1c4ce2605f31be8b99ee1dc.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020385-thelma-du-pays-des-glaces/",
+      "duree": "1h 11min",
+      "genre": "Animation, Aventure, Fantastique",
       "horaires": [
-        "20:10"
+        "16:10"
       ]
     },
     {
-      "titre": "La bonne étoile",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9ddc48c0ff901aebede6db487a94d8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003122-la-bonne-etoile/",
-      "duree": "1h 40min",
-      "genre": "Comédie dramatique",
+      "titre": "Wicked : partie II",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/65/11/65117c07f97a3721caff88c9abec8bd6.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/303957-wicked-partie-ii/",
+      "duree": "2h 18min",
+      "genre": "Fantastique, Aventure, Comédie musicale, Romance",
       "horaires": [
-        "14:00"
-      ]
-    },
-    {
-      "titre": "Les Rêveurs",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/fa/c0/fac022188097bde6634d10f789612c2b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/324721-les-reveurs/",
-      "duree": "1h 46min",
-      "genre": "Comédie dramatique",
-      "horaires": [
-        "16:00"
+        "17:45"
       ]
     }
   ]
