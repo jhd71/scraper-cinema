@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-14",
-  "dateUpdate": "2025-12-14T01:22:45.718Z",
+  "dateUpdate": "2025-12-14T04:02:07.826Z",
   "films": [
     {
       "titre": "Animal Totem",
@@ -15,8 +15,8 @@
       "duree": "1h 29min",
       "genre": "Comédie",
       "horaires": [
-        "14:20",
-        "20:30"
+        "12:10",
+        "18:30"
       ]
     },
     {
@@ -26,9 +26,9 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "14:00",
-        "18:30",
-        "20:50"
+        "10:20",
+        "14:40",
+        "16:40"
       ]
     },
     {
@@ -38,8 +38,8 @@
       "duree": "1h 51min",
       "genre": "Drame",
       "horaires": [
-        "16:00",
-        "20:30"
+        "14:30",
+        "18:50"
       ]
     },
     {
@@ -49,7 +49,19 @@
       "duree": "1h 20min",
       "genre": "Famille, Comédie, Animation",
       "horaires": [
-        "16:20"
+        "12:40",
+        "16:40"
+      ]
+    },
+    {
+      "titre": "La Voix de Hind Rajab",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/66/eb/66eb9392595c24a3ca9975d5cd6b9565.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000027854-la-voix-de-hind-rajab/",
+      "duree": "1h 29min",
+      "genre": "Drame",
+      "horaires": [
+        "12:40",
+        "20:20"
       ]
     },
     {
@@ -59,7 +71,7 @@
       "duree": "1h 45min",
       "genre": "Policier, Thriller, Drame",
       "horaires": [
-        "13:55"
+        "16:45"
       ]
     },
     {
@@ -69,10 +81,20 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "14:10",
-        "16:10",
-        "18:10",
-        "20:30"
+        "10:30",
+        "14:20",
+        "16:30"
+      ]
+    },
+    {
+      "titre": "Dossier 137",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f2/64/f2640084cabb11cf1457d43888f43084.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000008860-dossier-137/",
+      "duree": "1h 55min",
+      "genre": "Policier",
+      "horaires": [
+        "10:20",
+        "20:40"
       ]
     },
     {
@@ -82,7 +104,7 @@
       "duree": "1h 38min",
       "genre": "Drame, Historique",
       "horaires": [
-        "18:20"
+        "18:40"
       ]
     },
     {
@@ -92,7 +114,7 @@
       "duree": "1h 11min",
       "genre": "Animation, Aventure, Fantastique",
       "horaires": [
-        "16:10"
+        "10:40"
       ]
     },
     {
@@ -102,7 +124,38 @@
       "duree": "2h 18min",
       "genre": "Fantastique, Aventure, Comédie musicale, Romance",
       "horaires": [
-        "17:45"
+        "14:00"
+      ]
+    },
+    {
+      "titre": "Insaisissables 3",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ca/83/ca8338e0ec3de262228111a215b567f8.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/238073-insaisissables-3/",
+      "duree": "1h 53min",
+      "genre": "Thriller, Aventure, Comédie",
+      "horaires": [
+        "12:20",
+        "20:40"
+      ]
+    },
+    {
+      "titre": "La bonne étoile",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9ddc48c0ff901aebede6db487a94d8.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003122-la-bonne-etoile/",
+      "duree": "1h 40min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "18:40"
+      ]
+    },
+    {
+      "titre": "Les Rêveurs",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/fa/c0/fac022188097bde6634d10f789612c2b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/324721-les-reveurs/",
+      "duree": "1h 46min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "21:00"
       ]
     }
   ]
