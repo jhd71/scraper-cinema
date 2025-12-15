@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-15",
-  "dateUpdate": "2025-12-15T01:19:43.104Z",
+  "dateUpdate": "2025-12-15T04:06:41.744Z",
   "films": [
     {
       "titre": "Animal Totem",
@@ -15,8 +15,7 @@
       "duree": "1h 29min",
       "genre": "Comédie",
       "horaires": [
-        "12:10",
-        "18:30"
+        "20:45"
       ]
     },
     {
@@ -26,9 +25,7 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "10:20",
-        "14:40",
-        "16:40"
+        "18:30"
       ]
     },
     {
@@ -38,19 +35,8 @@
       "duree": "1h 51min",
       "genre": "Drame",
       "horaires": [
-        "14:30",
-        "18:50"
-      ]
-    },
-    {
-      "titre": "Panique à Noël",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/19/9f191a2130afb6c28922c480202c7d41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018369-panique-a-noel/",
-      "duree": "1h 20min",
-      "genre": "Famille, Comédie, Animation",
-      "horaires": [
-        "12:40",
-        "16:40"
+        "13:50",
+        "18:10"
       ]
     },
     {
@@ -60,8 +46,8 @@
       "duree": "1h 29min",
       "genre": "Drame",
       "horaires": [
-        "12:40",
-        "20:20"
+        "20:20",
+        "16:00"
       ]
     },
     {
@@ -71,7 +57,7 @@
       "duree": "1h 45min",
       "genre": "Policier, Thriller, Drame",
       "horaires": [
-        "16:45"
+        "16:00"
       ]
     },
     {
@@ -81,9 +67,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "10:30",
-        "14:20",
-        "16:30"
+        "18:20"
       ]
     },
     {
@@ -93,8 +77,7 @@
       "duree": "1h 55min",
       "genre": "Policier",
       "horaires": [
-        "10:20",
-        "20:40"
+        "20:30"
       ]
     },
     {
@@ -103,26 +86,6 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012578-jean-valjean/",
       "duree": "1h 38min",
       "genre": "Drame, Historique",
-      "horaires": [
-        "18:40"
-      ]
-    },
-    {
-      "titre": "Thelma du pays des glaces",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a4/95/a495b299c1c4ce2605f31be8b99ee1dc.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020385-thelma-du-pays-des-glaces/",
-      "duree": "1h 11min",
-      "genre": "Animation, Aventure, Fantastique",
-      "horaires": [
-        "10:40"
-      ]
-    },
-    {
-      "titre": "Wicked : partie II",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/65/11/65117c07f97a3721caff88c9abec8bd6.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/303957-wicked-partie-ii/",
-      "duree": "2h 18min",
-      "genre": "Fantastique, Aventure, Comédie musicale, Romance",
       "horaires": [
         "14:00"
       ]
@@ -134,8 +97,7 @@
       "duree": "1h 53min",
       "genre": "Thriller, Aventure, Comédie",
       "horaires": [
-        "12:20",
-        "20:40"
+        "20:30"
       ]
     },
     {
@@ -145,7 +107,7 @@
       "duree": "1h 40min",
       "genre": "Comédie dramatique",
       "horaires": [
-        "18:40"
+        "16:20"
       ]
     },
     {
@@ -155,7 +117,27 @@
       "duree": "1h 46min",
       "genre": "Comédie dramatique",
       "horaires": [
-        "21:00"
+        "14:10"
+      ]
+    },
+    {
+      "titre": "Météors",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/fe/07/fe073b9c11e50e0049d1a34674df76c7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/328102-meteors/",
+      "duree": "1h 48min",
+      "genre": "Drame",
+      "horaires": [
+        "14:00"
+      ]
+    },
+    {
+      "titre": "Une journée particulière",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c5/e2/c5e26b4cbb4969af942dd929761de6b5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/3235-une-journee-particuliere/",
+      "duree": "1h 45min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "16:10"
       ]
     }
   ]
