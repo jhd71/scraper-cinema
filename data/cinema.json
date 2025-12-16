@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-16",
-  "dateUpdate": "2025-12-16T01:19:02.292Z",
+  "dateUpdate": "2025-12-16T04:00:17.422Z",
   "films": [
     {
       "titre": "Animal Totem",
@@ -15,7 +15,8 @@
       "duree": "1h 29min",
       "genre": "Comédie",
       "horaires": [
-        "20:45"
+        "16:15",
+        "20:30"
       ]
     },
     {
@@ -25,7 +26,8 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "18:30"
+        "14:00",
+        "20:40"
       ]
     },
     {
@@ -35,8 +37,8 @@
       "duree": "1h 51min",
       "genre": "Drame",
       "horaires": [
-        "13:50",
-        "18:10"
+        "16:00",
+        "20:30"
       ]
     },
     {
@@ -46,8 +48,7 @@
       "duree": "1h 29min",
       "genre": "Drame",
       "horaires": [
-        "20:20",
-        "16:00"
+        "14:20"
       ]
     },
     {
@@ -57,7 +58,7 @@
       "duree": "1h 45min",
       "genre": "Policier, Thriller, Drame",
       "horaires": [
-        "16:00"
+        "13:55"
       ]
     },
     {
@@ -67,7 +68,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "18:20"
+        "18:30"
       ]
     },
     {
@@ -77,7 +78,7 @@
       "duree": "1h 55min",
       "genre": "Policier",
       "horaires": [
-        "20:30"
+        "16:10"
       ]
     },
     {
@@ -87,7 +88,7 @@
       "duree": "1h 38min",
       "genre": "Drame, Historique",
       "horaires": [
-        "14:00"
+        "20:40"
       ]
     },
     {
@@ -97,7 +98,7 @@
       "duree": "1h 53min",
       "genre": "Thriller, Aventure, Comédie",
       "horaires": [
-        "20:30"
+        "18:10"
       ]
     },
     {
@@ -107,7 +108,7 @@
       "duree": "1h 40min",
       "genre": "Comédie dramatique",
       "horaires": [
-        "16:20"
+        "16:00"
       ]
     },
     {
@@ -117,27 +118,18 @@
       "duree": "1h 46min",
       "genre": "Comédie dramatique",
       "horaires": [
-        "14:10"
+        "14:10",
+        "18:10"
       ]
     },
     {
-      "titre": "Météors",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/fe/07/fe073b9c11e50e0049d1a34674df76c7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/328102-meteors/",
-      "duree": "1h 48min",
-      "genre": "Drame",
+      "titre": "Conversation secrète",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/06/b1/06b11504fe86b460ca43da6b1072bbba.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/9955-conversation-secrete/",
+      "duree": "1h 53min",
+      "genre": "Thriller, Drame, Espionnage",
       "horaires": [
-        "14:00"
-      ]
-    },
-    {
-      "titre": "Une journée particulière",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c5/e2/c5e26b4cbb4969af942dd929761de6b5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/3235-une-journee-particuliere/",
-      "duree": "1h 45min",
-      "genre": "Comédie dramatique",
-      "horaires": [
-        "16:10"
+        "18:15"
       ]
     }
   ]
