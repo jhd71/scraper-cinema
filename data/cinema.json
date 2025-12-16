@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-16",
-  "dateUpdate": "2025-12-16T06:30:06.053Z",
+  "dateUpdate": "2025-12-16T09:25:53.800Z",
   "films": [
     {
       "titre": "Animal Totem",
@@ -120,6 +120,26 @@
       "horaires": [
         "14:10",
         "18:10"
+      ]
+    },
+    {
+      "titre": "Les Esprits Libres",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ba/82/ba826751fe0d9fa4493f475c9ea30e02.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/324074-les-esprits-libres/",
+      "duree": "1h 34min",
+      "genre": "Documentaire",
+      "horaires": [
+        "10:00"
+      ]
+    },
+    {
+      "titre": "The Truman Show",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/pictures/22/05/16/16/32/4176595.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/18671-the-truman-show/",
+      "duree": "1h 43min",
+      "genre": "Drame, Comédie",
+      "horaires": [
+        "10:00"
       ]
     },
     {
