@@ -6,8 +6,41 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-17",
-  "dateUpdate": "2025-12-17T01:13:17.368Z",
+  "dateUpdate": "2025-12-17T03:56:56.027Z",
   "films": [
+    {
+      "titre": "Avatar : de Feu et de Cendres",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/187247-avatar-de-feu-et-de-cendres/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Science fiction, Aventure, Action, Fantastique",
+      "horaires": [
+        "14:00",
+        "20:00"
+      ]
+    },
+    {
+      "titre": "Le Chant des forêts",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
+      "duree": "1h 33min",
+      "genre": "Documentaire",
+      "horaires": [
+        "16:20",
+        "20:40"
+      ]
+    },
+    {
+      "titre": "L’Âme Idéale",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/57/bb/57bb30ccc7161797311e827e54ef261b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/300387-lame-ideale/",
+      "duree": "1h 38min",
+      "genre": "Comédie, Romance, Fantastique",
+      "horaires": [
+        "14:10",
+        "18:30"
+      ]
+    },
     {
       "titre": "Animal Totem",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/16/28/16280bc81b9cccc72f377b30d2092da6.jpg",
@@ -15,8 +48,7 @@
       "duree": "1h 29min",
       "genre": "Comédie",
       "horaires": [
-        "16:15",
-        "20:30"
+        "14:45"
       ]
     },
     {
@@ -26,19 +58,48 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "14:00",
-        "20:40"
+        "14:30",
+        "19:00"
       ]
     },
     {
-      "titre": "Les Enfants vont bien",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/31/7c/317c4fbeed34f4d92456f42388fd7279.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000001481-les-enfants-vont-bien/",
-      "duree": "1h 51min",
-      "genre": "Drame",
+      "titre": "Dites-lui que je l’aime",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/42/9f42386f496ca05ea56dda6291423407.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/318222-dites-lui-que-je-laime/",
+      "duree": "1h 32min",
+      "genre": "Comédie dramatique",
       "horaires": [
-        "16:00",
-        "20:30"
+        "20:20"
+      ]
+    },
+    {
+      "titre": "Five Nights At Freddy's 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/83/b5/83b5868d9264242be16ab460eb7c80ce.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/325430-five-nights-at-freddys-2/",
+      "duree": "Interdit -12 ans",
+      "genre": "Épouvante-horreur",
+      "horaires": [
+        "21:10"
+      ]
+    },
+    {
+      "titre": "Panique à Noël",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/19/9f191a2130afb6c28922c480202c7d41.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018369-panique-a-noel/",
+      "duree": "1h 20min",
+      "genre": "Famille, Comédie, Animation",
+      "horaires": [
+        "17:50"
+      ]
+    },
+    {
+      "titre": "La Petite fanfare de Noël",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/48/1f/481fc08aa772fbef3dfa015ec35a929e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022216-la-petite-fanfare-de-noel/",
+      "duree": "0h 40min",
+      "genre": "Animation, Famille",
+      "horaires": [
+        "16:45"
       ]
     },
     {
@@ -48,17 +109,7 @@
       "duree": "1h 29min",
       "genre": "Drame",
       "horaires": [
-        "14:20"
-      ]
-    },
-    {
-      "titre": "Vie Privée",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9d3503d9ccc1fec7fbdc4bf2934da7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000193-vie-privee/",
-      "duree": "1h 45min",
-      "genre": "Policier, Thriller, Drame",
-      "horaires": [
-        "13:55"
+        "17:40"
       ]
     },
     {
@@ -68,88 +119,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "18:30"
-      ]
-    },
-    {
-      "titre": "Dossier 137",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f2/64/f2640084cabb11cf1457d43888f43084.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000008860-dossier-137/",
-      "duree": "1h 55min",
-      "genre": "Policier",
-      "horaires": [
-        "16:10"
-      ]
-    },
-    {
-      "titre": "Jean Valjean",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/85/66/856696d9b1a53921272ea1b42c4d649f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012578-jean-valjean/",
-      "duree": "1h 38min",
-      "genre": "Drame, Historique",
-      "horaires": [
-        "20:40"
-      ]
-    },
-    {
-      "titre": "Insaisissables 3",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ca/83/ca8338e0ec3de262228111a215b567f8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/238073-insaisissables-3/",
-      "duree": "1h 53min",
-      "genre": "Thriller, Aventure, Comédie",
-      "horaires": [
-        "18:10"
-      ]
-    },
-    {
-      "titre": "La bonne étoile",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9ddc48c0ff901aebede6db487a94d8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003122-la-bonne-etoile/",
-      "duree": "1h 40min",
-      "genre": "Comédie dramatique",
-      "horaires": [
-        "16:00"
-      ]
-    },
-    {
-      "titre": "Les Rêveurs",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/fa/c0/fac022188097bde6634d10f789612c2b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/324721-les-reveurs/",
-      "duree": "1h 46min",
-      "genre": "Comédie dramatique",
-      "horaires": [
-        "14:10",
-        "18:10"
-      ]
-    },
-    {
-      "titre": "Les Esprits Libres",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ba/82/ba826751fe0d9fa4493f475c9ea30e02.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/324074-les-esprits-libres/",
-      "duree": "1h 34min",
-      "genre": "Documentaire",
-      "horaires": [
-        "10:00"
-      ]
-    },
-    {
-      "titre": "The Truman Show",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/pictures/22/05/16/16/32/4176595.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/18671-the-truman-show/",
-      "duree": "1h 43min",
-      "genre": "Drame, Comédie",
-      "horaires": [
-        "10:00"
-      ]
-    },
-    {
-      "titre": "Conversation secrète",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/06/b1/06b11504fe86b460ca43da6b1072bbba.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/9955-conversation-secrete/",
-      "duree": "1h 53min",
-      "genre": "Thriller, Drame, Espionnage",
-      "horaires": [
-        "18:15"
+        "16:40"
       ]
     }
   ]
