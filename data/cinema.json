@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-18",
-  "dateUpdate": "2025-12-18T01:14:38.592Z",
+  "dateUpdate": "2025-12-18T03:58:09.899Z",
   "films": [
     {
       "titre": "Avatar : de Feu et de Cendres",
@@ -26,8 +26,8 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "16:20",
-        "20:40"
+        "14:20",
+        "18:30"
       ]
     },
     {
@@ -37,8 +37,7 @@
       "duree": "1h 38min",
       "genre": "Comédie, Romance, Fantastique",
       "horaires": [
-        "14:10",
-        "18:30"
+        "16:30"
       ]
     },
     {
@@ -48,7 +47,8 @@
       "duree": "1h 29min",
       "genre": "Comédie",
       "horaires": [
-        "14:45"
+        "16:50",
+        "21:00"
       ]
     },
     {
@@ -58,48 +58,8 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "titre": "Dites-lui que je l’aime",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/42/9f42386f496ca05ea56dda6291423407.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318222-dites-lui-que-je-laime/",
-      "duree": "1h 32min",
-      "genre": "Comédie dramatique",
-      "horaires": [
-        "20:20"
-      ]
-    },
-    {
-      "titre": "Five Nights At Freddy's 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/83/b5/83b5868d9264242be16ab460eb7c80ce.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325430-five-nights-at-freddys-2/",
-      "duree": "Interdit -12 ans",
-      "genre": "Épouvante-horreur",
-      "horaires": [
-        "21:10"
-      ]
-    },
-    {
-      "titre": "Panique à Noël",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/19/9f191a2130afb6c28922c480202c7d41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018369-panique-a-noel/",
-      "duree": "1h 20min",
-      "genre": "Famille, Comédie, Animation",
-      "horaires": [
-        "17:50"
-      ]
-    },
-    {
-      "titre": "La Petite fanfare de Noël",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/48/1f/481fc08aa772fbef3dfa015ec35a929e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022216-la-petite-fanfare-de-noel/",
-      "duree": "0h 40min",
-      "genre": "Animation, Famille",
-      "horaires": [
-        "16:45"
+        "16:15",
+        "20:45"
       ]
     },
     {
@@ -113,13 +73,53 @@
       ]
     },
     {
+      "titre": "Vie Privée",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9d3503d9ccc1fec7fbdc4bf2934da7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000193-vie-privee/",
+      "duree": "1h 45min",
+      "genre": "Policier, Thriller, Drame",
+      "horaires": [
+        "14:45"
+      ]
+    },
+    {
       "titre": "Zootopie 2",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "16:40"
+        "18:20"
+      ]
+    },
+    {
+      "titre": "Dossier 137",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f2/64/f2640084cabb11cf1457d43888f43084.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000008860-dossier-137/",
+      "duree": "1h 55min",
+      "genre": "Policier",
+      "horaires": [
+        "18:45"
+      ]
+    },
+    {
+      "titre": "Jean Valjean",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/85/66/856696d9b1a53921272ea1b42c4d649f.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012578-jean-valjean/",
+      "duree": "1h 38min",
+      "genre": "Drame, Historique",
+      "horaires": [
+        "14:10"
+      ]
+    },
+    {
+      "titre": "Joyeux Noël",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/90/24/9024059ecb55891e06dd75a16af9ef5d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/56539-joyeux-noel/",
+      "duree": "1h 55min",
+      "genre": "Drame, Guerre, Historique",
+      "horaires": [
+        "20:30"
       ]
     }
   ]
