@@ -6,8 +6,18 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-19",
-  "dateUpdate": "2025-12-19T01:18:10.124Z",
+  "dateUpdate": "2025-12-19T03:59:51.436Z",
   "films": [
+    {
+      "titre": "La Femme de ménage",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/317403-la-femme-de-menage/",
+      "duree": "Interdit -12 ans",
+      "genre": "Thriller",
+      "horaires": [
+        "20:20"
+      ]
+    },
     {
       "titre": "Avatar : de Feu et de Cendres",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
@@ -26,8 +36,8 @@
       "duree": "1h 40min",
       "genre": "Documentaire",
       "horaires": [
-        "14:20",
-        "18:30"
+        "16:20",
+        "20:40"
       ]
     },
     {
@@ -37,7 +47,8 @@
       "duree": "1h 38min",
       "genre": "Comédie, Romance, Fantastique",
       "horaires": [
-        "16:30"
+        "14:10",
+        "18:30"
       ]
     },
     {
@@ -47,8 +58,8 @@
       "duree": "1h 29min",
       "genre": "Comédie",
       "horaires": [
-        "16:50",
-        "21:00"
+        "14:20",
+        "18:15"
       ]
     },
     {
@@ -58,8 +69,18 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "16:15",
-        "20:45"
+        "14:30",
+        "18:40"
+      ]
+    },
+    {
+      "titre": "Dites-lui que je l’aime",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/42/9f42386f496ca05ea56dda6291423407.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/318222-dites-lui-que-je-laime/",
+      "duree": "1h 32min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "16:10"
       ]
     },
     {
@@ -73,33 +94,13 @@
       ]
     },
     {
-      "titre": "Vie Privée",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9d3503d9ccc1fec7fbdc4bf2934da7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000193-vie-privee/",
-      "duree": "1h 45min",
-      "genre": "Policier, Thriller, Drame",
-      "horaires": [
-        "14:45"
-      ]
-    },
-    {
       "titre": "Zootopie 2",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "18:20"
-      ]
-    },
-    {
-      "titre": "Dossier 137",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f2/64/f2640084cabb11cf1457d43888f43084.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000008860-dossier-137/",
-      "duree": "1h 55min",
-      "genre": "Policier",
-      "horaires": [
-        "18:45"
+        "20:50"
       ]
     },
     {
@@ -109,17 +110,7 @@
       "duree": "1h 38min",
       "genre": "Drame, Historique",
       "horaires": [
-        "14:10"
-      ]
-    },
-    {
-      "titre": "Joyeux Noël",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/90/24/9024059ecb55891e06dd75a16af9ef5d.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/56539-joyeux-noel/",
-      "duree": "1h 55min",
-      "genre": "Drame, Guerre, Historique",
-      "horaires": [
-        "20:30"
+        "16:30"
       ]
     }
   ]
