@@ -6,8 +6,18 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-21",
-  "dateUpdate": "2025-12-21T01:22:36.094Z",
+  "dateUpdate": "2025-12-21T04:02:41.962Z",
   "films": [
+    {
+      "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/73/d4/73d440795e61353ca56b8b061af7c5d5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293331-bob-leponge-le-film-un-pour-tous-tous-pirates/",
+      "duree": "1h 28min",
+      "genre": "Comédie, Famille, Animation, Aventure",
+      "horaires": [
+        "12:00"
+      ]
+    },
     {
       "titre": "Avatar : de Feu et de Cendres",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
@@ -15,7 +25,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "14:00",
+        "10:30",
+        "14:30",
         "20:00"
       ]
     },
@@ -26,8 +37,8 @@
       "duree": "1h 40min",
       "genre": "Documentaire",
       "horaires": [
-        "14:30",
-        "18:50"
+        "12:45",
+        "16:45"
       ]
     },
     {
@@ -37,8 +48,9 @@
       "duree": "1h 38min",
       "genre": "Comédie, Romance, Fantastique",
       "horaires": [
-        "16:40",
-        "20:50"
+        "10:45",
+        "14:45",
+        "21:00"
       ]
     },
     {
@@ -48,7 +60,8 @@
       "duree": "1h 29min",
       "genre": "Comédie",
       "horaires": [
-        "18:30"
+        "14:00",
+        "18:00"
       ]
     },
     {
@@ -58,8 +71,19 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "16:30",
-        "21:00"
+        "10:30",
+        "14:50",
+        "19:10"
+      ]
+    },
+    {
+      "titre": "Dites-lui que je l’aime",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/42/9f42386f496ca05ea56dda6291423407.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/318222-dites-lui-que-je-laime/",
+      "duree": "1h 32min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "20:15"
       ]
     },
     {
@@ -69,7 +93,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Épouvante-horreur",
       "horaires": [
-        "17:35"
+        "21:10"
       ]
     },
     {
@@ -79,7 +103,7 @@
       "duree": "1h 20min",
       "genre": "Famille, Comédie, Animation",
       "horaires": [
-        "14:45"
+        "16:00"
       ]
     },
     {
@@ -89,17 +113,17 @@
       "duree": "0h 40min",
       "genre": "Animation, Famille",
       "horaires": [
-        "17:00"
+        "11:00"
       ]
     },
     {
-      "titre": "Vie Privée",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9d3503d9ccc1fec7fbdc4bf2934da7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000193-vie-privee/",
-      "duree": "1h 45min",
-      "genre": "Policier, Thriller, Drame",
+      "titre": "La Voix de Hind Rajab",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/66/eb/66eb9392595c24a3ca9975d5cd6b9565.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000027854-la-voix-de-hind-rajab/",
+      "duree": "1h 29min",
+      "genre": "Drame",
       "horaires": [
-        "20:30"
+        "18:15"
       ]
     },
     {
@@ -109,8 +133,18 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "14:15",
-        "18:40"
+        "12:30",
+        "17:00"
+      ]
+    },
+    {
+      "titre": "Dossier 137",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f2/64/f2640084cabb11cf1457d43888f43084.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000008860-dossier-137/",
+      "duree": "1h 55min",
+      "genre": "Policier",
+      "horaires": [
+        "18:45"
       ]
     }
   ]
