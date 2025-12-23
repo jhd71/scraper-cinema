@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-23",
-  "dateUpdate": "2025-12-23T01:17:49.625Z",
+  "dateUpdate": "2025-12-23T04:02:23.908Z",
   "films": [
     {
       "titre": "Avatar : de Feu et de Cendres",
@@ -15,8 +15,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "20:00",
-        "14:00"
+        "14:00",
+        "20:00"
       ]
     },
     {
@@ -26,7 +26,18 @@
       "duree": "1h 40min",
       "genre": "Documentaire",
       "horaires": [
-        "20:30"
+        "16:20"
+      ]
+    },
+    {
+      "titre": "L’Âme Idéale",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/57/bb/57bb30ccc7161797311e827e54ef261b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/300387-lame-ideale/",
+      "duree": "1h 38min",
+      "genre": "Comédie, Romance, Fantastique",
+      "horaires": [
+        "14:10",
+        "18:20"
       ]
     },
     {
@@ -36,7 +47,7 @@
       "duree": "1h 29min",
       "genre": "Comédie",
       "horaires": [
-        "14:30",
+        "14:40",
         "18:30"
       ]
     },
@@ -47,8 +58,18 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "16:30",
-        "21:00"
+        "14:30",
+        "18:50"
+      ]
+    },
+    {
+      "titre": "Dites-lui que je l’aime",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/42/9f42386f496ca05ea56dda6291423407.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/318222-dites-lui-que-je-laime/",
+      "duree": "1h 32min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "20:30"
       ]
     },
     {
@@ -68,7 +89,17 @@
       "duree": "1h 20min",
       "genre": "Famille, Comédie, Animation",
       "horaires": [
-        "16:40"
+        "16:45"
+      ]
+    },
+    {
+      "titre": "Vie Privée",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9d3503d9ccc1fec7fbdc4bf2934da7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000193-vie-privee/",
+      "duree": "1h 45min",
+      "genre": "Policier, Thriller, Drame",
+      "horaires": [
+        "20:20"
       ]
     },
     {
@@ -78,39 +109,8 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "14:15",
-        "18:40"
-      ]
-    },
-    {
-      "titre": "Lumière pâle sur les collines",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c3/7d/c37de603a54dc5c3ae195f541be3acca.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009876-lumiere-pale-sur-les-collines/",
-      "duree": "2h 3min",
-      "genre": "Drame",
-      "horaires": [
-        "13:50",
-        "20:50"
-      ]
-    },
-    {
-      "titre": "Berlinguer, la grande ambition",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/44/2a/442a29fa61c8f4c9a79792797478f687.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000011883-berlinguer-la-grande-ambition/",
-      "duree": "2h 2min",
-      "genre": "Biopic, Drame, Historique",
-      "horaires": [
-        "18:35"
-      ]
-    },
-    {
-      "titre": "Nuages flottants",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/1a/71/1a7161c2d9b100af2aaa05b060e14945.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1930-nuages-flottants/",
-      "duree": "2h 4min",
-      "genre": "Drame, Romance",
-      "horaires": [
-        "16:10"
+        "16:35",
+        "21:00"
       ]
     }
   ]
