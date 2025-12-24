@@ -6,8 +6,28 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-24",
-  "dateUpdate": "2025-12-24T01:16:54.778Z",
+  "dateUpdate": "2025-12-24T04:00:01.872Z",
   "films": [
+    {
+      "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/73/d4/73d440795e61353ca56b8b061af7c5d5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293331-bob-leponge-le-film-un-pour-tous-tous-pirates/",
+      "duree": "1h 28min",
+      "genre": "Comédie, Famille, Animation, Aventure",
+      "horaires": [
+        "14:00"
+      ]
+    },
+    {
+      "titre": "La Femme de ménage",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/317403-la-femme-de-menage/",
+      "duree": "Interdit -12 ans",
+      "genre": "Thriller",
+      "horaires": [
+        "16:00"
+      ]
+    },
     {
       "titre": "Avatar : de Feu et de Cendres",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
@@ -15,8 +35,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "14:00",
-        "20:00"
+        "13:50"
       ]
     },
     {
@@ -26,7 +45,7 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "16:20"
+        "13:40"
       ]
     },
     {
@@ -36,19 +55,7 @@
       "duree": "1h 38min",
       "genre": "Comédie, Romance, Fantastique",
       "horaires": [
-        "14:10",
-        "18:20"
-      ]
-    },
-    {
-      "titre": "Animal Totem",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/16/28/16280bc81b9cccc72f377b30d2092da6.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000021492-animal-totem/",
-      "duree": "1h 29min",
-      "genre": "Comédie",
-      "horaires": [
-        "14:40",
-        "18:30"
+        "15:40"
       ]
     },
     {
@@ -58,48 +65,7 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "14:30",
-        "18:50"
-      ]
-    },
-    {
-      "titre": "Dites-lui que je l’aime",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/42/9f42386f496ca05ea56dda6291423407.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318222-dites-lui-que-je-laime/",
-      "duree": "1h 32min",
-      "genre": "Comédie dramatique",
-      "horaires": [
-        "20:30"
-      ]
-    },
-    {
-      "titre": "Five Nights At Freddy's 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/83/b5/83b5868d9264242be16ab460eb7c80ce.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325430-five-nights-at-freddys-2/",
-      "duree": "Interdit -12 ans",
-      "genre": "Épouvante-horreur",
-      "horaires": [
-        "17:35"
-      ]
-    },
-    {
-      "titre": "Panique à Noël",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/19/9f191a2130afb6c28922c480202c7d41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018369-panique-a-noel/",
-      "duree": "1h 20min",
-      "genre": "Famille, Comédie, Animation",
-      "horaires": [
-        "16:45"
-      ]
-    },
-    {
-      "titre": "Vie Privée",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/3a/9d/3a9d3503d9ccc1fec7fbdc4bf2934da7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000193-vie-privee/",
-      "duree": "1h 45min",
-      "genre": "Policier, Thriller, Drame",
-      "horaires": [
-        "20:20"
+        "13:30"
       ]
     },
     {
@@ -109,8 +75,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "16:35",
-        "21:00"
+        "15:30"
       ]
     }
   ]
