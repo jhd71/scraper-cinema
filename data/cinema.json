@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-25",
-  "dateUpdate": "2025-12-25T01:17:50.533Z",
+  "dateUpdate": "2025-12-25T04:02:24.703Z",
   "films": [
     {
       "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
@@ -15,7 +15,7 @@
       "duree": "1h 28min",
       "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
-        "14:00"
+        "18:30"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "16:00"
+        "20:30"
       ]
     },
     {
@@ -35,7 +35,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "13:50"
+        "19:00"
       ]
     },
     {
@@ -45,7 +45,7 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "13:40"
+        "18:40"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "duree": "1h 38min",
       "genre": "Comédie, Romance, Fantastique",
       "horaires": [
-        "15:40"
+        "20:40"
       ]
     },
     {
@@ -65,7 +65,7 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "13:30"
+        "18:20"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "15:30"
+        "20:20"
       ]
     }
   ]
