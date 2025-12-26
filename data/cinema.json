@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-26",
-  "dateUpdate": "2025-12-26T01:18:02.475Z",
+  "dateUpdate": "2025-12-26T04:00:13.010Z",
   "films": [
     {
       "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
@@ -15,7 +15,8 @@
       "duree": "1h 28min",
       "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
-        "18:30"
+        "14:20",
+        "18:50"
       ]
     },
     {
@@ -25,7 +26,8 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "20:30"
+        "16:10",
+        "20:50"
       ]
     },
     {
@@ -35,7 +37,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "19:00"
+        "14:00",
+        "20:00"
       ]
     },
     {
@@ -45,7 +48,8 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "18:40"
+        "14:30",
+        "18:30"
       ]
     },
     {
@@ -55,7 +59,18 @@
       "duree": "1h 38min",
       "genre": "Comédie, Romance, Fantastique",
       "horaires": [
-        "20:40"
+        "16:30",
+        "20:30"
+      ]
+    },
+    {
+      "titre": "À la poursuite du Père Noël !",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/80/b0/80b0a134c0e07bfe730021342ddae005.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019666-a-la-poursuite-du-pere-noel/",
+      "duree": "1h 37min",
+      "genre": "Comédie",
+      "horaires": [
+        "14:10"
       ]
     },
     {
@@ -65,7 +80,18 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "18:20"
+        "17:50",
+        "21:00"
+      ]
+    },
+    {
+      "titre": "Five Nights At Freddy's 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/83/b5/83b5868d9264242be16ab460eb7c80ce.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/325430-five-nights-at-freddys-2/",
+      "duree": "Interdit -12 ans",
+      "genre": "Épouvante-horreur",
+      "horaires": [
+        "18:40"
       ]
     },
     {
@@ -75,7 +101,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "20:20"
+        "16:20"
       ]
     }
   ]
