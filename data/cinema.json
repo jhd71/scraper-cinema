@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-27",
-  "dateUpdate": "2025-12-27T01:16:13.875Z",
+  "dateUpdate": "2025-12-27T03:57:49.062Z",
   "films": [
     {
       "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
@@ -15,8 +15,8 @@
       "duree": "1h 28min",
       "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
-        "14:20",
-        "18:50"
+        "14:30",
+        "18:15"
       ]
     },
     {
@@ -26,8 +26,8 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "16:10",
-        "20:50"
+        "14:20",
+        "20:15"
       ]
     },
     {
@@ -38,7 +38,8 @@
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
         "14:00",
-        "20:00"
+        "20:00",
+        "16:30"
       ]
     },
     {
@@ -48,8 +49,8 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "14:30",
-        "18:30"
+        "16:20",
+        "20:40"
       ]
     },
     {
@@ -59,18 +60,8 @@
       "duree": "1h 38min",
       "genre": "Comédie, Romance, Fantastique",
       "horaires": [
-        "16:30",
-        "20:30"
-      ]
-    },
-    {
-      "titre": "À la poursuite du Père Noël !",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/80/b0/80b0a134c0e07bfe730021342ddae005.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019666-a-la-poursuite-du-pere-noel/",
-      "duree": "1h 37min",
-      "genre": "Comédie",
-      "horaires": [
-        "14:10"
+        "14:10",
+        "18:30"
       ]
     },
     {
@@ -80,18 +71,17 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "17:50",
-        "21:00"
+        "20:30"
       ]
     },
     {
-      "titre": "Five Nights At Freddy's 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/83/b5/83b5868d9264242be16ab460eb7c80ce.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325430-five-nights-at-freddys-2/",
-      "duree": "Interdit -12 ans",
-      "genre": "Épouvante-horreur",
+      "titre": "La Petite fanfare de Noël",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/48/1f/481fc08aa772fbef3dfa015ec35a929e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022216-la-petite-fanfare-de-noel/",
+      "duree": "0h 40min",
+      "genre": "Animation, Famille",
       "horaires": [
-        "18:40"
+        "17:00"
       ]
     },
     {
@@ -101,7 +91,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "16:20"
+        "17:50"
       ]
     }
   ]
