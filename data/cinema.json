@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-28",
-  "dateUpdate": "2025-12-28T01:26:02.741Z",
+  "dateUpdate": "2025-12-28T04:09:33.267Z",
   "films": [
     {
       "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
@@ -15,8 +15,9 @@
       "duree": "1h 28min",
       "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
-        "14:30",
-        "18:15"
+        "10:20",
+        "15:20",
+        "18:20"
       ]
     },
     {
@@ -26,8 +27,8 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "14:20",
-        "20:15"
+        "12:40",
+        "20:20"
       ]
     },
     {
@@ -37,9 +38,9 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "14:00",
+        "10:30",
         "20:00",
-        "16:30"
+        "14:15"
       ]
     },
     {
@@ -49,8 +50,8 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "16:20",
-        "20:40"
+        "14:10",
+        "21:00"
       ]
     },
     {
@@ -60,8 +61,19 @@
       "duree": "1h 38min",
       "genre": "Comédie, Romance, Fantastique",
       "horaires": [
-        "14:10",
-        "18:30"
+        "12:10",
+        "16:10"
+      ]
+    },
+    {
+      "titre": "À la poursuite du Père Noël !",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/80/b0/80b0a134c0e07bfe730021342ddae005.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019666-a-la-poursuite-du-pere-noel/",
+      "duree": "1h 37min",
+      "genre": "Comédie",
+      "horaires": [
+        "10:40",
+        "18:50"
       ]
     },
     {
@@ -71,7 +83,19 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "20:30"
+        "14:40",
+        "18:00",
+        "20:50"
+      ]
+    },
+    {
+      "titre": "Dites-lui que je l’aime",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/42/9f42386f496ca05ea56dda6291423407.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/318222-dites-lui-que-je-laime/",
+      "duree": "1h 32min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "10:15"
       ]
     },
     {
@@ -81,7 +105,7 @@
       "duree": "0h 40min",
       "genre": "Animation, Famille",
       "horaires": [
-        "17:00"
+        "17:15"
       ]
     },
     {
@@ -91,7 +115,18 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "17:50"
+        "12:20",
+        "16:40"
+      ]
+    },
+    {
+      "titre": "Metropolis",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/medias/nmedia/18/35/90/95/19828885.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/240-metropolis/",
+      "duree": "2h 33min",
+      "genre": "Science fiction, Thriller",
+      "horaires": [
+        "18:10"
       ]
     }
   ]
