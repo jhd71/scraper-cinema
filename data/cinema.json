@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-29",
-  "dateUpdate": "2025-12-29T01:23:49.389Z",
+  "dateUpdate": "2025-12-29T04:12:03.740Z",
   "films": [
     {
       "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
@@ -15,9 +15,7 @@
       "duree": "1h 28min",
       "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
-        "10:20",
-        "15:20",
-        "18:20"
+        "18:10"
       ]
     },
     {
@@ -27,8 +25,8 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "12:40",
-        "20:20"
+        "14:20",
+        "20:15"
       ]
     },
     {
@@ -38,42 +36,9 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "10:30",
         "20:00",
-        "14:15"
-      ]
-    },
-    {
-      "titre": "Le Chant des forêts",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
-      "duree": "1h 33min",
-      "genre": "Documentaire",
-      "horaires": [
         "14:10",
-        "21:00"
-      ]
-    },
-    {
-      "titre": "L’Âme Idéale",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/57/bb/57bb30ccc7161797311e827e54ef261b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/300387-lame-ideale/",
-      "duree": "1h 38min",
-      "genre": "Comédie, Romance, Fantastique",
-      "horaires": [
-        "12:10",
-        "16:10"
-      ]
-    },
-    {
-      "titre": "À la poursuite du Père Noël !",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/80/b0/80b0a134c0e07bfe730021342ddae005.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019666-a-la-poursuite-du-pere-noel/",
-      "duree": "1h 37min",
-      "genre": "Comédie",
-      "horaires": [
-        "10:40",
-        "18:50"
+        "16:30"
       ]
     },
     {
@@ -83,19 +48,8 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "14:40",
-        "18:00",
-        "20:50"
-      ]
-    },
-    {
-      "titre": "Dites-lui que je l’aime",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/42/9f42386f496ca05ea56dda6291423407.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318222-dites-lui-que-je-laime/",
-      "duree": "1h 32min",
-      "genre": "Comédie dramatique",
-      "horaires": [
-        "10:15"
+        "17:50",
+        "20:30"
       ]
     },
     {
@@ -105,7 +59,7 @@
       "duree": "0h 40min",
       "genre": "Animation, Famille",
       "horaires": [
-        "17:15"
+        "17:00"
       ]
     },
     {
@@ -115,18 +69,38 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "12:20",
-        "16:40"
+        "14:00"
       ]
     },
     {
-      "titre": "Metropolis",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/medias/nmedia/18/35/90/95/19828885.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/240-metropolis/",
-      "duree": "2h 33min",
-      "genre": "Science fiction, Thriller",
+      "titre": "Lumière pâle sur les collines",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c3/7d/c37de603a54dc5c3ae195f541be3acca.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009876-lumiere-pale-sur-les-collines/",
+      "duree": "2h 3min",
+      "genre": "Drame",
       "horaires": [
-        "18:10"
+        "18:25"
+      ]
+    },
+    {
+      "titre": "Berlinguer, la grande ambition",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/44/2a/442a29fa61c8f4c9a79792797478f687.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000011883-berlinguer-la-grande-ambition/",
+      "duree": "2h 2min",
+      "genre": "Biopic, Drame, Historique",
+      "horaires": [
+        "13:50",
+        "20:50"
+      ]
+    },
+    {
+      "titre": "Joyeux Noël",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/90/24/9024059ecb55891e06dd75a16af9ef5d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/56539-joyeux-noel/",
+      "duree": "1h 55min",
+      "genre": "Drame, Guerre, Historique",
+      "horaires": [
+        "16:10"
       ]
     }
   ]
