@@ -6,8 +6,18 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2025-12-31",
-  "dateUpdate": "2025-12-31T01:19:31.746Z",
+  "dateUpdate": "2025-12-31T04:03:05.335Z",
   "films": [
+    {
+      "titre": "Sur un air de blues",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/46/12/46121ba1562a16d04bd209bbb952cbc9.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013390-sur-un-air-de-blues/",
+      "duree": "2h 13min",
+      "genre": "Drame, Comédie musicale",
+      "horaires": [
+        "15:30"
+      ]
+    },
     {
       "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/73/d4/73d440795e61353ca56b8b061af7c5d5.jpg",
@@ -15,8 +25,7 @@
       "duree": "1h 28min",
       "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
-        "14:20",
-        "18:20"
+        "13:40"
       ]
     },
     {
@@ -26,8 +35,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "13:50",
-        "20:30"
+        "14:00"
       ]
     },
     {
@@ -37,8 +45,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "14:00",
-        "20:00"
+        "13:50"
       ]
     },
     {
@@ -48,60 +55,27 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "16:10",
-        "20:15"
+        "13:30"
       ]
     },
     {
-      "titre": "L’Âme Idéale",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/57/bb/57bb30ccc7161797311e827e54ef261b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/300387-lame-ideale/",
-      "duree": "1h 38min",
-      "genre": "Comédie, Romance, Fantastique",
+      "titre": "Zootopie 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
+      "duree": "1h 48min",
+      "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "14:10",
-        "18:10"
+        "15:40"
       ]
     },
     {
-      "titre": "À la poursuite du Père Noël !",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/80/b0/80b0a134c0e07bfe730021342ddae005.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019666-a-la-poursuite-du-pere-noel/",
-      "duree": "1h 37min",
-      "genre": "Comédie",
+      "titre": "Premières neiges",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ab/8f/ab8f576f5f505c371872ddc6fd7ffea7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031491-premieres-neiges/",
+      "duree": "0h 37min",
+      "genre": "Animation, Famille",
       "horaires": [
-        "20:45"
-      ]
-    },
-    {
-      "titre": "Chasse gardée 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/57/a8/57a8c1e690e543eb1f3db1a21fa5884b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020329-chasse-gardee-2/",
-      "duree": "1h 40min",
-      "genre": "Comédie",
-      "horaires": [
-        "17:50",
-        "18:45"
-      ]
-    },
-    {
-      "titre": "Dites-lui que je l’aime",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/42/9f42386f496ca05ea56dda6291423407.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318222-dites-lui-que-je-laime/",
-      "duree": "1h 32min",
-      "genre": "Comédie dramatique",
-      "horaires": [
-        "16:20"
-      ]
-    },
-    {
-      "titre": "Five Nights At Freddy's 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/83/b5/83b5868d9264242be16ab460eb7c80ce.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325430-five-nights-at-freddys-2/",
-      "duree": "Interdit -12 ans",
-      "genre": "Épouvante-horreur",
-      "horaires": [
-        "16:30"
+        "16:40"
       ]
     }
   ]
