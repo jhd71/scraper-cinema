@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-01",
-  "dateUpdate": "2026-01-01T01:25:53.042Z",
+  "dateUpdate": "2026-01-01T04:12:01.549Z",
   "films": [
     {
       "titre": "Sur un air de blues",
@@ -15,7 +15,7 @@
       "duree": "2h 13min",
       "genre": "Drame, Comédie musicale",
       "horaires": [
-        "15:30"
+        "18:00"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "duree": "1h 28min",
       "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
-        "13:40"
+        "18:30"
       ]
     },
     {
@@ -35,7 +35,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "14:00"
+        "20:20"
       ]
     },
     {
@@ -45,7 +45,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "13:50"
+        "19:00"
       ]
     },
     {
@@ -55,7 +55,17 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "13:30"
+        "20:40"
+      ]
+    },
+    {
+      "titre": "À la poursuite du Père Noël !",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/80/b0/80b0a134c0e07bfe730021342ddae005.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019666-a-la-poursuite-du-pere-noel/",
+      "duree": "1h 37min",
+      "genre": "Comédie",
+      "horaires": [
+        "18:15"
       ]
     },
     {
@@ -65,17 +75,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "15:40"
-      ]
-    },
-    {
-      "titre": "Premières neiges",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ab/8f/ab8f576f5f505c371872ddc6fd7ffea7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031491-premieres-neiges/",
-      "duree": "0h 37min",
-      "genre": "Animation, Famille",
-      "horaires": [
-        "16:40"
+        "20:30"
       ]
     }
   ]
