@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-03",
-  "dateUpdate": "2026-01-03T01:15:11.739Z",
+  "dateUpdate": "2026-01-03T03:57:58.398Z",
   "films": [
     {
       "titre": "Sur un air de blues",
@@ -16,7 +16,7 @@
       "genre": "Drame, Comédie musicale",
       "horaires": [
         "16:10",
-        "21:00"
+        "20:45"
       ]
     },
     {
@@ -26,8 +26,8 @@
       "duree": "1h 28min",
       "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
-        "16:30",
-        "18:10"
+        "16:40",
+        "21:00"
       ]
     },
     {
@@ -37,8 +37,8 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "14:30",
-        "20:40"
+        "14:20",
+        "18:30"
       ]
     },
     {
@@ -48,8 +48,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "20:00",
-        "14:00"
+        "14:00",
+        "20:00"
       ]
     },
     {
@@ -69,7 +69,7 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "14:10"
+        "18:45"
       ]
     },
     {
@@ -79,7 +79,17 @@
       "duree": "1h 37min",
       "genre": "Comédie",
       "horaires": [
-        "18:30"
+        "18:00"
+      ]
+    },
+    {
+      "titre": "Chasse gardée 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/57/a8/57a8c1e690e543eb1f3db1a21fa5884b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020329-chasse-gardee-2/",
+      "duree": "1h 40min",
+      "genre": "Comédie",
+      "horaires": [
+        "14:10"
       ]
     },
     {
@@ -89,7 +99,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "14:20",
+        "14:30",
         "17:45"
       ]
     },
@@ -100,17 +110,7 @@
       "duree": "0h 37min",
       "genre": "Animation, Famille",
       "horaires": [
-        "17:00"
-      ]
-    },
-    {
-      "titre": "La Panthère Rose",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/e5/87/e587c0ff66450c86956ffd861c145fb7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/15189-la-panthere-rose/",
-      "duree": "1h 55min",
-      "genre": "Comédie, Policier",
-      "horaires": [
-        "18:45"
+        "16:50"
       ]
     }
   ]
