@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-05",
-  "dateUpdate": "2026-01-05T01:25:56.539Z",
+  "dateUpdate": "2026-01-05T04:18:38.670Z",
   "films": [
     {
       "titre": "Sur un air de blues",
@@ -15,20 +15,8 @@
       "duree": "2h 13min",
       "genre": "Drame, Comédie musicale",
       "horaires": [
-        "17:15",
-        "21:00"
-      ]
-    },
-    {
-      "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/73/d4/73d440795e61353ca56b8b061af7c5d5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/293331-bob-leponge-le-film-un-pour-tous-tous-pirates/",
-      "duree": "1h 28min",
-      "genre": "Comédie, Famille, Animation, Aventure",
-      "horaires": [
-        "10:30",
-        "14:40",
-        "19:10"
+        "14:00",
+        "17:25"
       ]
     },
     {
@@ -38,8 +26,8 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "16:40",
-        "20:00"
+        "14:15",
+        "18:35"
       ]
     },
     {
@@ -49,9 +37,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "14:20",
-        "10:30",
-        "20:00"
+        "20:00",
+        "13:50"
       ]
     },
     {
@@ -61,8 +48,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Policier, Drame",
       "horaires": [
-        "14:20",
-        "19:45"
+        "19:00"
       ]
     },
     {
@@ -72,28 +58,7 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "10:40"
-      ]
-    },
-    {
-      "titre": "L’Âme Idéale",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/57/bb/57bb30ccc7161797311e827e54ef261b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/300387-lame-ideale/",
-      "duree": "1h 38min",
-      "genre": "Comédie, Romance, Fantastique",
-      "horaires": [
-        "12:00",
-        "16:00"
-      ]
-    },
-    {
-      "titre": "À la poursuite du Père Noël !",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/80/b0/80b0a134c0e07bfe730021342ddae005.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019666-a-la-poursuite-du-pere-noel/",
-      "duree": "1h 37min",
-      "genre": "Comédie",
-      "horaires": [
-        "18:00"
+        "16:15"
       ]
     },
     {
@@ -103,38 +68,39 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "14:00",
-        "18:00"
+        "16:35",
+        "21:00"
       ]
     },
     {
-      "titre": "Dites-lui que je l’aime",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/42/9f42386f496ca05ea56dda6291423407.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318222-dites-lui-que-je-laime/",
-      "duree": "1h 32min",
-      "genre": "Comédie dramatique",
+      "titre": "Deux Procureurs",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/8a/1c/8a1c866712361dcf3ec653d6615cfac3.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/312913-deux-procureurs/",
+      "duree": "1h 58min",
+      "genre": "Drame, Historique",
       "horaires": [
-        "12:30"
+        "18:15"
       ]
     },
     {
-      "titre": "Zootopie 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
-      "duree": "1h 48min",
-      "genre": "Animation, Aventure, Famille, Comédie",
+      "titre": "L'Inconnu De La Grande Arche",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7f/27/7f2716df39b33e8a74e2aa710663ef91.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/325267-linconnu-de-la-grande-arche/",
+      "duree": "1h 46min",
+      "genre": "Drame",
       "horaires": [
-        "12:30"
+        "14:10",
+        "20:40"
       ]
     },
     {
-      "titre": "Premières neiges",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ab/8f/ab8f576f5f505c371872ddc6fd7ffea7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031491-premieres-neiges/",
-      "duree": "0h 37min",
-      "genre": "Animation, Famille",
+      "titre": "La Ruée vers l'or",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/82/fa/82fae46a6d1a382c74dfe48b25205187.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/2260-la-ruee-vers-lor/",
+      "duree": "1h 28min",
+      "genre": "Comédie",
       "horaires": [
-        "11:00"
+        "16:45"
       ]
     }
   ]
