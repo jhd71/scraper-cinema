@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-06",
-  "dateUpdate": "2026-01-06T01:19:21.364Z",
+  "dateUpdate": "2026-01-06T04:04:29.884Z",
   "films": [
     {
       "titre": "Sur un air de blues",
@@ -16,7 +16,17 @@
       "genre": "Drame, Comédie musicale",
       "horaires": [
         "14:00",
-        "17:25"
+        "20:30"
+      ]
+    },
+    {
+      "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/73/d4/73d440795e61353ca56b8b061af7c5d5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293331-bob-leponge-le-film-un-pour-tous-tous-pirates/",
+      "duree": "1h 28min",
+      "genre": "Comédie, Famille, Animation, Aventure",
+      "horaires": [
+        "18:40"
       ]
     },
     {
@@ -26,8 +36,8 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "14:15",
-        "18:35"
+        "16:10",
+        "20:15"
       ]
     },
     {
@@ -37,8 +47,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "20:00",
-        "13:50"
+        "19:30"
       ]
     },
     {
@@ -48,7 +57,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Policier, Drame",
       "horaires": [
-        "19:00"
+        "14:20",
+        "19:30"
       ]
     },
     {
@@ -58,7 +68,18 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "16:15"
+        "17:20"
+      ]
+    },
+    {
+      "titre": "L’Âme Idéale",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/57/bb/57bb30ccc7161797311e827e54ef261b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/300387-lame-ideale/",
+      "duree": "1h 38min",
+      "genre": "Comédie, Romance, Fantastique",
+      "horaires": [
+        "14:00",
+        "18:10"
       ]
     },
     {
@@ -68,39 +89,17 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "16:35",
-        "21:00"
-      ]
-    },
-    {
-      "titre": "Deux Procureurs",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/8a/1c/8a1c866712361dcf3ec653d6615cfac3.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/312913-deux-procureurs/",
-      "duree": "1h 58min",
-      "genre": "Drame, Historique",
-      "horaires": [
-        "18:15"
-      ]
-    },
-    {
-      "titre": "L'Inconnu De La Grande Arche",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7f/27/7f2716df39b33e8a74e2aa710663ef91.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325267-linconnu-de-la-grande-arche/",
-      "duree": "1h 46min",
-      "genre": "Drame",
-      "horaires": [
-        "14:10",
-        "20:40"
-      ]
-    },
-    {
-      "titre": "La Ruée vers l'or",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/82/fa/82fae46a6d1a382c74dfe48b25205187.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/2260-la-ruee-vers-lor/",
-      "duree": "1h 28min",
-      "genre": "Comédie",
-      "horaires": [
         "16:45"
+      ]
+    },
+    {
+      "titre": "Dites-lui que je l’aime",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9f/42/9f42386f496ca05ea56dda6291423407.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/318222-dites-lui-que-je-laime/",
+      "duree": "1h 32min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "16:10"
       ]
     }
   ]
