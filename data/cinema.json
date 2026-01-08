@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-08",
-  "dateUpdate": "2026-01-08T01:20:25.829Z",
+  "dateUpdate": "2026-01-08T04:04:36.158Z",
   "films": [
     {
       "titre": "Father Mother Sister Brother",
@@ -15,8 +15,7 @@
       "duree": "1h 51min",
       "genre": "Comédie, Drame",
       "horaires": [
-        "14:10",
-        "20:20"
+        "16:10"
       ]
     },
     {
@@ -26,7 +25,7 @@
       "duree": "1h 26min",
       "genre": "Documentaire",
       "horaires": [
-        "18:40"
+        "20:30"
       ]
     },
     {
@@ -36,18 +35,7 @@
       "duree": "2h 13min",
       "genre": "Drame, Comédie musicale",
       "horaires": [
-        "16:00",
-        "20:30"
-      ]
-    },
-    {
-      "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/73/d4/73d440795e61353ca56b8b061af7c5d5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/293331-bob-leponge-le-film-un-pour-tous-tous-pirates/",
-      "duree": "1h 28min",
-      "genre": "Comédie, Famille, Animation, Aventure",
-      "horaires": [
-        "17:40"
+        "20:10"
       ]
     },
     {
@@ -57,7 +45,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "20:25"
+        "18:00"
       ]
     },
     {
@@ -67,18 +55,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "14:00",
         "19:30"
-      ]
-    },
-    {
-      "titre": "Heidi et le lynx des montagnes",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/5c/6f/5c6ff17e2295ffa123d81a565bfdca43.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/309533-heidi-et-le-lynx-des-montagnes/",
-      "duree": "1h 19min",
-      "genre": "Animation, Famille, Aventure",
-      "horaires": [
-        "16:30"
       ]
     },
     {
@@ -88,7 +65,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Policier, Drame",
       "horaires": [
-        "17:20"
+        "14:20"
       ]
     },
     {
@@ -98,7 +75,29 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "13:55"
+        "16:10"
+      ]
+    },
+    {
+      "titre": "Rebuilding",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/af/85/af85907b34353df979244b32c075ac01.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017719-rebuilding/",
+      "duree": "1h 35min",
+      "genre": "Drame",
+      "horaires": [
+        "14:20",
+        "18:30"
+      ]
+    },
+    {
+      "titre": "Chasse gardée 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/57/a8/57a8c1e690e543eb1f3db1a21fa5884b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020329-chasse-gardee-2/",
+      "duree": "1h 40min",
+      "genre": "Comédie",
+      "horaires": [
+        "14:00",
+        "18:10"
       ]
     },
     {
@@ -108,27 +107,18 @@
       "duree": "1h 34min",
       "genre": "Documentaire",
       "horaires": [
-        "18:15"
+        "16:20"
       ]
     },
     {
-      "titre": "Zootopie 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
-      "duree": "1h 48min",
-      "genre": "Animation, Aventure, Famille, Comédie",
+      "titre": "La Ruée vers l'or",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/82/fa/82fae46a6d1a382c74dfe48b25205187.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/2260-la-ruee-vers-lor/",
+      "duree": "1h 28min",
+      "genre": "Comédie",
       "horaires": [
-        "13:50"
-      ]
-    },
-    {
-      "titre": "Premières neiges",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ab/8f/ab8f576f5f505c371872ddc6fd7ffea7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031491-premieres-neiges/",
-      "duree": "0h 37min",
-      "genre": "Animation, Famille",
-      "horaires": [
-        "16:10"
+        "14:10",
+        "20:30"
       ]
     }
   ]
