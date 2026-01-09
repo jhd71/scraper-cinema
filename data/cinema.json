@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-09",
-  "dateUpdate": "2026-01-09T01:20:42.366Z",
+  "dateUpdate": "2026-01-09T04:05:04.203Z",
   "films": [
     {
       "titre": "Father Mother Sister Brother",
@@ -15,7 +15,8 @@
       "duree": "1h 51min",
       "genre": "Comédie, Drame",
       "horaires": [
-        "16:10"
+        "16:20",
+        "20:30"
       ]
     },
     {
@@ -25,7 +26,8 @@
       "duree": "1h 26min",
       "genre": "Documentaire",
       "horaires": [
-        "20:30"
+        "14:20",
+        "18:40"
       ]
     },
     {
@@ -35,7 +37,8 @@
       "duree": "2h 13min",
       "genre": "Drame, Comédie musicale",
       "horaires": [
-        "20:10"
+        "16:00",
+        "20:30"
       ]
     },
     {
@@ -45,7 +48,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "18:00"
+        "20:45"
       ]
     },
     {
@@ -55,17 +58,17 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "19:30"
+        "20:00"
       ]
     },
     {
-      "titre": "L'Agent secret",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/d5/da/d5dae089c320b75bf1903cc249165073.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009761-lagent-secret/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Policier, Drame",
+      "titre": "Heidi et le lynx des montagnes",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/5c/6f/5c6ff17e2295ffa123d81a565bfdca43.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/309533-heidi-et-le-lynx-des-montagnes/",
+      "duree": "1h 19min",
+      "genre": "Animation, Famille, Aventure",
       "horaires": [
-        "14:20"
+        "18:40"
       ]
     },
     {
@@ -75,7 +78,7 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "16:10"
+        "14:00"
       ]
     },
     {
@@ -85,8 +88,7 @@
       "duree": "1h 35min",
       "genre": "Drame",
       "horaires": [
-        "14:20",
-        "18:30"
+        "16:30"
       ]
     },
     {
@@ -96,8 +98,7 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "14:00",
-        "18:10"
+        "16:20"
       ]
     },
     {
@@ -107,18 +108,27 @@
       "duree": "1h 34min",
       "genre": "Documentaire",
       "horaires": [
-        "16:20"
+        "14:10"
       ]
     },
     {
-      "titre": "La Ruée vers l'or",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/82/fa/82fae46a6d1a382c74dfe48b25205187.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/2260-la-ruee-vers-lor/",
-      "duree": "1h 28min",
-      "genre": "Comédie",
+      "titre": "Zootopie 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
+      "duree": "1h 48min",
+      "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "14:10",
-        "20:30"
+        "18:30"
+      ]
+    },
+    {
+      "titre": "La Panthère Rose",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/e5/87/e587c0ff66450c86956ffd861c145fb7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/15189-la-panthere-rose/",
+      "duree": "1h 55min",
+      "genre": "Comédie, Policier",
+      "horaires": [
+        "14:00"
       ]
     }
   ]
