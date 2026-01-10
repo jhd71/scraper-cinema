@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-10",
-  "dateUpdate": "2026-01-10T01:17:56.033Z",
+  "dateUpdate": "2026-01-10T03:59:22.810Z",
   "films": [
     {
       "titre": "Father Mother Sister Brother",
@@ -15,19 +15,7 @@
       "duree": "1h 51min",
       "genre": "Comédie, Drame",
       "horaires": [
-        "16:20",
-        "20:30"
-      ]
-    },
-    {
-      "titre": "Tout va bien",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a2/8e/a28ef8844e6996babaf95dbcd4539c37.jpeg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026775-tout-va-bien/",
-      "duree": "1h 26min",
-      "genre": "Documentaire",
-      "horaires": [
-        "14:20",
-        "18:40"
+        "18:00"
       ]
     },
     {
@@ -37,8 +25,18 @@
       "duree": "2h 13min",
       "genre": "Drame, Comédie musicale",
       "horaires": [
-        "16:00",
-        "20:30"
+        "14:10",
+        "20:50"
+      ]
+    },
+    {
+      "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/73/d4/73d440795e61353ca56b8b061af7c5d5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293331-bob-leponge-le-film-un-pour-tous-tous-pirates/",
+      "duree": "1h 28min",
+      "genre": "Comédie, Famille, Animation, Aventure",
+      "horaires": [
+        "17:40"
       ]
     },
     {
@@ -48,7 +46,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "20:45"
+        "18:15"
       ]
     },
     {
@@ -58,7 +56,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "20:00"
+        "20:00",
+        "14:00"
       ]
     },
     {
@@ -68,7 +67,17 @@
       "duree": "1h 19min",
       "genre": "Animation, Famille, Aventure",
       "horaires": [
-        "18:40"
+        "14:30"
+      ]
+    },
+    {
+      "titre": "L'Agent secret",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/d5/da/d5dae089c320b75bf1903cc249165073.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009761-lagent-secret/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Policier, Drame",
+      "horaires": [
+        "20:20"
       ]
     },
     {
@@ -78,7 +87,7 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "14:00"
+        "18:50"
       ]
     },
     {
@@ -88,7 +97,7 @@
       "duree": "1h 35min",
       "genre": "Drame",
       "horaires": [
-        "16:30"
+        "16:50"
       ]
     },
     {
@@ -98,17 +107,7 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "16:20"
-      ]
-    },
-    {
-      "titre": "Elle entend pas la moto",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c7/26/c7262e7413e7bccc80c90c7e6e69759b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026157-elle-entend-pas-la-moto/",
-      "duree": "1h 34min",
-      "genre": "Documentaire",
-      "horaires": [
-        "14:10"
+        "16:10"
       ]
     },
     {
@@ -118,17 +117,18 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "18:30"
+        "14:00",
+        "21:00"
       ]
     },
     {
-      "titre": "La Panthère Rose",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/e5/87/e587c0ff66450c86956ffd861c145fb7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/15189-la-panthere-rose/",
-      "duree": "1h 55min",
-      "genre": "Comédie, Policier",
+      "titre": "Premières neiges",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ab/8f/ab8f576f5f505c371872ddc6fd7ffea7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031491-premieres-neiges/",
+      "duree": "0h 37min",
+      "genre": "Animation, Famille",
       "horaires": [
-        "14:00"
+        "16:20"
       ]
     }
   ]
