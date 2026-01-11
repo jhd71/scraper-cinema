@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-11",
-  "dateUpdate": "2026-01-11T01:26:45.317Z",
+  "dateUpdate": "2026-01-11T04:12:17.770Z",
   "films": [
     {
       "titre": "Father Mother Sister Brother",
@@ -15,7 +15,18 @@
       "duree": "1h 51min",
       "genre": "Comédie, Drame",
       "horaires": [
-        "18:00"
+        "13:45",
+        "20:10"
+      ]
+    },
+    {
+      "titre": "Tout va bien",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a2/8e/a28ef8844e6996babaf95dbcd4539c37.jpeg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026775-tout-va-bien/",
+      "duree": "1h 26min",
+      "genre": "Documentaire",
+      "horaires": [
+        "12:15"
       ]
     },
     {
@@ -25,8 +36,8 @@
       "duree": "2h 13min",
       "genre": "Drame, Comédie musicale",
       "horaires": [
-        "14:10",
-        "20:50"
+        "16:20",
+        "20:55"
       ]
     },
     {
@@ -36,6 +47,7 @@
       "duree": "1h 28min",
       "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
+        "11:00",
         "17:40"
       ]
     },
@@ -46,7 +58,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "18:15"
+        "16:15"
       ]
     },
     {
@@ -56,8 +68,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "20:00",
-        "14:00"
+        "14:00",
+        "19:30"
       ]
     },
     {
@@ -67,7 +79,8 @@
       "duree": "1h 19min",
       "genre": "Animation, Famille, Aventure",
       "horaires": [
-        "14:30"
+        "11:40",
+        "16:20"
       ]
     },
     {
@@ -77,7 +90,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Policier, Drame",
       "horaires": [
-        "20:20"
+        "10:30",
+        "18:50"
       ]
     },
     {
@@ -87,17 +101,8 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "18:50"
-      ]
-    },
-    {
-      "titre": "Rebuilding",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/af/85/af85907b34353df979244b32c075ac01.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017719-rebuilding/",
-      "duree": "1h 35min",
-      "genre": "Drame",
-      "horaires": [
-        "16:50"
+        "10:20",
+        "18:55"
       ]
     },
     {
@@ -107,7 +112,17 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "16:10"
+        "14:10"
+      ]
+    },
+    {
+      "titre": "Elle entend pas la moto",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c7/26/c7262e7413e7bccc80c90c7e6e69759b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026157-elle-entend-pas-la-moto/",
+      "duree": "1h 34min",
+      "genre": "Documentaire",
+      "horaires": [
+        "18:10"
       ]
     },
     {
@@ -117,8 +132,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "14:00",
-        "21:00"
+        "13:45"
       ]
     },
     {
@@ -128,7 +142,7 @@
       "duree": "0h 37min",
       "genre": "Animation, Famille",
       "horaires": [
-        "16:20"
+        "10:30"
       ]
     }
   ]
