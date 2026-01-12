@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-12",
-  "dateUpdate": "2026-01-12T01:23:40.223Z",
+  "dateUpdate": "2026-01-12T04:12:42.042Z",
   "films": [
     {
       "titre": "Father Mother Sister Brother",
@@ -15,8 +15,8 @@
       "duree": "1h 51min",
       "genre": "Comédie, Drame",
       "horaires": [
-        "13:45",
-        "20:10"
+        "16:00",
+        "20:45"
       ]
     },
     {
@@ -26,7 +26,7 @@
       "duree": "1h 26min",
       "genre": "Documentaire",
       "horaires": [
-        "12:15"
+        "14:00"
       ]
     },
     {
@@ -36,19 +36,7 @@
       "duree": "2h 13min",
       "genre": "Drame, Comédie musicale",
       "horaires": [
-        "16:20",
-        "20:55"
-      ]
-    },
-    {
-      "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/73/d4/73d440795e61353ca56b8b061af7c5d5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/293331-bob-leponge-le-film-un-pour-tous-tous-pirates/",
-      "duree": "1h 28min",
-      "genre": "Comédie, Famille, Animation, Aventure",
-      "horaires": [
-        "11:00",
-        "17:40"
+        "18:10"
       ]
     },
     {
@@ -58,7 +46,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "16:15"
+        "20:40"
       ]
     },
     {
@@ -68,19 +56,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "14:00",
         "19:30"
-      ]
-    },
-    {
-      "titre": "Heidi et le lynx des montagnes",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/5c/6f/5c6ff17e2295ffa123d81a565bfdca43.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/309533-heidi-et-le-lynx-des-montagnes/",
-      "duree": "1h 19min",
-      "genre": "Animation, Famille, Aventure",
-      "horaires": [
-        "11:40",
-        "16:20"
       ]
     },
     {
@@ -90,19 +66,17 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Policier, Drame",
       "horaires": [
-        "10:30",
-        "18:50"
+        "17:30"
       ]
     },
     {
-      "titre": "Le Chant des forêts",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
-      "duree": "1h 33min",
-      "genre": "Documentaire",
+      "titre": "Rebuilding",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/af/85/af85907b34353df979244b32c075ac01.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017719-rebuilding/",
+      "duree": "1h 35min",
+      "genre": "Drame",
       "horaires": [
-        "10:20",
-        "18:55"
+        "14:20"
       ]
     },
     {
@@ -122,27 +96,38 @@
       "duree": "1h 34min",
       "genre": "Documentaire",
       "horaires": [
-        "18:10"
+        "16:20"
       ]
     },
     {
-      "titre": "Zootopie 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
-      "duree": "1h 48min",
-      "genre": "Animation, Aventure, Famille, Comédie",
+      "titre": "Deux Procureurs",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/8a/1c/8a1c866712361dcf3ec653d6615cfac3.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/312913-deux-procureurs/",
+      "duree": "1h 58min",
+      "genre": "Drame, Historique",
       "horaires": [
-        "13:45"
+        "14:00",
+        "20:50"
       ]
     },
     {
-      "titre": "Premières neiges",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ab/8f/ab8f576f5f505c371872ddc6fd7ffea7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031491-premieres-neiges/",
-      "duree": "0h 37min",
-      "genre": "Animation, Famille",
+      "titre": "L'Inconnu De La Grande Arche",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7f/27/7f2716df39b33e8a74e2aa710663ef91.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/325267-linconnu-de-la-grande-arche/",
+      "duree": "1h 46min",
+      "genre": "Drame",
       "horaires": [
-        "10:30"
+        "18:40"
+      ]
+    },
+    {
+      "titre": "La Panthère Rose",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/e5/87/e587c0ff66450c86956ffd861c145fb7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/15189-la-panthere-rose/",
+      "duree": "1h 55min",
+      "genre": "Comédie, Policier",
+      "horaires": [
+        "16:20"
       ]
     }
   ]
