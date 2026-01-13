@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-13",
-  "dateUpdate": "2026-01-13T01:16:50.715Z",
+  "dateUpdate": "2026-01-13T04:05:09.224Z",
   "films": [
     {
       "titre": "Father Mother Sister Brother",
@@ -16,7 +16,7 @@
       "genre": "Comédie, Drame",
       "horaires": [
         "16:00",
-        "20:45"
+        "20:20"
       ]
     },
     {
@@ -26,7 +26,7 @@
       "duree": "1h 26min",
       "genre": "Documentaire",
       "horaires": [
-        "14:00"
+        "18:40"
       ]
     },
     {
@@ -36,7 +36,8 @@
       "duree": "2h 13min",
       "genre": "Drame, Comédie musicale",
       "horaires": [
-        "18:10"
+        "20:30",
+        "16:00"
       ]
     },
     {
@@ -66,7 +67,17 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Policier, Drame",
       "horaires": [
-        "17:30"
+        "14:00"
+      ]
+    },
+    {
+      "titre": "Le Chant des forêts",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
+      "duree": "1h 33min",
+      "genre": "Documentaire",
+      "horaires": [
+        "14:00"
       ]
     },
     {
@@ -76,7 +87,8 @@
       "duree": "1h 35min",
       "genre": "Drame",
       "horaires": [
-        "14:20"
+        "14:00",
+        "16:30"
       ]
     },
     {
@@ -86,7 +98,7 @@
       "duree": "1h 40min",
       "genre": "Comédie",
       "horaires": [
-        "14:10"
+        "18:30"
       ]
     },
     {
@@ -96,38 +108,8 @@
       "duree": "1h 34min",
       "genre": "Documentaire",
       "horaires": [
-        "16:20"
-      ]
-    },
-    {
-      "titre": "Deux Procureurs",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/8a/1c/8a1c866712361dcf3ec653d6615cfac3.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/312913-deux-procureurs/",
-      "duree": "1h 58min",
-      "genre": "Drame, Historique",
-      "horaires": [
-        "14:00",
-        "20:50"
-      ]
-    },
-    {
-      "titre": "L'Inconnu De La Grande Arche",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7f/27/7f2716df39b33e8a74e2aa710663ef91.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325267-linconnu-de-la-grande-arche/",
-      "duree": "1h 46min",
-      "genre": "Drame",
-      "horaires": [
-        "18:40"
-      ]
-    },
-    {
-      "titre": "La Panthère Rose",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/e5/87/e587c0ff66450c86956ffd861c145fb7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/15189-la-panthere-rose/",
-      "duree": "1h 55min",
-      "genre": "Comédie, Policier",
-      "horaires": [
-        "16:20"
+        "14:10",
+        "18:20"
       ]
     }
   ]
