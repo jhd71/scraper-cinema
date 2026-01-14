@@ -6,8 +6,51 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-14",
-  "dateUpdate": "2026-01-14T01:22:52.167Z",
+  "dateUpdate": "2026-01-14T04:10:50.446Z",
   "films": [
+    {
+      "titre": "Furcy, né libre",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/292718-furcy-ne-libre/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Historique, Drame, Judiciaire, Biopic",
+      "horaires": [
+        "14:00",
+        "18:30"
+      ]
+    },
+    {
+      "titre": "Greenland Migration",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/04/87/0487dbff63a133bc848509d562273652.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293629-greenland-migration/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Thriller, Action",
+      "horaires": [
+        "14:00",
+        "20:40"
+      ]
+    },
+    {
+      "titre": "La Traviata (The Royal Opera)",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/bd/61/bd61f1a45cc5295af0b3be1a5b51b2f2.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022518-la-traviata-the-royal-opera/",
+      "duree": "3h 0min",
+      "genre": "Opéra",
+      "horaires": [
+        "19:45"
+      ]
+    },
+    {
+      "titre": "L’Affaire Bojarski",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014092-laffaire-bojarski/",
+      "duree": "2h 8min",
+      "genre": "Drame",
+      "horaires": [
+        "13:45",
+        "20:30"
+      ]
+    },
     {
       "titre": "Father Mother Sister Brother",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/18/de/18decda3afef9ae047694aac0d89c169.jpg",
@@ -15,8 +58,7 @@
       "duree": "1h 51min",
       "genre": "Comédie, Drame",
       "horaires": [
-        "16:00",
-        "20:20"
+        "16:15"
       ]
     },
     {
@@ -26,17 +68,16 @@
       "duree": "1h 26min",
       "genre": "Documentaire",
       "horaires": [
-        "18:40"
+        "17:50"
       ]
     },
     {
-      "titre": "Sur un air de blues",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/bf/23/bf238684c15647fe1420a11916a9b63f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013390-sur-un-air-de-blues/",
-      "duree": "2h 13min",
-      "genre": "Drame, Comédie musicale",
+      "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/73/d4/73d440795e61353ca56b8b061af7c5d5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293331-bob-leponge-le-film-un-pour-tous-tous-pirates/",
+      "duree": "1h 28min",
+      "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
-        "20:30",
         "16:00"
       ]
     },
@@ -47,7 +88,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "20:40"
+        "18:00"
       ]
     },
     {
@@ -57,27 +98,17 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "19:30"
+        "16:30"
       ]
     },
     {
-      "titre": "L'Agent secret",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/d5/da/d5dae089c320b75bf1903cc249165073.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009761-lagent-secret/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Policier, Drame",
+      "titre": "Heidi et le lynx des montagnes",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/5c/6f/5c6ff17e2295ffa123d81a565bfdca43.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/309533-heidi-et-le-lynx-des-montagnes/",
+      "duree": "1h 19min",
+      "genre": "Animation, Famille, Aventure",
       "horaires": [
-        "14:00"
-      ]
-    },
-    {
-      "titre": "Le Chant des forêts",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
-      "duree": "1h 33min",
-      "genre": "Documentaire",
-      "horaires": [
-        "14:00"
+        "16:15"
       ]
     },
     {
@@ -87,29 +118,17 @@
       "duree": "1h 35min",
       "genre": "Drame",
       "horaires": [
-        "14:00",
-        "16:30"
+        "20:50"
       ]
     },
     {
-      "titre": "Chasse gardée 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/57/a8/57a8c1e690e543eb1f3db1a21fa5884b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020329-chasse-gardee-2/",
-      "duree": "1h 40min",
-      "genre": "Comédie",
+      "titre": "Zootopie 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
+      "duree": "1h 48min",
+      "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "18:30"
-      ]
-    },
-    {
-      "titre": "Elle entend pas la moto",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c7/26/c7262e7413e7bccc80c90c7e6e69759b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026157-elle-entend-pas-la-moto/",
-      "duree": "1h 34min",
-      "genre": "Documentaire",
-      "horaires": [
-        "14:10",
-        "18:20"
+        "14:10"
       ]
     }
   ]
