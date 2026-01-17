@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-17",
-  "dateUpdate": "2026-01-17T01:17:27.414Z",
+  "dateUpdate": "2026-01-17T03:57:46.765Z",
   "films": [
     {
       "titre": "Furcy, né libre",
@@ -15,7 +15,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame, Judiciaire, Biopic",
       "horaires": [
-        "16:10",
+        "16:00",
         "20:30"
       ]
     },
@@ -26,8 +26,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Action",
       "horaires": [
-        "18:50",
-        "20:40"
+        "16:40",
+        "20:55"
       ]
     },
     {
@@ -37,7 +37,8 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "20:30"
+        "14:00",
+        "20:20"
       ]
     },
     {
@@ -47,8 +48,7 @@
       "duree": "1h 51min",
       "genre": "Comédie, Drame",
       "horaires": [
-        "14:00",
-        "18:20"
+        "18:10"
       ]
     },
     {
@@ -58,17 +58,17 @@
       "duree": "1h 26min",
       "genre": "Documentaire",
       "horaires": [
-        "14:10"
+        "18:40"
       ]
     },
     {
-      "titre": "Sur un air de blues",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/bf/23/bf238684c15647fe1420a11916a9b63f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013390-sur-un-air-de-blues/",
-      "duree": "2h 13min",
-      "genre": "Drame, Comédie musicale",
+      "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/73/d4/73d440795e61353ca56b8b061af7c5d5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293331-bob-leponge-le-film-un-pour-tous-tous-pirates/",
+      "duree": "1h 28min",
+      "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
-        "16:15"
+        "14:30"
       ]
     },
     {
@@ -78,38 +78,48 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "13:45",
-        "20:55"
+        "20:45"
       ]
     },
     {
-      "titre": "L'Agent secret",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/d5/da/d5dae089c320b75bf1903cc249165073.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009761-lagent-secret/",
+      "titre": "Avatar : de Feu et de Cendres",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/187247-avatar-de-feu-et-de-cendres/",
       "duree": "Tous publics avec avertissement",
-      "genre": "Policier, Drame",
+      "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
         "16:30"
       ]
     },
     {
-      "titre": "Rebuilding",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/af/85/af85907b34353df979244b32c075ac01.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017719-rebuilding/",
-      "duree": "1h 35min",
-      "genre": "Drame",
+      "titre": "Heidi et le lynx des montagnes",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/5c/6f/5c6ff17e2295ffa123d81a565bfdca43.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/309533-heidi-et-le-lynx-des-montagnes/",
+      "duree": "1h 19min",
+      "genre": "Animation, Famille, Aventure",
       "horaires": [
-        "16:00"
+        "16:30"
       ]
     },
     {
-      "titre": "Le Dernier des Mohicans",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f6/83/f683c957f8d55be3c27f38c9424cdedb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/7653-le-dernier-des-mohicans/",
-      "duree": "1h 54min",
-      "genre": "Aventure, Action, Romance",
+      "titre": "Le Chant des forêts",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
+      "duree": "1h 33min",
+      "genre": "Documentaire",
       "horaires": [
-        "18:00"
+        "14:00",
+        "18:10"
+      ]
+    },
+    {
+      "titre": "Zootopie 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
+      "duree": "1h 48min",
+      "genre": "Animation, Aventure, Famille, Comédie",
+      "horaires": [
+        "14:10"
       ]
     }
   ]
