@@ -6,8 +6,18 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-18",
-  "dateUpdate": "2026-01-18T01:25:53.662Z",
+  "dateUpdate": "2026-01-18T04:07:40.209Z",
   "films": [
+    {
+      "titre": "Le Mage du Kremlin",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005026-le-mage-du-kremlin/",
+      "duree": "2h 25min",
+      "genre": "Thriller",
+      "horaires": [
+        "16:30"
+      ]
+    },
     {
       "titre": "Furcy, né libre",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
@@ -15,8 +25,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame, Judiciaire, Biopic",
       "horaires": [
-        "16:00",
-        "20:30"
+        "12:15",
+        "16:45"
       ]
     },
     {
@@ -26,8 +36,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Action",
       "horaires": [
-        "16:40",
-        "20:55"
+        "10:20",
+        "16:20"
       ]
     },
     {
@@ -38,7 +48,7 @@
       "genre": "Drame",
       "horaires": [
         "14:00",
-        "20:20"
+        "18:20"
       ]
     },
     {
@@ -48,7 +58,8 @@
       "duree": "1h 51min",
       "genre": "Comédie, Drame",
       "horaires": [
-        "18:10"
+        "14:30",
+        "20:50"
       ]
     },
     {
@@ -58,7 +69,17 @@
       "duree": "1h 26min",
       "genre": "Documentaire",
       "horaires": [
-        "18:40"
+        "12:10"
+      ]
+    },
+    {
+      "titre": "Sur un air de blues",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/bf/23/bf238684c15647fe1420a11916a9b63f.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013390-sur-un-air-de-blues/",
+      "duree": "2h 13min",
+      "genre": "Drame, Comédie musicale",
+      "horaires": [
+        "20:30"
       ]
     },
     {
@@ -68,7 +89,7 @@
       "duree": "1h 28min",
       "genre": "Comédie, Famille, Animation, Aventure",
       "horaires": [
-        "14:30"
+        "12:20"
       ]
     },
     {
@@ -78,7 +99,8 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "20:45"
+        "14:10",
+        "20:50"
       ]
     },
     {
@@ -88,7 +110,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "16:30"
+        "16:50",
+        "10:30"
       ]
     },
     {
@@ -98,7 +121,7 @@
       "duree": "1h 19min",
       "genre": "Animation, Famille, Aventure",
       "horaires": [
-        "16:30"
+        "10:30"
       ]
     },
     {
@@ -108,8 +131,18 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "14:00",
-        "18:10"
+        "10:20",
+        "18:55"
+      ]
+    },
+    {
+      "titre": "Rebuilding",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/af/85/af85907b34353df979244b32c075ac01.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017719-rebuilding/",
+      "duree": "1h 35min",
+      "genre": "Drame",
+      "horaires": [
+        "20:40"
       ]
     },
     {
@@ -120,6 +153,16 @@
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
         "14:10"
+      ]
+    },
+    {
+      "titre": "Allier et Saône-et-Loire, la ligne de démarcation",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/4e/68/4e68640e6997487f5733ffae8a714477.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024241-allier-et-saone-et-loire-la-ligne-de-demarcation/",
+      "duree": "0h 53min",
+      "genre": "Documentaire",
+      "horaires": [
+        "19:10"
       ]
     }
   ]
