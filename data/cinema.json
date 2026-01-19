@@ -6,18 +6,8 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-19",
-  "dateUpdate": "2026-01-19T01:24:17.895Z",
+  "dateUpdate": "2026-01-19T04:13:46.365Z",
   "films": [
-    {
-      "titre": "Le Mage du Kremlin",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005026-le-mage-du-kremlin/",
-      "duree": "2h 25min",
-      "genre": "Thriller",
-      "horaires": [
-        "16:30"
-      ]
-    },
     {
       "titre": "Furcy, né libre",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
@@ -25,8 +15,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame, Judiciaire, Biopic",
       "horaires": [
-        "12:15",
-        "16:45"
+        "16:15"
       ]
     },
     {
@@ -36,8 +25,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Action",
       "horaires": [
-        "10:20",
-        "16:20"
+        "20:50"
       ]
     },
     {
@@ -47,7 +35,6 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "14:00",
         "18:20"
       ]
     },
@@ -58,8 +45,8 @@
       "duree": "1h 51min",
       "genre": "Comédie, Drame",
       "horaires": [
-        "14:30",
-        "20:50"
+        "14:00",
+        "20:30"
       ]
     },
     {
@@ -69,27 +56,7 @@
       "duree": "1h 26min",
       "genre": "Documentaire",
       "horaires": [
-        "12:10"
-      ]
-    },
-    {
-      "titre": "Sur un air de blues",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/bf/23/bf238684c15647fe1420a11916a9b63f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013390-sur-un-air-de-blues/",
-      "duree": "2h 13min",
-      "genre": "Drame, Comédie musicale",
-      "horaires": [
-        "20:30"
-      ]
-    },
-    {
-      "titre": "Bob l'éponge - Le film : un pour tous, tous pirates !",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/73/d4/73d440795e61353ca56b8b061af7c5d5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/293331-bob-leponge-le-film-un-pour-tous-tous-pirates/",
-      "duree": "1h 28min",
-      "genre": "Comédie, Famille, Animation, Aventure",
-      "horaires": [
-        "12:20"
+        "14:00"
       ]
     },
     {
@@ -99,8 +66,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "14:10",
-        "20:50"
+        "15:45"
       ]
     },
     {
@@ -110,18 +76,17 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "16:50",
-        "10:30"
+        "14:00"
       ]
     },
     {
-      "titre": "Heidi et le lynx des montagnes",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/5c/6f/5c6ff17e2295ffa123d81a565bfdca43.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/309533-heidi-et-le-lynx-des-montagnes/",
-      "duree": "1h 19min",
-      "genre": "Animation, Famille, Aventure",
+      "titre": "L'Agent secret",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/d5/da/d5dae089c320b75bf1903cc249165073.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009761-lagent-secret/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Policier, Drame",
       "horaires": [
-        "10:30"
+        "17:40"
       ]
     },
     {
@@ -131,8 +96,7 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "10:20",
-        "18:55"
+        "18:30"
       ]
     },
     {
@@ -142,27 +106,38 @@
       "duree": "1h 35min",
       "genre": "Drame",
       "horaires": [
+        "20:45"
+      ]
+    },
+    {
+      "titre": "Les Aigles de la République",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/01/5a/015a75a202c0364db184f172822c507e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/324956-les-aigles-de-la-republique/",
+      "duree": "2h 9min",
+      "genre": "Drame, Thriller",
+      "horaires": [
+        "18:10"
+      ]
+    },
+    {
+      "titre": "On vous croit",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/b3/a5/b3a524d1470012f0ba889864b2f301db.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/325519-on-vous-croit/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Drame",
+      "horaires": [
+        "14:10",
         "20:40"
       ]
     },
     {
-      "titre": "Zootopie 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
-      "duree": "1h 48min",
-      "genre": "Animation, Aventure, Famille, Comédie",
+      "titre": "Quadrille",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/93/12/9312cd14ecf1fb9b48f6bb7c2a85a6bb.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/6780-quadrille/",
+      "duree": "1h 49min",
+      "genre": "Comédie dramatique",
       "horaires": [
-        "14:10"
-      ]
-    },
-    {
-      "titre": "Allier et Saône-et-Loire, la ligne de démarcation",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/4e/68/4e68640e6997487f5733ffae8a714477.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024241-allier-et-saone-et-loire-la-ligne-de-demarcation/",
-      "duree": "0h 53min",
-      "genre": "Documentaire",
-      "horaires": [
-        "19:10"
+        "16:00"
       ]
     }
   ]
