@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-20",
-  "dateUpdate": "2026-01-20T01:19:41.174Z",
+  "dateUpdate": "2026-01-20T04:09:16.594Z",
   "films": [
     {
       "titre": "Furcy, né libre",
@@ -15,7 +15,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame, Judiciaire, Biopic",
       "horaires": [
-        "16:15"
+        "16:10",
+        "20:30"
       ]
     },
     {
@@ -25,7 +26,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Action",
       "horaires": [
-        "20:50"
+        "16:20",
+        "20:55"
       ]
     },
     {
@@ -35,7 +37,8 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "18:20"
+        "16:00",
+        "20:20"
       ]
     },
     {
@@ -46,7 +49,7 @@
       "genre": "Comédie, Drame",
       "horaires": [
         "14:00",
-        "20:30"
+        "18:20"
       ]
     },
     {
@@ -66,7 +69,8 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "15:45"
+        "13:45",
+        "18:20"
       ]
     },
     {
@@ -76,7 +80,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "14:00"
+        "19:30"
       ]
     },
     {
@@ -86,17 +90,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Policier, Drame",
       "horaires": [
-        "17:40"
-      ]
-    },
-    {
-      "titre": "Le Chant des forêts",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
-      "duree": "1h 33min",
-      "genre": "Documentaire",
-      "horaires": [
-        "18:30"
+        "14:00"
       ]
     },
     {
@@ -106,38 +100,17 @@
       "duree": "1h 35min",
       "genre": "Drame",
       "horaires": [
-        "20:45"
+        "17:30"
       ]
     },
     {
-      "titre": "Les Aigles de la République",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/01/5a/015a75a202c0364db184f172822c507e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/324956-les-aigles-de-la-republique/",
-      "duree": "2h 9min",
-      "genre": "Drame, Thriller",
+      "titre": "Allier et Saône-et-Loire, la ligne de démarcation",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/4e/68/4e68640e6997487f5733ffae8a714477.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024241-allier-et-saone-et-loire-la-ligne-de-demarcation/",
+      "duree": "0h 53min",
+      "genre": "Documentaire",
       "horaires": [
-        "18:10"
-      ]
-    },
-    {
-      "titre": "On vous croit",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/b3/a5/b3a524d1470012f0ba889864b2f301db.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325519-on-vous-croit/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Drame",
-      "horaires": [
-        "14:10",
-        "20:40"
-      ]
-    },
-    {
-      "titre": "Quadrille",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/93/12/9312cd14ecf1fb9b48f6bb7c2a85a6bb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/6780-quadrille/",
-      "duree": "1h 49min",
-      "genre": "Comédie dramatique",
-      "horaires": [
-        "16:00"
+        "18:30"
       ]
     }
   ]
