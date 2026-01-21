@@ -6,8 +6,39 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-21",
-  "dateUpdate": "2026-01-21T01:22:20.931Z",
+  "dateUpdate": "2026-01-21T04:08:05.533Z",
   "films": [
+    {
+      "titre": "Baise-en-ville",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/8e/a5/8ea5ebba183c85d8c42b36a96b66d517.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004512-baise-en-ville/",
+      "duree": "1h 34min",
+      "genre": "Comédie",
+      "horaires": [
+        "20:30"
+      ]
+    },
+    {
+      "titre": "Le Mage du Kremlin",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005026-le-mage-du-kremlin/",
+      "duree": "2h 25min",
+      "genre": "Thriller",
+      "horaires": [
+        "13:45",
+        "18:00"
+      ]
+    },
+    {
+      "titre": "Olivia",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/302424-olivia/",
+      "duree": "1h 11min",
+      "genre": "Animation",
+      "horaires": [
+        "16:30"
+      ]
+    },
     {
       "titre": "Furcy, né libre",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
@@ -15,8 +46,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame, Judiciaire, Biopic",
       "horaires": [
-        "16:10",
-        "20:30"
+        "20:50"
       ]
     },
     {
@@ -26,8 +56,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Action",
       "horaires": [
-        "16:20",
-        "20:55"
+        "14:00",
+        "20:50"
       ]
     },
     {
@@ -37,29 +67,8 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "16:00",
-        "20:20"
-      ]
-    },
-    {
-      "titre": "Father Mother Sister Brother",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/18/de/18decda3afef9ae047694aac0d89c169.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/326117-father-mother-sister-brother/",
-      "duree": "1h 51min",
-      "genre": "Comédie, Drame",
-      "horaires": [
         "14:00",
         "18:20"
-      ]
-    },
-    {
-      "titre": "Tout va bien",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a2/8e/a28ef8844e6996babaf95dbcd4539c37.jpeg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026775-tout-va-bien/",
-      "duree": "1h 26min",
-      "genre": "Documentaire",
-      "horaires": [
-        "14:00"
       ]
     },
     {
@@ -69,8 +78,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "13:45",
-        "18:20"
+        "20:20"
       ]
     },
     {
@@ -80,37 +88,47 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "19:30"
+        "16:00"
       ]
     },
     {
-      "titre": "L'Agent secret",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/d5/da/d5dae089c320b75bf1903cc249165073.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009761-lagent-secret/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Policier, Drame",
-      "horaires": [
-        "14:00"
-      ]
-    },
-    {
-      "titre": "Rebuilding",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/af/85/af85907b34353df979244b32c075ac01.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017719-rebuilding/",
-      "duree": "1h 35min",
-      "genre": "Drame",
-      "horaires": [
-        "17:30"
-      ]
-    },
-    {
-      "titre": "Allier et Saône-et-Loire, la ligne de démarcation",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/4e/68/4e68640e6997487f5733ffae8a714477.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024241-allier-et-saone-et-loire-la-ligne-de-demarcation/",
-      "duree": "0h 53min",
+      "titre": "Le Chant des forêts",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
+      "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "18:30"
+        "16:30"
+      ]
+    },
+    {
+      "titre": "La Petite Dernière",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a8/ac/a8ac62466d0cbbbc64418e4f32e65b4b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/303094-la-petite-derniere/",
+      "duree": "1h 53min",
+      "genre": "Drame",
+      "horaires": [
+        "13:50"
+      ]
+    },
+    {
+      "titre": "Un simple accident",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/21/ff/21fff6cefbc8a6359297f3c7eb1bf212.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022814-un-simple-accident/",
+      "duree": "1h 44min",
+      "genre": "Drame",
+      "horaires": [
+        "16:05"
+      ]
+    },
+    {
+      "titre": "Sirāt",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/1b/d9/1bd90040e500db4e76661dcc27d0f593.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/317783-sirat/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Drame",
+      "horaires": [
+        "18:10"
       ]
     }
   ]
