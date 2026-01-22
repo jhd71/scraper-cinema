@@ -6,16 +6,16 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-22",
-  "dateUpdate": "2026-01-22T01:22:29.817Z",
+  "dateUpdate": "2026-01-22T04:11:05.395Z",
   "films": [
     {
-      "titre": "Baise-en-ville",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/8e/a5/8ea5ebba183c85d8c42b36a96b66d517.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004512-baise-en-ville/",
-      "duree": "1h 34min",
-      "genre": "Comédie",
+      "titre": "The Mastermind",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9b/e7/9be71377d6e8e664aa6225ee84a1daf5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012006-the-mastermind/",
+      "duree": "1h 50min",
+      "genre": "Drame, Policier",
       "horaires": [
-        "20:30"
+        "20:00"
       ]
     },
     {
@@ -25,18 +25,7 @@
       "duree": "2h 25min",
       "genre": "Thriller",
       "horaires": [
-        "13:45",
-        "18:00"
-      ]
-    },
-    {
-      "titre": "Olivia",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/302424-olivia/",
-      "duree": "1h 11min",
-      "genre": "Animation",
-      "horaires": [
-        "16:30"
+        "16:00"
       ]
     },
     {
@@ -46,7 +35,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame, Judiciaire, Biopic",
       "horaires": [
-        "20:50"
+        "13:55",
+        "18:40"
       ]
     },
     {
@@ -56,8 +46,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Action",
       "horaires": [
-        "14:00",
-        "20:50"
+        "20:40"
       ]
     },
     {
@@ -67,8 +56,17 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "14:00",
-        "18:20"
+        "14:00"
+      ]
+    },
+    {
+      "titre": "Sur un air de blues",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/bf/23/bf238684c15647fe1420a11916a9b63f.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013390-sur-un-air-de-blues/",
+      "duree": "2h 13min",
+      "genre": "Drame, Comédie musicale",
+      "horaires": [
+        "14:20"
       ]
     },
     {
@@ -82,16 +80,6 @@
       ]
     },
     {
-      "titre": "Avatar : de Feu et de Cendres",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/187247-avatar-de-feu-et-de-cendres/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Science fiction, Aventure, Action, Fantastique",
-      "horaires": [
-        "16:00"
-      ]
-    },
-    {
       "titre": "Le Chant des forêts",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
@@ -102,33 +90,53 @@
       ]
     },
     {
-      "titre": "La Petite Dernière",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a8/ac/a8ac62466d0cbbbc64418e4f32e65b4b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/303094-la-petite-derniere/",
-      "duree": "1h 53min",
+      "titre": "Valeur sentimentale",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/99/b1/99b101006553223982d79f39868c79fa.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/298726-valeur-sentimentale/",
+      "duree": "2h 13min",
       "genre": "Drame",
       "horaires": [
-        "13:50"
+        "14:30"
       ]
     },
     {
-      "titre": "Un simple accident",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/21/ff/21fff6cefbc8a6359297f3c7eb1bf212.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022814-un-simple-accident/",
-      "duree": "1h 44min",
+      "titre": "Black Dog",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/99/6c/996ca51e260f2071f314f5fa150611e1.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000974-black-dog/",
+      "duree": "1h 50min",
       "genre": "Drame",
       "horaires": [
-        "16:05"
+        "17:30"
       ]
     },
     {
-      "titre": "Sirāt",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/1b/d9/1bd90040e500db4e76661dcc27d0f593.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317783-sirat/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Drame",
+      "titre": "Je suis toujours là",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f1/a8/f1a878b912b2e9a130fc3263e521b0a2.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/265940-je-suis-toujours-la/",
+      "duree": "2h 15min",
+      "genre": "Drame, Thriller",
       "horaires": [
-        "18:10"
+        "18:00"
+      ]
+    },
+    {
+      "titre": "Quadrille",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/93/12/9312cd14ecf1fb9b48f6bb7c2a85a6bb.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/6780-quadrille/",
+      "duree": "1h 49min",
+      "genre": "Comédie dramatique",
+      "horaires": [
+        "20:45"
+      ]
+    },
+    {
+      "titre": "Allier et Saône-et-Loire, la ligne de démarcation",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/4e/68/4e68640e6997487f5733ffae8a714477.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024241-allier-et-saone-et-loire-la-ligne-de-demarcation/",
+      "duree": "0h 53min",
+      "genre": "Documentaire",
+      "horaires": [
+        "18:30"
       ]
     }
   ]
