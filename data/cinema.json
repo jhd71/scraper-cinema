@@ -6,16 +6,26 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-24",
-  "dateUpdate": "2026-01-24T01:18:34.969Z",
+  "dateUpdate": "2026-01-24T04:01:41.240Z",
   "films": [
     {
-      "titre": "Promis le ciel",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/72/ba/72baef9032ae95ac8cf9be07f0cde8fe.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006454-promis-le-ciel/",
-      "duree": "1h 32min",
+      "titre": "Urchin",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/e7/82/e782432beca8a04cea3b2dc66459c4a5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019912-urchin/",
+      "duree": "Tous publics avec avertissement",
       "genre": "Drame",
       "horaires": [
-        "20:30"
+        "20:00"
+      ]
+    },
+    {
+      "titre": "La Vie après Siham",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/38/18/38181f1fe67de6a511e5a075587f98a6.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023001-la-vie-apres-siham/",
+      "duree": "1h 16min",
+      "genre": "Documentaire",
+      "horaires": [
+        "17:00"
       ]
     },
     {
@@ -25,8 +35,8 @@
       "duree": "2h 25min",
       "genre": "Thriller",
       "horaires": [
-        "16:00",
-        "20:15"
+        "13:50",
+        "20:20"
       ]
     },
     {
@@ -36,7 +46,7 @@
       "duree": "1h 11min",
       "genre": "Animation",
       "horaires": [
-        "18:45"
+        "16:40"
       ]
     },
     {
@@ -46,8 +56,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame, Judiciaire, Biopic",
       "horaires": [
-        "13:55",
-        "16:10"
+        "13:50",
+        "18:10"
       ]
     },
     {
@@ -57,7 +67,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Action",
       "horaires": [
-        "18:55",
+        "14:00",
         "20:55"
       ]
     },
@@ -68,18 +78,7 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "13:45",
-        "18:20"
-      ]
-    },
-    {
-      "titre": "Sur un air de blues",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/bf/23/bf238684c15647fe1420a11916a9b63f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013390-sur-un-air-de-blues/",
-      "duree": "2h 13min",
-      "genre": "Drame, Comédie musicale",
-      "horaires": [
-        "13:55"
+        "20:45"
       ]
     },
     {
@@ -89,47 +88,47 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "20:45"
-      ]
-    },
-    {
-      "titre": "La Petite Dernière",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a8/ac/a8ac62466d0cbbbc64418e4f32e65b4b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/303094-la-petite-derniere/",
-      "duree": "1h 53min",
-      "genre": "Drame",
-      "horaires": [
         "18:10"
       ]
     },
     {
-      "titre": "Nouvelle Vague",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/46/38/46383415873af63e1cf2ece6098b21c8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/323491-nouvelle-vague/",
-      "duree": "1h 46min",
-      "genre": "Biopic, Comédie, Drame",
+      "titre": "Avatar : de Feu et de Cendres",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/187247-avatar-de-feu-et-de-cendres/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "16:05"
+        "17:15"
       ]
     },
     {
-      "titre": "Sirāt",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/1b/d9/1bd90040e500db4e76661dcc27d0f593.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317783-sirat/",
-      "duree": "Tous publics avec avertissement",
+      "titre": "Zootopie 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
+      "duree": "1h 48min",
+      "genre": "Animation, Aventure, Famille, Comédie",
+      "horaires": [
+        "16:00"
+      ]
+    },
+    {
+      "titre": "Black Dog",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/99/6c/996ca51e260f2071f314f5fa150611e1.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000974-black-dog/",
+      "duree": "1h 50min",
       "genre": "Drame",
       "horaires": [
-        "13:50"
+        "14:30"
       ]
     },
     {
-      "titre": "Je suis toujours là",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f1/a8/f1a878b912b2e9a130fc3263e521b0a2.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/265940-je-suis-toujours-la/",
-      "duree": "2h 15min",
-      "genre": "Drame, Thriller",
+      "titre": "Allier et Saône-et-Loire, la ligne de démarcation",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/4e/68/4e68640e6997487f5733ffae8a714477.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024241-allier-et-saone-et-loire-la-ligne-de-demarcation/",
+      "duree": "0h 53min",
+      "genre": "Documentaire",
       "horaires": [
-        "16:20"
+        "16:00"
       ]
     }
   ]
