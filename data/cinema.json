@@ -6,26 +6,26 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-25",
-  "dateUpdate": "2026-01-25T01:27:33.384Z",
+  "dateUpdate": "2026-01-25T04:16:03.007Z",
   "films": [
     {
-      "titre": "Urchin",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/e7/82/e782432beca8a04cea3b2dc66459c4a5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019912-urchin/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Drame",
+      "titre": "À pied d'œuvre",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a3/e1/a3e1ce65375168ab8784cfafdbef8493.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017997-a-pied-doeuvre/",
+      "duree": "1h 32min",
+      "genre": "Comédie dramatique",
       "horaires": [
-        "20:00"
+        "16:00"
       ]
     },
     {
-      "titre": "La Vie après Siham",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/38/18/38181f1fe67de6a511e5a075587f98a6.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023001-la-vie-apres-siham/",
-      "duree": "1h 16min",
-      "genre": "Documentaire",
+      "titre": "Marsupilami",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/317669-marsupilami/",
+      "duree": "1h 39min",
+      "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "17:00"
+        "15:30"
       ]
     },
     {
@@ -35,8 +35,8 @@
       "duree": "2h 25min",
       "genre": "Thriller",
       "horaires": [
-        "13:50",
-        "20:20"
+        "14:00",
+        "18:15"
       ]
     },
     {
@@ -46,7 +46,8 @@
       "duree": "1h 11min",
       "genre": "Animation",
       "horaires": [
-        "16:40"
+        "10:20",
+        "16:45"
       ]
     },
     {
@@ -56,8 +57,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame, Judiciaire, Biopic",
       "horaires": [
-        "13:50",
-        "18:10"
+        "11:50",
+        "20:55"
       ]
     },
     {
@@ -67,8 +68,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Action",
       "horaires": [
-        "14:00",
-        "20:55"
+        "10:40",
+        "14:45"
       ]
     },
     {
@@ -78,7 +79,18 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "20:45"
+        "10:30",
+        "17:30"
+      ]
+    },
+    {
+      "titre": "Sur un air de blues",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/bf/23/bf238684c15647fe1420a11916a9b63f.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013390-sur-un-air-de-blues/",
+      "duree": "2h 13min",
+      "genre": "Drame, Comédie musicale",
+      "horaires": [
+        "20:30"
       ]
     },
     {
@@ -88,7 +100,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "18:10"
+        "20:00"
       ]
     },
     {
@@ -98,7 +110,17 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "17:15"
+        "16:50"
+      ]
+    },
+    {
+      "titre": "Le Chant des forêts",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
+      "duree": "1h 33min",
+      "genre": "Documentaire",
+      "horaires": [
+        "12:55"
       ]
     },
     {
@@ -108,27 +130,37 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "16:00"
+        "12:40"
       ]
     },
     {
-      "titre": "Black Dog",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/99/6c/996ca51e260f2071f314f5fa150611e1.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000974-black-dog/",
-      "duree": "1h 50min",
+      "titre": "La Petite Dernière",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/a8/ac/a8ac62466d0cbbbc64418e4f32e65b4b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/303094-la-petite-derniere/",
+      "duree": "1h 53min",
       "genre": "Drame",
       "horaires": [
-        "14:30"
+        "20:00"
       ]
     },
     {
-      "titre": "Allier et Saône-et-Loire, la ligne de démarcation",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/4e/68/4e68640e6997487f5733ffae8a714477.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024241-allier-et-saone-et-loire-la-ligne-de-demarcation/",
-      "duree": "0h 53min",
-      "genre": "Documentaire",
+      "titre": "Sirāt",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/1b/d9/1bd90040e500db4e76661dcc27d0f593.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/317783-sirat/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Drame",
       "horaires": [
-        "16:00"
+        "10:40"
+      ]
+    },
+    {
+      "titre": "Valeur sentimentale",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/99/b1/99b101006553223982d79f39868c79fa.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/298726-valeur-sentimentale/",
+      "duree": "2h 13min",
+      "genre": "Drame",
+      "horaires": [
+        "13:00"
       ]
     }
   ]
