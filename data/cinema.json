@@ -6,8 +6,18 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-27",
-  "dateUpdate": "2026-01-27T01:26:08.961Z",
+  "dateUpdate": "2026-01-27T04:09:22.377Z",
   "films": [
+    {
+      "titre": "Le Gâteau du Président",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/e6/19/e6195fdd0bbba065280ae124d28ea94b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023006-le-gateau-du-president/",
+      "duree": "1h 42min",
+      "genre": "Drame",
+      "horaires": [
+        "20:00"
+      ]
+    },
     {
       "titre": "Le Mage du Kremlin",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
@@ -15,7 +25,18 @@
       "duree": "2h 25min",
       "genre": "Thriller",
       "horaires": [
-        "16:00"
+        "13:45",
+        "20:30"
+      ]
+    },
+    {
+      "titre": "Olivia",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/302424-olivia/",
+      "duree": "1h 11min",
+      "genre": "Animation",
+      "horaires": [
+        "18:50"
       ]
     },
     {
@@ -25,6 +46,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame, Judiciaire, Biopic",
       "horaires": [
+        "14:20",
         "16:15"
       ]
     },
@@ -35,8 +57,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Action",
       "horaires": [
-        "18:40",
-        "20:50"
+        "18:00"
       ]
     },
     {
@@ -51,84 +72,63 @@
       ]
     },
     {
+      "titre": "Sur un air de blues",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/bf/23/bf238684c15647fe1420a11916a9b63f.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013390-sur-un-air-de-blues/",
+      "duree": "2h 13min",
+      "genre": "Drame, Comédie musicale",
+      "horaires": [
+        "16:25"
+      ]
+    },
+    {
       "titre": "La Femme de ménage",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/317403-la-femme-de-menage/",
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "20:30"
+        "20:45"
       ]
     },
     {
-      "titre": "Le Chant des forêts",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
-      "duree": "1h 33min",
-      "genre": "Documentaire",
-      "horaires": [
-        "14:00"
-      ]
-    },
-    {
-      "titre": "Les Aigles de la République",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/01/5a/015a75a202c0364db184f172822c507e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/324956-les-aigles-de-la-republique/",
-      "duree": "2h 9min",
-      "genre": "Drame, Thriller",
-      "horaires": [
-        "14:00",
-        "20:30"
-      ]
-    },
-    {
-      "titre": "On vous croit",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/b3/a5/b3a524d1470012f0ba889864b2f301db.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325519-on-vous-croit/",
+      "titre": "Avatar : de Feu et de Cendres",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/187247-avatar-de-feu-et-de-cendres/",
       "duree": "Tous publics avec avertissement",
-      "genre": "Drame",
+      "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "18:50"
+        "19:55"
       ]
     },
     {
-      "titre": "Nouvelle Vague",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/46/38/46383415873af63e1cf2ece6098b21c8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/323491-nouvelle-vague/",
-      "duree": "1h 46min",
-      "genre": "Biopic, Comédie, Drame",
+      "titre": "Un simple accident",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/21/ff/21fff6cefbc8a6359297f3c7eb1bf212.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022814-un-simple-accident/",
+      "duree": "1h 44min",
+      "genre": "Drame",
       "horaires": [
         "15:00"
       ]
     },
     {
-      "titre": "Une bataille après l'autre",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/61/0d/610dc2fcd83afe3717f771b889b979c2.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/311364-une-bataille-apres-lautre/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Action, Drame, Comédie",
-      "horaires": [
-        "19:30"
-      ]
-    },
-    {
-      "titre": "Black Dog",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/99/6c/996ca51e260f2071f314f5fa150611e1.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000974-black-dog/",
-      "duree": "1h 50min",
+      "titre": "Valeur sentimentale",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/99/b1/99b101006553223982d79f39868c79fa.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/298726-valeur-sentimentale/",
+      "duree": "2h 13min",
       "genre": "Drame",
       "horaires": [
         "17:10"
       ]
     },
     {
-      "titre": "Le Dernier des Mohicans",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f6/83/f683c957f8d55be3c27f38c9424cdedb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/7653-le-dernier-des-mohicans/",
-      "duree": "1h 54min",
-      "genre": "Aventure, Action, Romance",
+      "titre": "Allier et Saône-et-Loire, la ligne de démarcation",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/4e/68/4e68640e6997487f5733ffae8a714477.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024241-allier-et-saone-et-loire-la-ligne-de-demarcation/",
+      "duree": "0h 53min",
+      "genre": "Documentaire",
       "horaires": [
-        "16:30"
+        "16:40"
       ]
     }
   ]
