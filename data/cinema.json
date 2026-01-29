@@ -6,16 +6,16 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-29",
-  "dateUpdate": "2026-01-29T01:32:02.824Z",
+  "dateUpdate": "2026-01-29T04:29:24.999Z",
   "films": [
     {
-      "titre": "Mon grand frère et moi",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/66/45/6645a3e3769ac366ff47db925a5c217b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031372-mon-grand-frere-et-moi/",
-      "duree": "2h 7min",
-      "genre": "Comédie dramatique",
+      "titre": "La Fille du Konbini",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/6f/9c/6f9c730c5c1ce5e2568036586e98dbeb.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/323540-la-fille-du-konbini/",
+      "duree": "1h 16min",
+      "genre": "Drame",
       "horaires": [
-        "18:30"
+        "18:20"
       ]
     },
     {
@@ -25,19 +25,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "13:55",
-        "20:50"
-      ]
-    },
-    {
-      "titre": "Les Légendaires",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/2f/d5/2fd599857351d16d6bfdc4f2fefeb6c3.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/281028-les-legendaires/",
-      "duree": "1h 32min",
-      "genre": "Animation, Aventure, Fantastique",
-      "horaires": [
-        "14:15",
-        "18:30"
+        "14:00",
+        "20:00"
       ]
     },
     {
@@ -47,8 +36,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame",
       "horaires": [
-        "13:45",
-        "18:00"
+        "19:30"
       ]
     },
     {
@@ -58,17 +46,18 @@
       "duree": "2h 25min",
       "genre": "Thriller",
       "horaires": [
-        "18:10"
+        "17:00",
+        "20:10"
       ]
     },
     {
-      "titre": "Olivia",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/302424-olivia/",
-      "duree": "1h 11min",
-      "genre": "Animation",
+      "titre": "Furcy, né libre",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/292718-furcy-ne-libre/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Historique, Drame, Judiciaire, Biopic",
       "horaires": [
-        "16:30"
+        "14:30"
       ]
     },
     {
@@ -78,7 +67,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Action",
       "horaires": [
-        "14:10"
+        "16:45"
       ]
     },
     {
@@ -88,8 +77,7 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "16:05",
-        "20:45"
+        "16:30"
       ]
     },
     {
@@ -99,28 +87,17 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "20:20"
+        "13:50"
       ]
     },
     {
-      "titre": "Le Chant des forêts",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
-      "duree": "1h 33min",
-      "genre": "Documentaire",
+      "titre": "Avatar : de Feu et de Cendres",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/187247-avatar-de-feu-et-de-cendres/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "16:20",
-        "20:50"
-      ]
-    },
-    {
-      "titre": "Zootopie 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
-      "duree": "1h 48min",
-      "genre": "Animation, Aventure, Famille, Comédie",
-      "horaires": [
-        "16:15"
+        "19:30"
       ]
     }
   ]
