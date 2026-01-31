@@ -6,26 +6,16 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-01-31",
-  "dateUpdate": "2026-01-31T01:28:23.227Z",
+  "dateUpdate": "2026-01-31T04:27:18.227Z",
   "films": [
     {
-      "titre": "Fais-moi un signe",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/46/c9/46c929cf18b9262af0b32734a6e79f0c.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000010370-fais-moi-un-signe/",
-      "duree": "1h 45min",
-      "genre": "Drame",
+      "titre": "Sham",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/8e/be/8ebe5c183a0211c46cc81afc9dcd2c6a.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014638-sham/",
+      "duree": "2h 9min",
+      "genre": "Thriller, Drame",
       "horaires": [
-        "18:20"
-      ]
-    },
-    {
-      "titre": "Les Enfants de la Résistance",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006174-les-enfants-de-la-resistance/",
-      "duree": "",
-      "genre": "Drame, Historique, Aventure, Famille",
-      "horaires": [
-        "19:15"
+        "18:00"
       ]
     },
     {
@@ -35,7 +25,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "14:00"
+        "14:15",
+        "20:20"
       ]
     },
     {
@@ -45,7 +36,8 @@
       "duree": "1h 32min",
       "genre": "Animation, Aventure, Fantastique",
       "horaires": [
-        "18:55"
+        "14:00",
+        "18:10"
       ]
     },
     {
@@ -55,7 +47,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame",
       "horaires": [
-        "20:00"
+        "14:30",
+        "20:30"
       ]
     },
     {
@@ -65,19 +58,18 @@
       "duree": "2h 25min",
       "genre": "Thriller",
       "horaires": [
-        "16:50",
-        "20:25",
-        "14:30"
+        "17:15",
+        "20:35"
       ]
     },
     {
-      "titre": "Furcy, né libre",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/292718-furcy-ne-libre/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Historique, Drame, Judiciaire, Biopic",
+      "titre": "Olivia",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/302424-olivia/",
+      "duree": "1h 11min",
+      "genre": "Animation",
       "horaires": [
-        "14:10"
+        "16:30"
       ]
     },
     {
@@ -87,8 +79,7 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "14:20",
-        "20:55"
+        "18:00"
       ]
     },
     {
@@ -98,17 +89,27 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "16:20"
+        "20:10"
       ]
     },
     {
-      "titre": "Le Chant des forêts",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
-      "duree": "1h 33min",
-      "genre": "Documentaire",
+      "titre": "Zootopie 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
+      "duree": "1h 48min",
+      "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "16:40"
+        "16:00"
+      ]
+    },
+    {
+      "titre": "Metropolis",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/72/c6/72c61c79514ba283ac913d92d5f80d58.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/41046-metropolis/",
+      "duree": "1h 52min",
+      "genre": "Animation, Aventure, Science fiction",
+      "horaires": [
+        "14:20"
       ]
     }
   ]
