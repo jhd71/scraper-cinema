@@ -6,16 +6,26 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-01",
-  "dateUpdate": "2026-02-01T01:55:02.001Z",
+  "dateUpdate": "2026-02-01T05:02:02.293Z",
   "films": [
     {
-      "titre": "Sham",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/8e/be/8ebe5c183a0211c46cc81afc9dcd2c6a.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014638-sham/",
-      "duree": "2h 9min",
-      "genre": "Thriller, Drame",
+      "titre": "Sacrée frousse !",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/d8/1c/d81c5d63b9332c8b5de395c5bc0ae262.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000036009-sacree-frousse/",
+      "duree": "1h 8min",
+      "genre": "Animation, Famille",
       "horaires": [
-        "18:00"
+        "10:30"
+      ]
+    },
+    {
+      "titre": "Love on Trial",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/cb/0f/cb0f73df615316b86cb8478c341cb599.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019853-love-on-trial/",
+      "duree": "2h 3min",
+      "genre": "Drame",
+      "horaires": [
+        "17:00"
       ]
     },
     {
@@ -25,8 +35,9 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "14:15",
-        "20:20"
+        "10:45",
+        "16:45",
+        "20:00"
       ]
     },
     {
@@ -36,8 +47,8 @@
       "duree": "1h 32min",
       "genre": "Animation, Aventure, Fantastique",
       "horaires": [
-        "14:00",
-        "18:10"
+        "10:20",
+        "14:25"
       ]
     },
     {
@@ -47,8 +58,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame",
       "horaires": [
-        "14:30",
-        "20:30"
+        "14:00",
+        "20:10"
       ]
     },
     {
@@ -58,8 +69,8 @@
       "duree": "2h 25min",
       "genre": "Thriller",
       "horaires": [
-        "17:15",
-        "20:35"
+        "19:30",
+        "13:45"
       ]
     },
     {
@@ -69,7 +80,28 @@
       "duree": "1h 11min",
       "genre": "Animation",
       "horaires": [
-        "16:30"
+        "12:50",
+        "16:50"
+      ]
+    },
+    {
+      "titre": "Furcy, né libre",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/292718-furcy-ne-libre/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Historique, Drame, Judiciaire, Biopic",
+      "horaires": [
+        "10:40"
+      ]
+    },
+    {
+      "titre": "Greenland: Migration",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/04/87/0487dbff63a133bc848509d562273652.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293629-greenland-migration/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Thriller, Action",
+      "horaires": [
+        "18:55"
       ]
     },
     {
@@ -79,7 +111,8 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "18:00"
+        "14:20",
+        "20:55"
       ]
     },
     {
@@ -89,7 +122,18 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "20:10"
+        "16:25"
+      ]
+    },
+    {
+      "titre": "Le Chant des forêts",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
+      "duree": "1h 33min",
+      "genre": "Documentaire",
+      "horaires": [
+        "12:00",
+        "18:20"
       ]
     },
     {
@@ -99,17 +143,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "16:00"
-      ]
-    },
-    {
-      "titre": "Metropolis",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/72/c6/72c61c79514ba283ac913d92d5f80d58.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/41046-metropolis/",
-      "duree": "1h 52min",
-      "genre": "Animation, Aventure, Science fiction",
-      "horaires": [
-        "14:20"
+        "12:15"
       ]
     }
   ]
