@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-03",
-  "dateUpdate": "2026-02-03T01:47:58.515Z",
+  "dateUpdate": "2026-02-03T04:47:34.367Z",
   "films": [
     {
       "titre": "Gourou",
@@ -15,8 +15,18 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "14:10",
+        "14:00",
         "20:00"
+      ]
+    },
+    {
+      "titre": "Les Légendaires",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/2f/d5/2fd599857351d16d6bfdc4f2fefeb6c3.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/281028-les-legendaires/",
+      "duree": "1h 32min",
+      "genre": "Animation, Aventure, Fantastique",
+      "horaires": [
+        "18:50"
       ]
     },
     {
@@ -26,7 +36,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame",
       "horaires": [
-        "14:30"
+        "14:30",
+        "20:10"
       ]
     },
     {
@@ -40,13 +51,34 @@
       ]
     },
     {
+      "titre": "Olivia",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/302424-olivia/",
+      "duree": "1h 11min",
+      "genre": "Animation",
+      "horaires": [
+        "18:30"
+      ]
+    },
+    {
       "titre": "Furcy, né libre",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/292718-furcy-ne-libre/",
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame, Judiciaire, Biopic",
       "horaires": [
-        "16:50"
+        "13:50",
+        "16:40"
+      ]
+    },
+    {
+      "titre": "Greenland: Migration",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/04/87/0487dbff63a133bc848509d562273652.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293629-greenland-migration/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Thriller, Action",
+      "horaires": [
+        "20:50"
       ]
     },
     {
@@ -56,7 +88,7 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "14:20"
+        "16:00"
       ]
     },
     {
@@ -66,58 +98,18 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "20:40"
+        "20:40",
+        "14:10"
       ]
     },
     {
-      "titre": "Avatar : de Feu et de Cendres",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/187247-avatar-de-feu-et-de-cendres/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Science fiction, Aventure, Action, Fantastique",
+      "titre": "Sous le ciel de Kyoto",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/c5/f5c59c0d93b30f3bd8ba4d657d668a9d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014327-sous-le-ciel-de-kyoto/",
+      "duree": "2h 8min",
+      "genre": "Drame, Romance",
       "horaires": [
-        "19:30"
-      ]
-    },
-    {
-      "titre": "La Condition",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/65/9f/659f5b54ac267e57f6183011bcfb99aa.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317099-la-condition/",
-      "duree": "1h 43min",
-      "genre": "Comédie dramatique, Historique",
-      "horaires": [
-        "14:00",
-        "20:40"
-      ]
-    },
-    {
-      "titre": "Fuori",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/08/c7/08c78d1939fe7034c18b53130d7b9295.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006106-fuori/",
-      "duree": "1h 57min",
-      "genre": "Biopic, Drame",
-      "horaires": [
-        "18:20"
-      ]
-    },
-    {
-      "titre": "Metropolis",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/72/c6/72c61c79514ba283ac913d92d5f80d58.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/41046-metropolis/",
-      "duree": "1h 52min",
-      "genre": "Animation, Aventure, Science fiction",
-      "horaires": [
-        "16:05"
-      ]
-    },
-    {
-      "titre": "Seppuku : l'honneur d'un samouraï",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/74/d9/74d987def24766471b21ffe57672e8e2.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000021067-seppuku-lhonneur-dun-samourai/",
-      "duree": "2h 13min",
-      "genre": "Drame",
-      "horaires": [
-        "18:00"
+        "18:15"
       ]
     }
   ]
