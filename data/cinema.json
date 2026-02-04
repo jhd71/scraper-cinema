@@ -6,8 +6,39 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-04",
-  "dateUpdate": "2026-02-04T01:31:12.683Z",
+  "dateUpdate": "2026-02-04T04:30:27.635Z",
   "films": [
+    {
+      "titre": "Biscuit le chien fantastique",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7b/09/7b095f309baf4441fc5966b2f217900e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017117-biscuit-le-chien-fantastique/",
+      "duree": "1h 32min",
+      "genre": "Animation, Comédie, Famille",
+      "horaires": [
+        "17:10"
+      ]
+    },
+    {
+      "titre": "Les Toutes Petites Créatures 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/70/e4/70e4bca25a2fa64e3574bcb887805ffe.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037794-les-toutes-petites-creatures-2/",
+      "duree": "0h 38min",
+      "genre": "Animation, Famille",
+      "horaires": [
+        "16:10"
+      ]
+    },
+    {
+      "titre": "Marsupilami",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/317669-marsupilami/",
+      "duree": "1h 39min",
+      "genre": "Comédie, Aventure, Famille",
+      "horaires": [
+        "14:00",
+        "20:30"
+      ]
+    },
     {
       "titre": "Gourou",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/70/e9/70e9dfd918886ca3ea4e1088f06f659c.jpg",
@@ -15,8 +46,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "14:00",
-        "20:00"
+        "13:50",
+        "17:50"
       ]
     },
     {
@@ -26,7 +57,7 @@
       "duree": "1h 32min",
       "genre": "Animation, Aventure, Fantastique",
       "horaires": [
-        "18:50"
+        "14:10"
       ]
     },
     {
@@ -36,49 +67,38 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame",
       "horaires": [
-        "14:30",
-        "20:10"
+        "14:20",
+        "20:00"
       ]
     },
     {
-      "titre": "Le Mage du Kremlin",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005026-le-mage-du-kremlin/",
-      "duree": "2h 25min",
-      "genre": "Thriller",
+      "titre": "Grand Ciel",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/46/06/460600d5f82b83f150654089c463af9b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/300430-grand-ciel/",
+      "duree": "1h 31min",
+      "genre": "Thriller, Drame",
       "horaires": [
-        "17:00"
+        "20:40"
       ]
     },
     {
-      "titre": "Olivia",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/302424-olivia/",
-      "duree": "1h 11min",
-      "genre": "Animation",
+      "titre": "Hamnet",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9a/f5/9af5f87b39938fec50f86c32c3d31b69.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/315003-hamnet/",
+      "duree": "2h 5min",
+      "genre": "Drame",
       "horaires": [
-        "18:30"
+        "17:20"
       ]
     },
     {
-      "titre": "Furcy, né libre",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/292718-furcy-ne-libre/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Historique, Drame, Judiciaire, Biopic",
+      "titre": "Le Retour du projectionniste",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f1/99/f199d73801ff850d3acec13b010b446b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/303093-le-retour-du-projectionniste/",
+      "duree": "1h 20min",
+      "genre": "Documentaire",
       "horaires": [
-        "13:50",
-        "16:40"
-      ]
-    },
-    {
-      "titre": "Greenland: Migration",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/04/87/0487dbff63a133bc848509d562273652.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/293629-greenland-migration/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Thriller, Action",
-      "horaires": [
-        "20:50"
+        "16:10"
       ]
     },
     {
@@ -88,28 +108,27 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "16:00"
+        "16:15"
       ]
     },
     {
-      "titre": "La Femme de ménage",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317403-la-femme-de-menage/",
-      "duree": "Interdit -12 ans",
-      "genre": "Thriller",
+      "titre": "Avatar : de Feu et de Cendres",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/187247-avatar-de-feu-et-de-cendres/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Science fiction, Aventure, Action, Fantastique",
       "horaires": [
-        "20:40",
-        "14:10"
+        "19:30"
       ]
     },
     {
-      "titre": "Sous le ciel de Kyoto",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/c5/f5c59c0d93b30f3bd8ba4d657d668a9d.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014327-sous-le-ciel-de-kyoto/",
-      "duree": "2h 8min",
-      "genre": "Drame, Romance",
+      "titre": "Le Chant des forêts",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
+      "duree": "1h 33min",
+      "genre": "Documentaire",
       "horaires": [
-        "18:15"
+        "18:45"
       ]
     }
   ]
