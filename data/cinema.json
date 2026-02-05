@@ -6,28 +6,8 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-05",
-  "dateUpdate": "2026-02-05T01:31:54.612Z",
+  "dateUpdate": "2026-02-05T04:49:03.811Z",
   "films": [
-    {
-      "titre": "Biscuit le chien fantastique",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7b/09/7b095f309baf4441fc5966b2f217900e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017117-biscuit-le-chien-fantastique/",
-      "duree": "1h 32min",
-      "genre": "Animation, Comédie, Famille",
-      "horaires": [
-        "17:10"
-      ]
-    },
-    {
-      "titre": "Les Toutes Petites Créatures 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/70/e4/70e4bca25a2fa64e3574bcb887805ffe.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037794-les-toutes-petites-creatures-2/",
-      "duree": "0h 38min",
-      "genre": "Animation, Famille",
-      "horaires": [
-        "16:10"
-      ]
-    },
     {
       "titre": "Marsupilami",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
@@ -35,8 +15,7 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "14:00",
-        "20:30"
+        "18:00"
       ]
     },
     {
@@ -46,18 +25,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "13:50",
-        "17:50"
-      ]
-    },
-    {
-      "titre": "Les Légendaires",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/2f/d5/2fd599857351d16d6bfdc4f2fefeb6c3.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/281028-les-legendaires/",
-      "duree": "1h 32min",
-      "genre": "Animation, Aventure, Fantastique",
-      "horaires": [
-        "14:10"
+        "16:15",
+        "20:10"
       ]
     },
     {
@@ -67,8 +36,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame",
       "horaires": [
-        "14:20",
-        "20:00"
+        "17:30"
       ]
     },
     {
@@ -78,7 +46,7 @@
       "duree": "1h 31min",
       "genre": "Thriller, Drame",
       "horaires": [
-        "20:40"
+        "18:40"
       ]
     },
     {
@@ -88,7 +56,18 @@
       "duree": "2h 5min",
       "genre": "Drame",
       "horaires": [
-        "17:20"
+        "20:40"
+      ]
+    },
+    {
+      "titre": "Le Mage du Kremlin",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005026-le-mage-du-kremlin/",
+      "duree": "2h 25min",
+      "genre": "Thriller",
+      "horaires": [
+        "14:30",
+        "20:20"
       ]
     },
     {
@@ -98,7 +77,18 @@
       "duree": "1h 20min",
       "genre": "Documentaire",
       "horaires": [
-        "16:10"
+        "16:20"
+      ]
+    },
+    {
+      "titre": "Furcy, né libre",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/292718-furcy-ne-libre/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Historique, Drame, Judiciaire, Biopic",
+      "horaires": [
+        "14:00",
+        "18:20"
       ]
     },
     {
@@ -108,17 +98,7 @@
       "duree": "2h 8min",
       "genre": "Drame",
       "horaires": [
-        "16:15"
-      ]
-    },
-    {
-      "titre": "Avatar : de Feu et de Cendres",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/187247-avatar-de-feu-et-de-cendres/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Science fiction, Aventure, Action, Fantastique",
-      "horaires": [
-        "19:30"
+        "13:50"
       ]
     },
     {
@@ -128,7 +108,27 @@
       "duree": "1h 33min",
       "genre": "Documentaire",
       "horaires": [
-        "18:45"
+        "14:20"
+      ]
+    },
+    {
+      "titre": "Be natural, l’histoire cachée d’Alice Guy-Blaché",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/pictures/20/02/12/09/34/3406076.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/264298-be-natural-lhistoire-cachee-dalice-guy-blache/",
+      "duree": "1h 42min",
+      "genre": "Documentaire, Biopic",
+      "horaires": [
+        "20:30"
+      ]
+    },
+    {
+      "titre": "Metropolis",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/72/c6/72c61c79514ba283ac913d92d5f80d58.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/41046-metropolis/",
+      "duree": "1h 52min",
+      "genre": "Animation, Aventure, Science fiction",
+      "horaires": [
+        "16:10"
       ]
     }
   ]
