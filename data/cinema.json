@@ -6,16 +6,26 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-07",
-  "dateUpdate": "2026-02-07T01:30:36.289Z",
+  "dateUpdate": "2026-02-07T04:30:24.639Z",
   "films": [
     {
-      "titre": "LOL 2.0",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024120-lol-20/",
-      "duree": "1h 45min",
-      "genre": "Comédie",
+      "titre": "Biscuit le chien fantastique",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7b/09/7b095f309baf4441fc5966b2f217900e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017117-biscuit-le-chien-fantastique/",
+      "duree": "1h 32min",
+      "genre": "Animation, Comédie, Famille",
       "horaires": [
-        "20:40"
+        "16:10"
+      ]
+    },
+    {
+      "titre": "Les Toutes Petites Créatures 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/70/e4/70e4bca25a2fa64e3574bcb887805ffe.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037794-les-toutes-petites-creatures-2/",
+      "duree": "0h 38min",
+      "genre": "Animation, Famille",
+      "horaires": [
+        "18:00"
       ]
     },
     {
@@ -25,7 +35,10 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "21:00"
+        "14:00",
+        "16:15",
+        "18:30",
+        "20:40"
       ]
     },
     {
@@ -35,9 +48,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "14:10",
-        "15:45",
-        "18:20"
+        "13:50",
+        "21:00"
       ]
     },
     {
@@ -47,7 +59,8 @@
       "duree": "1h 32min",
       "genre": "Animation, Aventure, Fantastique",
       "horaires": [
-        "18:40"
+        "14:10",
+        "19:00"
       ]
     },
     {
@@ -57,8 +70,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame",
       "horaires": [
-        "14:20",
-        "20:00"
+        "14:30",
+        "20:20"
       ]
     },
     {
@@ -68,7 +81,7 @@
       "duree": "1h 31min",
       "genre": "Thriller, Drame",
       "horaires": [
-        "13:50"
+        "18:45"
       ]
     },
     {
@@ -78,7 +91,7 @@
       "duree": "2h 5min",
       "genre": "Drame",
       "horaires": [
-        "16:10"
+        "20:50"
       ]
     },
     {
@@ -88,37 +101,7 @@
       "duree": "2h 25min",
       "genre": "Thriller",
       "horaires": [
-        "17:15"
-      ]
-    },
-    {
-      "titre": "Le Retour du projectionniste",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f1/99/f199d73801ff850d3acec13b010b446b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/303093-le-retour-du-projectionniste/",
-      "duree": "1h 20min",
-      "genre": "Documentaire",
-      "horaires": [
-        "16:40"
-      ]
-    },
-    {
-      "titre": "Furcy, né libre",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/292718-furcy-ne-libre/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Historique, Drame, Judiciaire, Biopic",
-      "horaires": [
-        "14:00"
-      ]
-    },
-    {
-      "titre": "L’Affaire Bojarski",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014092-laffaire-bojarski/",
-      "duree": "2h 8min",
-      "genre": "Drame",
-      "horaires": [
-        "18:10"
+        "17:30"
       ]
     },
     {
@@ -128,7 +111,7 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "20:50"
+        "16:15"
       ]
     }
   ]
