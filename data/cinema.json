@@ -5,8 +5,8 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-02-07",
-  "dateUpdate": "2026-02-07T21:24:40.245Z",
+  "date": "2026-02-08",
+  "dateUpdate": "2026-02-08T02:07:13.290Z",
   "films": [
     {
       "titre": "Biscuit le chien fantastique",
@@ -15,7 +15,7 @@
       "duree": "1h 32min",
       "genre": "Animation, Comédie, Famille",
       "horaires": [
-        "16:10"
+        "13:50"
       ]
     },
     {
@@ -25,7 +25,8 @@
       "duree": "0h 38min",
       "genre": "Animation, Famille",
       "horaires": [
-        "18:00"
+        "10:50",
+        "17:50"
       ]
     },
     {
@@ -35,10 +36,11 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "14:00",
-        "16:15",
-        "18:30",
-        "20:40"
+        "11:00",
+        "13:15",
+        "15:30",
+        "17:45",
+        "20:00"
       ]
     },
     {
@@ -48,8 +50,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "13:50",
-        "21:00"
+        "12:30",
+        "20:10"
       ]
     },
     {
@@ -59,8 +61,8 @@
       "duree": "1h 32min",
       "genre": "Animation, Aventure, Fantastique",
       "horaires": [
-        "14:10",
-        "19:00"
+        "11:50",
+        "15:50"
       ]
     },
     {
@@ -70,18 +72,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame",
       "horaires": [
-        "14:30",
-        "20:20"
-      ]
-    },
-    {
-      "titre": "Grand Ciel",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/46/06/460600d5f82b83f150654089c463af9b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/300430-grand-ciel/",
-      "duree": "1h 31min",
-      "genre": "Thriller, Drame",
-      "horaires": [
-        "18:45"
+        "14:10",
+        "19:40"
       ]
     },
     {
@@ -91,17 +83,37 @@
       "duree": "2h 5min",
       "genre": "Drame",
       "horaires": [
-        "20:50"
+        "17:10"
       ]
     },
     {
-      "titre": "Le Mage du Kremlin",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005026-le-mage-du-kremlin/",
-      "duree": "2h 25min",
-      "genre": "Thriller",
+      "titre": "Le Retour du projectionniste",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f1/99/f199d73801ff850d3acec13b010b446b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/303093-le-retour-du-projectionniste/",
+      "duree": "1h 20min",
+      "genre": "Documentaire",
       "horaires": [
-        "17:30"
+        "10:40"
+      ]
+    },
+    {
+      "titre": "Olivia",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/302424-olivia/",
+      "duree": "1h 11min",
+      "genre": "Animation",
+      "horaires": [
+        "12:20"
+      ]
+    },
+    {
+      "titre": "L’Affaire Bojarski",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014092-laffaire-bojarski/",
+      "duree": "2h 8min",
+      "genre": "Drame",
+      "horaires": [
+        "15:00"
       ]
     },
     {
@@ -111,7 +123,27 @@
       "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "16:15"
+        "17:30"
+      ]
+    },
+    {
+      "titre": "Avatar : de Feu et de Cendres",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/187247-avatar-de-feu-et-de-cendres/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Science fiction, Aventure, Action, Fantastique",
+      "horaires": [
+        "19:30"
+      ]
+    },
+    {
+      "titre": "Le Chant des forêts",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
+      "duree": "1h 33min",
+      "genre": "Documentaire",
+      "horaires": [
+        "10:30"
       ]
     }
   ]
