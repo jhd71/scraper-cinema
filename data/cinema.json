@@ -5,8 +5,8 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-02-09",
-  "dateUpdate": "2026-02-09T21:39:28.010Z",
+  "date": "2026-02-10",
+  "dateUpdate": "2026-02-10T02:01:46.311Z",
   "films": [
     {
       "titre": "Biscuit le chien fantastique",
@@ -15,7 +15,7 @@
       "duree": "1h 32min",
       "genre": "Animation, Comédie, Famille",
       "horaires": [
-        "16:20"
+        "16:10"
       ]
     },
     {
@@ -25,8 +25,8 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "14:00",
-        "18:30"
+        "16:20",
+        "21:00"
       ]
     },
     {
@@ -36,7 +36,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "20:40"
+        "13:50",
+        "18:30"
       ]
     },
     {
@@ -56,8 +57,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame",
       "horaires": [
-        "14:30",
-        "20:30"
+        "20:00"
       ]
     },
     {
@@ -67,7 +67,7 @@
       "duree": "1h 31min",
       "genre": "Thriller, Drame",
       "horaires": [
-        "20:50"
+        "16:20"
       ]
     },
     {
@@ -77,38 +77,58 @@
       "duree": "2h 5min",
       "genre": "Drame",
       "horaires": [
+        "20:20",
+        "15:50"
+      ]
+    },
+    {
+      "titre": "Le Retour du projectionniste",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f1/99/f199d73801ff850d3acec13b010b446b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/303093-le-retour-du-projectionniste/",
+      "duree": "1h 20min",
+      "genre": "Documentaire",
+      "horaires": [
         "18:20"
       ]
     },
     {
-      "titre": "Le Mage du Kremlin",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005026-le-mage-du-kremlin/",
-      "duree": "2h 25min",
+      "titre": "Olivia",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/302424-olivia/",
+      "duree": "1h 11min",
+      "genre": "Animation",
+      "horaires": [
+        "14:20"
+      ]
+    },
+    {
+      "titre": "Furcy, né libre",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/292718-furcy-ne-libre/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Historique, Drame, Judiciaire, Biopic",
+      "horaires": [
+        "18:10"
+      ]
+    },
+    {
+      "titre": "L’Affaire Bojarski",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014092-laffaire-bojarski/",
+      "duree": "2h 8min",
+      "genre": "Drame",
+      "horaires": [
+        "20:45"
+      ]
+    },
+    {
+      "titre": "La Femme de ménage",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/317403-la-femme-de-menage/",
+      "duree": "Interdit -12 ans",
       "genre": "Thriller",
       "horaires": [
-        "17:30"
-      ]
-    },
-    {
-      "titre": "La Condition",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/65/9f/659f5b54ac267e57f6183011bcfb99aa.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317099-la-condition/",
-      "duree": "1h 43min",
-      "genre": "Comédie dramatique, Historique",
-      "horaires": [
-        "18:40"
-      ]
-    },
-    {
-      "titre": "Fuori",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/08/c7/08c78d1939fe7034c18b53130d7b9295.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006106-fuori/",
-      "duree": "1h 57min",
-      "genre": "Biopic, Drame",
-      "horaires": [
-        "14:20",
-        "20:45"
+        "18:15"
       ]
     },
     {
@@ -118,17 +138,7 @@
       "duree": "1h 48min",
       "genre": "Animation, Aventure, Famille, Comédie",
       "horaires": [
-        "16:10"
-      ]
-    },
-    {
-      "titre": "Metropolis",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/72/c6/72c61c79514ba283ac913d92d5f80d58.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/41046-metropolis/",
-      "duree": "1h 52min",
-      "genre": "Animation, Aventure, Science fiction",
-      "horaires": [
-        "16:30"
+        "14:00"
       ]
     }
   ]
