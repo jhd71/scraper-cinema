@@ -6,8 +6,52 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-11",
-  "dateUpdate": "2026-02-11T01:56:46.750Z",
+  "dateUpdate": "2026-02-11T05:03:33.806Z",
   "films": [
+    {
+      "titre": "\"Hurlevent\"",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/0b/f5/0bf52c69f64606b7325be670294cb767.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007235-hurlevent/",
+      "duree": "2h 16min",
+      "genre": "Drame, Romance",
+      "horaires": [
+        "13:55",
+        "20:00"
+      ]
+    },
+    {
+      "titre": "Goat - rêver plus haut",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/37/b7/37b765610a647216c6dd6ea52d3170bd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/326824-goat-rever-plus-haut/",
+      "duree": "1h 40min",
+      "genre": "Animation, Comédie, Action",
+      "horaires": [
+        "14:20",
+        "18:20"
+      ]
+    },
+    {
+      "titre": "Les Enfants de la Résistance",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006174-les-enfants-de-la-resistance/",
+      "duree": "1h 41min",
+      "genre": "Drame, Historique, Aventure, Famille",
+      "horaires": [
+        "16:15",
+        "20:45"
+      ]
+    },
+    {
+      "titre": "LOL 2.0",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024120-lol-20/",
+      "duree": "1h 45min",
+      "genre": "Comédie",
+      "horaires": [
+        "17:30",
+        "20:20"
+      ]
+    },
     {
       "titre": "Biscuit le chien fantastique",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7b/09/7b095f309baf4441fc5966b2f217900e.jpg",
@@ -15,7 +59,17 @@
       "duree": "1h 32min",
       "genre": "Animation, Comédie, Famille",
       "horaires": [
-        "16:10"
+        "16:20"
+      ]
+    },
+    {
+      "titre": "Les Toutes Petites Créatures 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/70/e4/70e4bca25a2fa64e3574bcb887805ffe.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037794-les-toutes-petites-creatures-2/",
+      "duree": "0h 38min",
+      "genre": "Animation, Famille",
+      "horaires": [
+        "16:30"
       ]
     },
     {
@@ -25,8 +79,8 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "16:20",
-        "21:00"
+        "14:00",
+        "18:30"
       ]
     },
     {
@@ -36,8 +90,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "13:50",
-        "18:30"
+        "13:50"
       ]
     },
     {
@@ -47,27 +100,17 @@
       "duree": "1h 32min",
       "genre": "Animation, Aventure, Fantastique",
       "horaires": [
-        "14:10"
+        "16:25"
       ]
     },
     {
-      "titre": "Nuremberg",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/94/4a/944af0dc409db6ca8232363444dbf852.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/324466-nuremberg/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Historique, Drame",
+      "titre": "Promis le ciel",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/72/ba/72baef9032ae95ac8cf9be07f0cde8fe.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006454-promis-le-ciel/",
+      "duree": "1h 32min",
+      "genre": "Drame",
       "horaires": [
-        "20:00"
-      ]
-    },
-    {
-      "titre": "Grand Ciel",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/46/06/460600d5f82b83f150654089c463af9b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/300430-grand-ciel/",
-      "duree": "1h 31min",
-      "genre": "Thriller, Drame",
-      "horaires": [
-        "16:20"
+        "18:10"
       ]
     },
     {
@@ -77,68 +120,7 @@
       "duree": "2h 5min",
       "genre": "Drame",
       "horaires": [
-        "20:20",
-        "15:50"
-      ]
-    },
-    {
-      "titre": "Le Retour du projectionniste",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f1/99/f199d73801ff850d3acec13b010b446b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/303093-le-retour-du-projectionniste/",
-      "duree": "1h 20min",
-      "genre": "Documentaire",
-      "horaires": [
-        "18:20"
-      ]
-    },
-    {
-      "titre": "Olivia",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/302424-olivia/",
-      "duree": "1h 11min",
-      "genre": "Animation",
-      "horaires": [
-        "14:20"
-      ]
-    },
-    {
-      "titre": "Furcy, né libre",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/292718-furcy-ne-libre/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Historique, Drame, Judiciaire, Biopic",
-      "horaires": [
-        "18:10"
-      ]
-    },
-    {
-      "titre": "L’Affaire Bojarski",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014092-laffaire-bojarski/",
-      "duree": "2h 8min",
-      "genre": "Drame",
-      "horaires": [
-        "20:45"
-      ]
-    },
-    {
-      "titre": "La Femme de ménage",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317403-la-femme-de-menage/",
-      "duree": "Interdit -12 ans",
-      "genre": "Thriller",
-      "horaires": [
-        "18:15"
-      ]
-    },
-    {
-      "titre": "Zootopie 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/277428-zootopie-2/",
-      "duree": "1h 48min",
-      "genre": "Animation, Aventure, Famille, Comédie",
-      "horaires": [
-        "14:00"
+        "20:10"
       ]
     }
   ]
