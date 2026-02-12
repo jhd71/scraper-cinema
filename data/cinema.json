@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-12",
-  "dateUpdate": "2026-02-12T01:50:08.147Z",
+  "dateUpdate": "2026-02-12T04:58:42.823Z",
   "films": [
     {
       "titre": "\"Hurlevent\"",
@@ -15,8 +15,8 @@
       "duree": "2h 16min",
       "genre": "Drame, Romance",
       "horaires": [
-        "13:55",
-        "20:00"
+        "13:50",
+        "20:35"
       ]
     },
     {
@@ -37,8 +37,8 @@
       "duree": "1h 41min",
       "genre": "Drame, Historique, Aventure, Famille",
       "horaires": [
-        "16:15",
-        "20:45"
+        "14:00",
+        "18:30"
       ]
     },
     {
@@ -48,28 +48,8 @@
       "duree": "1h 45min",
       "genre": "Comédie",
       "horaires": [
-        "17:30",
+        "16:25",
         "20:20"
-      ]
-    },
-    {
-      "titre": "Biscuit le chien fantastique",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7b/09/7b095f309baf4441fc5966b2f217900e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017117-biscuit-le-chien-fantastique/",
-      "duree": "1h 32min",
-      "genre": "Animation, Comédie, Famille",
-      "horaires": [
-        "16:20"
-      ]
-    },
-    {
-      "titre": "Les Toutes Petites Créatures 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/70/e4/70e4bca25a2fa64e3574bcb887805ffe.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037794-les-toutes-petites-creatures-2/",
-      "duree": "0h 38min",
-      "genre": "Animation, Famille",
-      "horaires": [
-        "16:30"
       ]
     },
     {
@@ -79,8 +59,8 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "14:00",
-        "18:30"
+        "16:15",
+        "20:45"
       ]
     },
     {
@@ -90,7 +70,7 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "13:50"
+        "20:50"
       ]
     },
     {
@@ -110,7 +90,7 @@
       "duree": "1h 32min",
       "genre": "Drame",
       "horaires": [
-        "18:10"
+        "18:55"
       ]
     },
     {
@@ -120,7 +100,27 @@
       "duree": "2h 5min",
       "genre": "Drame",
       "horaires": [
-        "20:10"
+        "13:45"
+      ]
+    },
+    {
+      "titre": "Le Mage du Kremlin",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005026-le-mage-du-kremlin/",
+      "duree": "2h 25min",
+      "genre": "Thriller",
+      "horaires": [
+        "16:10"
+      ]
+    },
+    {
+      "titre": "Le Quai des brumes",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/54/5f/545f55305b0e728df6df61980e66855c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/2594-le-quai-des-brumes/",
+      "duree": "1h 31min",
+      "genre": "Drame",
+      "horaires": [
+        "18:40"
       ]
     }
   ]
