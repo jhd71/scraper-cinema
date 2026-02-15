@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-15",
-  "dateUpdate": "2026-02-15T01:52:05.408Z",
+  "dateUpdate": "2026-02-15T04:55:06.755Z",
   "films": [
     {
       "titre": "\"Hurlevent\"",
@@ -15,8 +15,9 @@
       "duree": "2h 16min",
       "genre": "Drame, Romance",
       "horaires": [
-        "17:00",
-        "20:00"
+        "13:50",
+        "20:45",
+        "10:15"
       ]
     },
     {
@@ -26,8 +27,8 @@
       "duree": "1h 40min",
       "genre": "Animation, Comédie, Action",
       "horaires": [
-        "14:20",
-        "18:20"
+        "10:30",
+        "16:40"
       ]
     },
     {
@@ -37,8 +38,9 @@
       "duree": "1h 41min",
       "genre": "Drame, Historique, Aventure, Famille",
       "horaires": [
-        "14:00",
-        "18:30"
+        "12:20",
+        "16:40",
+        "20:50"
       ]
     },
     {
@@ -48,7 +50,8 @@
       "duree": "1h 45min",
       "genre": "Comédie",
       "horaires": [
-        "13:50",
+        "12:30",
+        "16:30",
         "20:30"
       ]
     },
@@ -59,7 +62,7 @@
       "duree": "1h 32min",
       "genre": "Animation, Comédie, Famille",
       "horaires": [
-        "16:45"
+        "15:40"
       ]
     },
     {
@@ -69,7 +72,7 @@
       "duree": "0h 38min",
       "genre": "Animation, Famille",
       "horaires": [
-        "16:00"
+        "12:50"
       ]
     },
     {
@@ -79,8 +82,9 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "16:15",
-        "20:45"
+        "10:20",
+        "14:30",
+        "18:50"
       ]
     },
     {
@@ -90,8 +94,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "14:10",
-        "20:40"
+        "10:45",
+        "17:45"
       ]
     },
     {
@@ -101,7 +105,7 @@
       "duree": "1h 32min",
       "genre": "Animation, Aventure, Fantastique",
       "horaires": [
-        "16:25"
+        "14:40"
       ]
     },
     {
@@ -111,7 +115,37 @@
       "duree": "1h 32min",
       "genre": "Drame",
       "horaires": [
+        "13:30"
+      ]
+    },
+    {
+      "titre": "Le Mage du Kremlin",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005026-le-mage-du-kremlin/",
+      "duree": "2h 25min",
+      "genre": "Thriller",
+      "horaires": [
+        "20:20"
+      ]
+    },
+    {
+      "titre": "Le Retour du projectionniste",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f1/99/f199d73801ff850d3acec13b010b446b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/303093-le-retour-du-projectionniste/",
+      "duree": "1h 20min",
+      "genre": "Documentaire",
+      "horaires": [
         "18:40"
+      ]
+    },
+    {
+      "titre": "Le Chant des forêts",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
+      "duree": "1h 33min",
+      "genre": "Documentaire",
+      "horaires": [
+        "18:45"
       ]
     }
   ]
