@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-17",
-  "dateUpdate": "2026-02-17T01:46:49.577Z",
+  "dateUpdate": "2026-02-17T04:53:30.278Z",
   "films": [
     {
       "titre": "\"Hurlevent\"",
@@ -15,7 +15,8 @@
       "duree": "2h 16min",
       "genre": "Drame, Romance",
       "horaires": [
-        "20:25"
+        "15:40",
+        "20:35"
       ]
     },
     {
@@ -25,7 +26,8 @@
       "duree": "1h 40min",
       "genre": "Animation, Comédie, Action",
       "horaires": [
-        "14:20"
+        "10:15",
+        "16:25"
       ]
     },
     {
@@ -35,8 +37,8 @@
       "duree": "1h 41min",
       "genre": "Drame, Historique, Aventure, Famille",
       "horaires": [
-        "14:00",
-        "18:30"
+        "16:15",
+        "20:45"
       ]
     },
     {
@@ -46,7 +48,8 @@
       "duree": "1h 45min",
       "genre": "Comédie",
       "horaires": [
-        "18:15"
+        "14:20",
+        "20:55"
       ]
     },
     {
@@ -56,8 +59,8 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "16:15",
-        "20:35"
+        "14:00",
+        "18:30"
       ]
     },
     {
@@ -67,17 +70,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Thriller, Drame",
       "horaires": [
-        "16:15"
-      ]
-    },
-    {
-      "titre": "Les Légendaires",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/2f/d5/2fd599857351d16d6bfdc4f2fefeb6c3.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/281028-les-legendaires/",
-      "duree": "1h 32min",
-      "genre": "Animation, Aventure, Fantastique",
-      "horaires": [
-        "16:20"
+        "13:45",
+        "20:20"
       ]
     },
     {
@@ -87,7 +81,8 @@
       "duree": "Tous publics avec avertissement",
       "genre": "Historique, Drame",
       "horaires": [
-        "20:30"
+        "10:10",
+        "18:00"
       ]
     },
     {
@@ -97,17 +92,7 @@
       "duree": "1h 32min",
       "genre": "Drame",
       "horaires": [
-        "18:40"
-      ]
-    },
-    {
-      "titre": "Amour Apocalypse",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/da/76/da7680116d3f3673b6550d3c89ea4e0c.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023004-amour-apocalypse/",
-      "duree": "1h 40min",
-      "genre": "Comédie, Romance",
-      "horaires": [
-        "20:45"
+        "16:10"
       ]
     },
     {
@@ -117,37 +102,38 @@
       "duree": "2h 5min",
       "genre": "Drame",
       "horaires": [
-        "13:45"
+        "10:30"
       ]
     },
     {
-      "titre": "Love Me Tender",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/fd/c5/fdc5ab8f6d4e8896cba70aa2176f1f85.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/289453-love-me-tender/",
-      "duree": "2h 13min",
-      "genre": "Drame",
+      "titre": "Le Retour du projectionniste",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f1/99/f199d73801ff850d3acec13b010b446b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/303093-le-retour-du-projectionniste/",
+      "duree": "1h 20min",
+      "genre": "Documentaire",
       "horaires": [
-        "13:50"
-      ]
-    },
-    {
-      "titre": "Moi Ivan, toi Abraham",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/e5/dc/e5dc68a34d3a400a61f38676fc13cfa1.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/7835-moi-ivan-toi-abraham/",
-      "duree": "1h 45min",
-      "genre": "Comédie dramatique",
-      "horaires": [
+        "13:50",
         "18:25"
       ]
     },
     {
-      "titre": "Mariage royal",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f4/48/f448f3a11c8a86a0ab0885599aa30755.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/16142-mariage-royal/",
-      "duree": "1h 34min",
-      "genre": "Comédie musicale, Comédie, Romance",
+      "titre": "L’Affaire Bojarski",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014092-laffaire-bojarski/",
+      "duree": "2h 8min",
+      "genre": "Drame",
       "horaires": [
-        "16:25"
+        "18:10"
+      ]
+    },
+    {
+      "titre": "Laurel et Hardy Premiers coups de génie",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/pictures/20/03/03/11/58/2711913.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/281618-laurel-et-hardy-premiers-coups-de-genie/",
+      "duree": "0h 52min",
+      "genre": "Comédie",
+      "horaires": [
+        "10:00"
       ]
     }
   ]
