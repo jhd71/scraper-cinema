@@ -6,8 +6,30 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-18",
-  "dateUpdate": "2026-02-18T01:49:28.155Z",
+  "dateUpdate": "2026-02-18T04:54:17.400Z",
   "films": [
+    {
+      "titre": "Le Rêve américain",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012480-le-reve-americain/",
+      "duree": "2h 1min",
+      "genre": "Comédie",
+      "horaires": [
+        "16:15",
+        "20:45"
+      ]
+    },
+    {
+      "titre": "Marty Supreme",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7d/cb/7dcb8416ab4e8fd4ff6eeaed758c6004.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007317-marty-supreme/",
+      "duree": "2h 30min",
+      "genre": "Drame, Biopic",
+      "horaires": [
+        "13:45",
+        "18:05"
+      ]
+    },
     {
       "titre": "\"Hurlevent\"",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/0b/f5/0bf52c69f64606b7325be670294cb767.jpg",
@@ -15,8 +37,8 @@
       "duree": "2h 16min",
       "genre": "Drame, Romance",
       "horaires": [
-        "15:40",
-        "20:35"
+        "15:35",
+        "20:50"
       ]
     },
     {
@@ -26,8 +48,8 @@
       "duree": "1h 40min",
       "genre": "Animation, Comédie, Action",
       "horaires": [
-        "10:15",
-        "16:25"
+        "14:10",
+        "18:40"
       ]
     },
     {
@@ -37,8 +59,8 @@
       "duree": "1h 41min",
       "genre": "Drame, Historique, Aventure, Famille",
       "horaires": [
-        "16:15",
-        "20:45"
+        "14:00",
+        "18:20"
       ]
     },
     {
@@ -48,8 +70,18 @@
       "duree": "1h 45min",
       "genre": "Comédie",
       "horaires": [
-        "14:20",
-        "20:55"
+        "16:35",
+        "21:00"
+      ]
+    },
+    {
+      "titre": "Biscuit le chien fantastique",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7b/09/7b095f309baf4441fc5966b2f217900e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017117-biscuit-le-chien-fantastique/",
+      "duree": "1h 32min",
+      "genre": "Animation, Comédie, Famille",
+      "horaires": [
+        "13:45"
       ]
     },
     {
@@ -59,81 +91,18 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "14:00",
-        "18:30"
+        "16:10",
+        "20:30"
       ]
     },
     {
-      "titre": "Gourou",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/70/e9/70e9dfd918886ca3ea4e1088f06f659c.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/328179-gourou/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Thriller, Drame",
+      "titre": "The Mastermind",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9b/e7/9be71377d6e8e664aa6225ee84a1daf5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012006-the-mastermind/",
+      "duree": "1h 50min",
+      "genre": "Drame, Policier",
       "horaires": [
-        "13:45",
-        "20:20"
-      ]
-    },
-    {
-      "titre": "Nuremberg",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/94/4a/944af0dc409db6ca8232363444dbf852.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/324466-nuremberg/",
-      "duree": "Tous publics avec avertissement",
-      "genre": "Historique, Drame",
-      "horaires": [
-        "10:10",
-        "18:00"
-      ]
-    },
-    {
-      "titre": "Promis le ciel",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/72/ba/72baef9032ae95ac8cf9be07f0cde8fe.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006454-promis-le-ciel/",
-      "duree": "1h 32min",
-      "genre": "Drame",
-      "horaires": [
-        "16:10"
-      ]
-    },
-    {
-      "titre": "Hamnet",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9a/f5/9af5f87b39938fec50f86c32c3d31b69.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/315003-hamnet/",
-      "duree": "2h 5min",
-      "genre": "Drame",
-      "horaires": [
-        "10:30"
-      ]
-    },
-    {
-      "titre": "Le Retour du projectionniste",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f1/99/f199d73801ff850d3acec13b010b446b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/303093-le-retour-du-projectionniste/",
-      "duree": "1h 20min",
-      "genre": "Documentaire",
-      "horaires": [
-        "13:50",
-        "18:25"
-      ]
-    },
-    {
-      "titre": "L’Affaire Bojarski",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014092-laffaire-bojarski/",
-      "duree": "2h 8min",
-      "genre": "Drame",
-      "horaires": [
-        "18:10"
-      ]
-    },
-    {
-      "titre": "Laurel et Hardy Premiers coups de génie",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/pictures/20/03/03/11/58/2711913.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/281618-laurel-et-hardy-premiers-coups-de-genie/",
-      "duree": "0h 52min",
-      "genre": "Comédie",
-      "horaires": [
-        "10:00"
+        "18:45"
       ]
     }
   ]
