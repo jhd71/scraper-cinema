@@ -6,7 +6,7 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-20",
-  "dateUpdate": "2026-02-20T01:33:36.519Z",
+  "dateUpdate": "2026-02-20T12:47:53.618Z",
   "films": [
     {
       "titre": "Le Rêve américain",
@@ -15,8 +15,8 @@
       "duree": "2h 1min",
       "genre": "Comédie",
       "horaires": [
-        "13:55",
-        "18:25"
+        "15:40",
+        "21:00"
       ]
     },
     {
@@ -26,8 +26,8 @@
       "duree": "2h 30min",
       "genre": "Drame, Biopic",
       "horaires": [
-        "13:45",
-        "20:15"
+        "18:10",
+        "13:45"
       ]
     },
     {
@@ -37,8 +37,8 @@
       "duree": "2h 16min",
       "genre": "Drame, Romance",
       "horaires": [
-        "17:30",
-        "14:00"
+        "15:35",
+        "20:55"
       ]
     },
     {
@@ -48,8 +48,7 @@
       "duree": "1h 40min",
       "genre": "Animation, Comédie, Action",
       "horaires": [
-        "16:20",
-        "20:50"
+        "13:45"
       ]
     },
     {
@@ -59,8 +58,8 @@
       "duree": "1h 41min",
       "genre": "Drame, Historique, Aventure, Famille",
       "horaires": [
-        "14:00",
-        "18:20"
+        "16:10",
+        "20:30"
       ]
     },
     {
@@ -70,7 +69,7 @@
       "duree": "1h 45min",
       "genre": "Comédie",
       "horaires": [
-        "18:40"
+        "21:00"
       ]
     },
     {
@@ -80,17 +79,7 @@
       "duree": "1h 32min",
       "genre": "Animation, Comédie, Famille",
       "horaires": [
-        "16:40"
-      ]
-    },
-    {
-      "titre": "Les Toutes Petites Créatures 2",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/70/e4/70e4bca25a2fa64e3574bcb887805ffe.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037794-les-toutes-petites-creatures-2/",
-      "duree": "0h 38min",
-      "genre": "Animation, Famille",
-      "horaires": [
-        "16:30"
+        "13:45"
       ]
     },
     {
@@ -100,18 +89,38 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "16:10",
-        "20:30"
+        "14:00",
+        "18:20"
       ]
     },
     {
-      "titre": "La Femme de ménage",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317403-la-femme-de-menage/",
-      "duree": "Interdit -12 ans",
-      "genre": "Thriller",
+      "titre": "Stray Kids: The dominATE Experience",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/5e/a8/5ea897b321b489044b8b3dea9f0e75ea.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037765-stray-kids-the-dominate-experience/",
+      "duree": "2h 32min",
+      "genre": "Concert",
       "horaires": [
-        "20:50"
+        "18:10"
+      ]
+    },
+    {
+      "titre": "The Mastermind",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9b/e7/9be71377d6e8e664aa6225ee84a1daf5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012006-the-mastermind/",
+      "duree": "1h 50min",
+      "genre": "Drame, Policier",
+      "horaires": [
+        "16:40"
+      ]
+    },
+    {
+      "titre": "Promis le ciel",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/72/ba/72baef9032ae95ac8cf9be07f0cde8fe.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006454-promis-le-ciel/",
+      "duree": "1h 32min",
+      "genre": "Drame",
+      "horaires": [
+        "18:55"
       ]
     }
   ]
