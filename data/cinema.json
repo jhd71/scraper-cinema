@@ -5,8 +5,8 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-02-20",
-  "dateUpdate": "2026-02-20T21:23:28.783Z",
+  "date": "2026-02-21",
+  "dateUpdate": "2026-02-21T04:28:46.532Z",
   "films": [
     {
       "titre": "Le Rêve américain",
@@ -15,8 +15,8 @@
       "duree": "2h 1min",
       "genre": "Comédie",
       "horaires": [
-        "15:40",
-        "21:00"
+        "13:55",
+        "18:25"
       ]
     },
     {
@@ -26,8 +26,8 @@
       "duree": "2h 30min",
       "genre": "Drame, Biopic",
       "horaires": [
-        "18:10",
-        "13:45"
+        "15:55",
+        "20:10"
       ]
     },
     {
@@ -37,8 +37,8 @@
       "duree": "2h 16min",
       "genre": "Drame, Romance",
       "horaires": [
-        "15:35",
-        "20:55"
+        "14:00",
+        "17:30"
       ]
     },
     {
@@ -48,7 +48,8 @@
       "duree": "1h 40min",
       "genre": "Animation, Comédie, Action",
       "horaires": [
-        "13:45"
+        "16:20",
+        "20:55"
       ]
     },
     {
@@ -58,8 +59,8 @@
       "duree": "1h 41min",
       "genre": "Drame, Historique, Aventure, Famille",
       "horaires": [
-        "16:10",
-        "20:30"
+        "14:00",
+        "18:20"
       ]
     },
     {
@@ -69,17 +70,18 @@
       "duree": "1h 45min",
       "genre": "Comédie",
       "horaires": [
-        "21:00"
+        "13:45",
+        "18:45"
       ]
     },
     {
-      "titre": "Biscuit le chien fantastique",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7b/09/7b095f309baf4441fc5966b2f217900e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017117-biscuit-le-chien-fantastique/",
-      "duree": "1h 32min",
-      "genre": "Animation, Comédie, Famille",
+      "titre": "Les Toutes Petites Créatures 2",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/70/e4/70e4bca25a2fa64e3574bcb887805ffe.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037794-les-toutes-petites-creatures-2/",
+      "duree": "0h 38min",
+      "genre": "Animation, Famille",
       "horaires": [
-        "13:45"
+        "16:30"
       ]
     },
     {
@@ -89,18 +91,8 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "14:00",
-        "18:20"
-      ]
-    },
-    {
-      "titre": "Stray Kids: The dominATE Experience",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/5e/a8/5ea897b321b489044b8b3dea9f0e75ea.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037765-stray-kids-the-dominate-experience/",
-      "duree": "2h 32min",
-      "genre": "Concert",
-      "horaires": [
-        "18:10"
+        "16:10",
+        "20:30"
       ]
     },
     {
@@ -110,17 +102,7 @@
       "duree": "1h 50min",
       "genre": "Drame, Policier",
       "horaires": [
-        "16:40"
-      ]
-    },
-    {
-      "titre": "Promis le ciel",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/72/ba/72baef9032ae95ac8cf9be07f0cde8fe.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006454-promis-le-ciel/",
-      "duree": "1h 32min",
-      "genre": "Drame",
-      "horaires": [
-        "18:55"
+        "20:55"
       ]
     }
   ]
