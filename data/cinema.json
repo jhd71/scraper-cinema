@@ -6,8 +6,18 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-22",
-  "dateUpdate": "2026-02-22T01:47:54.248Z",
+  "dateUpdate": "2026-02-22T06:44:39.625Z",
   "films": [
+    {
+      "titre": "Chers parents",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012022-chers-parents/",
+      "duree": "1h 26min",
+      "genre": "Comédie",
+      "horaires": [
+        "16:45"
+      ]
+    },
     {
       "titre": "Le Rêve américain",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
@@ -15,8 +25,8 @@
       "duree": "2h 1min",
       "genre": "Comédie",
       "horaires": [
-        "13:55",
-        "18:25"
+        "10:10",
+        "14:25"
       ]
     },
     {
@@ -26,8 +36,9 @@
       "duree": "2h 30min",
       "genre": "Drame, Biopic",
       "horaires": [
-        "15:55",
-        "20:10"
+        "18:05",
+        "20:30",
+        "10:15"
       ]
     },
     {
@@ -37,8 +48,9 @@
       "duree": "2h 16min",
       "genre": "Drame, Romance",
       "horaires": [
-        "14:00",
-        "17:30"
+        "11:15",
+        "15:35",
+        "20:50"
       ]
     },
     {
@@ -48,8 +60,8 @@
       "duree": "1h 40min",
       "genre": "Animation, Comédie, Action",
       "horaires": [
-        "16:20",
-        "20:55"
+        "12:30",
+        "18:30"
       ]
     },
     {
@@ -59,8 +71,9 @@
       "duree": "1h 41min",
       "genre": "Drame, Historique, Aventure, Famille",
       "horaires": [
-        "14:00",
-        "18:20"
+        "10:30",
+        "14:40",
+        "18:50"
       ]
     },
     {
@@ -70,8 +83,18 @@
       "duree": "1h 45min",
       "genre": "Comédie",
       "horaires": [
-        "13:45",
-        "18:45"
+        "16:40",
+        "21:00"
+      ]
+    },
+    {
+      "titre": "Biscuit le chien fantastique",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7b/09/7b095f309baf4441fc5966b2f217900e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017117-biscuit-le-chien-fantastique/",
+      "duree": "1h 32min",
+      "genre": "Animation, Comédie, Famille",
+      "horaires": [
+        "13:50"
       ]
     },
     {
@@ -81,7 +104,7 @@
       "duree": "0h 38min",
       "genre": "Animation, Famille",
       "horaires": [
-        "16:30"
+        "10:20"
       ]
     },
     {
@@ -91,18 +114,39 @@
       "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
       "horaires": [
-        "16:10",
-        "20:30"
+        "12:30",
+        "16:45",
+        "20:55"
       ]
     },
     {
-      "titre": "The Mastermind",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/9b/e7/9be71377d6e8e664aa6225ee84a1daf5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012006-the-mastermind/",
-      "duree": "1h 50min",
-      "genre": "Drame, Policier",
+      "titre": "Baise-en-ville",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/8e/a5/8ea5ebba183c85d8c42b36a96b66d517.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004512-baise-en-ville/",
+      "duree": "1h 34min",
+      "genre": "Comédie",
       "horaires": [
-        "20:55"
+        "12:55"
+      ]
+    },
+    {
+      "titre": "Gourou",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/70/e9/70e9dfd918886ca3ea4e1088f06f659c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/328179-gourou/",
+      "duree": "Tous publics avec avertissement",
+      "genre": "Thriller, Drame",
+      "horaires": [
+        "18:40"
+      ]
+    },
+    {
+      "titre": "Le Chant des forêts",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/",
+      "duree": "1h 33min",
+      "genre": "Documentaire",
+      "horaires": [
+        "14:50"
       ]
     }
   ]
