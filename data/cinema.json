@@ -6,122 +6,122 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-02-23",
-  "dateUpdate": "2026-02-23T04:02:02.885Z",
+  "dateUpdate": "2026-02-23T04:49:57.467Z",
   "films": [
     {
       "titre": "Le Rêve américain",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012480-le-reve-americain/",
-      "duree": "2h 1min",
       "genre": "Comédie",
+      "duree": "2h 1min",
       "horaires": [
         "15:55",
         "20:55"
-      ]
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012480-le-reve-americain/"
     },
     {
       "titre": "Marty Supreme",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/7d/cb/7dcb8416ab4e8fd4ff6eeaed758c6004.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007317-marty-supreme/",
-      "duree": "2h 30min",
       "genre": "Drame, Biopic",
+      "duree": "2h 30min",
       "horaires": [
         "20:00"
-      ]
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/7d/cb/7dcb8416ab4e8fd4ff6eeaed758c6004.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007317-marty-supreme/"
     },
     {
       "titre": "\"Hurlevent\"",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/0b/f5/0bf52c69f64606b7325be670294cb767.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007235-hurlevent/",
-      "duree": "2h 16min",
       "genre": "Drame, Romance",
+      "duree": "2h 16min",
       "horaires": [
         "18:15"
-      ]
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0b/f5/0bf52c69f64606b7325be670294cb767.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007235-hurlevent/"
     },
     {
       "titre": "Goat - rêver plus haut",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/37/b7/37b765610a647216c6dd6ea52d3170bd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/326824-goat-rever-plus-haut/",
-      "duree": "1h 40min",
       "genre": "Animation, Comédie, Action",
+      "duree": "1h 40min",
       "horaires": [
         "13:55"
-      ]
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/37/b7/37b765610a647216c6dd6ea52d3170bd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/326824-goat-rever-plus-haut/"
     },
     {
       "titre": "Les Enfants de la Résistance",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006174-les-enfants-de-la-resistance/",
-      "duree": "1h 41min",
       "genre": "Drame, Historique, Aventure, Famille",
+      "duree": "1h 41min",
       "horaires": [
         "16:10",
         "20:30"
-      ]
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006174-les-enfants-de-la-resistance/"
     },
     {
       "titre": "LOL 2.0",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024120-lol-20/",
-      "duree": "1h 45min",
       "genre": "Comédie",
+      "duree": "1h 45min",
       "horaires": [
         "13:50",
         "17:55"
-      ]
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024120-lol-20/"
     },
     {
       "titre": "Marsupilami",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317669-marsupilami/",
-      "duree": "1h 39min",
       "genre": "Comédie, Aventure, Famille",
+      "duree": "1h 39min",
       "horaires": [
         "14:00",
         "18:20"
-      ]
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/317669-marsupilami/"
     },
     {
       "titre": "Promis le ciel",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/72/ba/72baef9032ae95ac8cf9be07f0cde8fe.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006454-promis-le-ciel/",
-      "duree": "1h 32min",
       "genre": "Drame",
+      "duree": "1h 32min",
       "horaires": [
         "16:00"
-      ]
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/72/ba/72baef9032ae95ac8cf9be07f0cde8fe.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006454-promis-le-ciel/"
     },
     {
       "titre": "Love Me Tender",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/fd/c5/fdc5ab8f6d4e8896cba70aa2176f1f85.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/289453-love-me-tender/",
-      "duree": "2h 13min",
       "genre": "Drame",
+      "duree": "2h 13min",
       "horaires": [
         "18:00"
-      ]
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/fd/c5/fdc5ab8f6d4e8896cba70aa2176f1f85.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/289453-love-me-tender/"
     },
     {
       "titre": "Moi Ivan, toi Abraham",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/e5/dc/e5dc68a34d3a400a61f38676fc13cfa1.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/7835-moi-ivan-toi-abraham/",
-      "duree": "1h 45min",
       "genre": "Comédie dramatique",
+      "duree": "1h 45min",
       "horaires": [
         "14:00",
         "20:30"
-      ]
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/e5/dc/e5dc68a34d3a400a61f38676fc13cfa1.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/7835-moi-ivan-toi-abraham/"
     },
     {
       "titre": "Le Quai des brumes",
-      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/54/5f/545f55305b0e728df6df61980e66855c.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/2594-le-quai-des-brumes/",
-      "duree": "1h 31min",
       "genre": "Drame",
+      "duree": "1h 31min",
       "horaires": [
         "16:10"
-      ]
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/54/5f/545f55305b0e728df6df61980e66855c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/2594-le-quai-des-brumes/"
     }
   ]
 }
