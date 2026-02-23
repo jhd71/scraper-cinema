@@ -1,107 +1,149 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const path = require('path');
+
+const URL = 'https://www.cinemacapitole-montceau.fr/horaires/';
 
 async function scrapeCinema() {
     console.log('🎬 Démarrage du scraping du Cinéma Le Capitole...');
     
     const browser = await puppeteer.launch({
         headless: 'new',
+        executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || undefined,
         args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
     
     const page = await browser.newPage();
-    await page.setViewport({ width: 1920, height: 1080 });
     
-    // User agent pour éviter d'être bloqué
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
     
     try {
-        console.log('📡 Chargement de la page des horaires...');
-        await page.goto('https://www.cinemacapitole-montceau.fr/horaires/', {
-            waitUntil: 'networkidle2',
-            timeout: 60000
-        });
+        console.log(`📡 Chargement de ${URL}`);
+        await page.goto(URL, { waitUntil: 'networkidle2', timeout: 60000 });
         
-        // Attendre que les films soient chargés
-        await page.waitForSelector('.css-kz9mk9', { timeout: 30000 });
-        console.log('✅ Page chargée avec succès');
+        // Fermer popup cookies Didomi si présent
+        try {
+            const didomiButton = await page.$('#didomi-notice-agree-button');
+            if (didomiButton) {
+                await didomiButton.click();
+                console.log('🍪 Popup cookies fermé');
+                await new Promise(r => setTimeout(r, 1000));
+            }
+        } catch (e) {
+            console.log('Pas de popup cookies');
+        }
         
-        // Capture d'écran pour debug
-        await page.screenshot({ path: 'screenshot.png', fullPage: true });
-        console.log('📸 Screenshot sauvegardé');
+        // Attendre les films
+        await page.waitForSelector('.css-1fwauv0', { timeout: 30000 });
+        console.log('✅ Films trouvés avec .css-1fwauv0');
         
         // Extraire les données des films
         const films = await page.evaluate(() => {
             const filmElements = document.querySelectorAll('.css-1fwauv0');
-            const filmsData = [];
+            const results = [];
             
             filmElements.forEach((filmEl) => {
                 try {
-                    // TITRE du film
-                    const titreEl = filmEl.querySelector('.css-kz9mk9 a');
-                    const titre = titreEl ? titreEl.textContent.trim() : 'Non spécifié';
+                    // Titre et lien depuis le lien principal
+                    const linkEl = filmEl.querySelector('a[title]');
+                    const titre = linkEl ? linkEl.getAttribute('title') : '';
+                    const href = linkEl ? linkEl.getAttribute('href') : '';
+                    const lien = href ? 'https://www.cinemacapitole-montceau.fr' + href : '';
                     
-                    // AFFICHE du film
-                    const imageEl = filmEl.querySelector('.css-16rc3bn img');
-                    const affiche = imageEl ? imageEl.src : '';
+                    if (!titre) return;
                     
-                    // LIEN vers la fiche du film (page individuelle)
-                    const lienEl = filmEl.querySelector('a[href*="/films/"]');
-                    const hrefFilm = lienEl ? lienEl.getAttribute('href') : null;
-                    const lien = hrefFilm ? (hrefFilm.startsWith('http') ? hrefFilm : 'https://www.cinemacapitole-montceau.fr' + hrefFilm) : 'https://www.cinemacapitole-montceau.fr/horaires/';
+                    // Affiche
+                    let affiche = '';
+                    const sourceEl = filmEl.querySelector('picture source');
+                    const imgEl = filmEl.querySelector('picture img');
                     
-                    // DURÉE
-                    const dureeEl = filmEl.querySelector('.css-uyt4dk span');
-                    const duree = dureeEl ? dureeEl.textContent.trim() : '';
+                    if (sourceEl && sourceEl.srcset) {
+                        const srcset = sourceEl.srcset;
+                        const match = srcset.match(/https:\/\/[^\s]+_500_x[^\s]+\.jpg/);
+                        if (match) {
+                            affiche = match[0];
+                        } else {
+                            const firstUrl = srcset.split(' ')[0];
+                            if (firstUrl) affiche = firstUrl;
+                        }
+                    }
+                    if (!affiche && imgEl && imgEl.src) {
+                        affiche = imgEl.src;
+                    }
                     
-                    // GENRE
-                    const genreEl = filmEl.querySelector('.css-45pqov + span, .css-fqfb77 div:last-child');
-                    let genre = '';
-                    const allSpans = filmEl.querySelectorAll('.css-45pqov');
-                    allSpans.forEach(span => {
-                        if (span.textContent.includes('Genre')) {
-                            const nextText = span.nextSibling;
-                            if (nextText) {
-                                genre = nextText.textContent.trim();
+                    // Genre
+                    let genre = 'Film';
+                    const allDivs = filmEl.querySelectorAll('.css-fqfb77 > div > div');
+                    allDivs.forEach(div => {
+                        const text = div.textContent || '';
+                        if (text.includes('Genre :')) {
+                            genre = text.replace('Genre :', '').trim();
+                        }
+                    });
+                    
+                    if (genre === 'Film') {
+                        const spans = filmEl.querySelectorAll('span.css-45pqov');
+                        spans.forEach(span => {
+                            if (span.textContent && span.textContent.includes('Genre')) {
+                                const parent = span.parentElement;
+                                if (parent) {
+                                    const fullText = parent.textContent || '';
+                                    genre = fullText.replace('Genre :', '').trim();
+                                }
                             }
+                        });
+                    }
+                    
+                    // Durée
+                    let duree = '';
+                    const dureeSpans = filmEl.querySelectorAll('.css-uyt4dk span');
+                    dureeSpans.forEach(span => {
+                        const text = span.textContent?.trim() || '';
+                        if (/^\d+h\s*\d*min?$/.test(text)) {
+                            duree = text;
                         }
                     });
                     
-                    // TOUS LES HORAIRES
-                    const horaireElements = filmEl.querySelectorAll('.css-caniai time span, .css-148nby5 time span');
+                    // Horaires
                     const horaires = [];
-                    horaireElements.forEach(h => {
-                        const horaire = h.textContent.trim();
-                        if (horaire && !horaires.includes(horaire)) {
-                            horaires.push(horaire);
+                    const timeElements = filmEl.querySelectorAll('time span');
+                    timeElements.forEach(time => {
+                        const h = time.textContent?.trim();
+                        if (h && /^\d{1,2}:\d{2}$/.test(h)) {
+                            horaires.push(h);
                         }
                     });
                     
-                    // Ajouter seulement si on a au moins un horaire
-                    if (horaires.length > 0 && titre !== 'Non spécifié') {
-                        filmsData.push({
-                            titre: titre,
-                            affiche: affiche,
-                            lien: lien,
-                            duree: duree,
-                            genre: genre,
-                            horaires: horaires
+                    if (horaires.length === 0) {
+                        const horaireLinks = filmEl.querySelectorAll('a[aria-label]');
+                        horaireLinks.forEach(link => {
+                            const label = link.getAttribute('aria-label');
+                            if (label && /^\d{1,2}:\d{2}$/.test(label)) {
+                                horaires.push(label);
+                            }
+                        });
+                    }
+                    
+                    if (horaires.length > 0) {
+                        results.push({
+                            titre,
+                            genre,
+                            duree,
+                            horaires,
+                            affiche,
+                            lien
                         });
                     }
                 } catch (e) {
-                    console.error('Erreur extraction film:', e);
+                    console.log('Erreur extraction film:', e.message);
                 }
             });
             
-            return filmsData;
+            return results;
         });
         
         console.log(`🎬 ${films.length} films trouvés`);
-        
-        // Afficher les films trouvés
-        films.forEach((film, index) => {
-            console.log(`  ${index + 1}. ${film.titre} - Horaires: ${film.horaires.join(', ')}`);
-        });
+        films.forEach(f => console.log(`   - ${f.titre} (${f.genre}) [${f.duree}] : ${f.horaires.join(', ')}`));
         
         // Créer l'objet de données final
         const data = {
@@ -117,18 +159,17 @@ async function scrapeCinema() {
         };
         
         // Créer le dossier data s'il n'existe pas
-        if (!fs.existsSync('data')) {
-            fs.mkdirSync('data');
+        const dataDir = path.join(__dirname, 'data');
+        if (!fs.existsSync(dataDir)) {
+            fs.mkdirSync(dataDir, { recursive: true });
         }
         
         // Sauvegarder le JSON
-        fs.writeFileSync('data/cinema.json', JSON.stringify(data, null, 2));
-        console.log('✅ Données sauvegardées dans data/cinema.json');
-        
-        // Sauvegarder aussi le HTML pour debug
-        const html = await page.content();
-        fs.writeFileSync('page.html', html);
-        console.log('📄 HTML sauvegardé dans page.html');
+        fs.writeFileSync(
+            path.join(dataDir, 'cinema.json'),
+            JSON.stringify(data, null, 2)
+        );
+        console.log(`✅ ${films.length} films sauvegardés dans data/cinema.json`);
         
     } catch (error) {
         console.error('❌ Erreur lors du scraping:', error);
