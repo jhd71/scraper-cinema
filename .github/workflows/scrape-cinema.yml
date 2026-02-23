@@ -18,18 +18,17 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
       - name: Cache Puppeteer
         uses: actions/cache@v4
         with:
           path: ~/.cache/puppeteer
-          key: puppeteer-${{ hashFiles('package-lock.json') }}
+          key: puppeteer-v24
           restore-keys: |
             puppeteer-
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Run scraper
         run: node scrape-cinema.js
