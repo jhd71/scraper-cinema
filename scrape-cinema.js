@@ -33,6 +33,43 @@ async function scrapeCinema() {
             console.log('Pas de popup cookies');
         }
         
+        // === CLIQUER SUR LA DATE D'AUJOURD'HUI ===
+        // Le site affiche par défaut le 1er jour de la semaine, pas forcément aujourd'hui
+        const today = new Date();
+        const todayDay = today.getDate(); // ex: 24
+        console.log(`📅 Recherche de la date du jour : ${todayDay}`);
+        
+        // Attendre que les boutons de date soient chargés
+        await new Promise(r => setTimeout(r, 2000));
+        
+        // Chercher et cliquer sur le bouton correspondant à aujourd'hui
+        const clicked = await page.evaluate((day) => {
+            // Chercher tous les boutons/liens de date dans la barre de navigation
+            const allElements = document.querySelectorAll('button, a, div[role="tab"], [class*="date"], [class*="day"], [class*="calendar"]');
+            
+            for (const el of allElements) {
+                const text = el.textContent?.trim() || '';
+                // Chercher un élément qui contient juste le numéro du jour (ex: "24" ou "MAR. 24")
+                const match = text.match(/\b(\d{1,2})\b/);
+                if (match && parseInt(match[1]) === day) {
+                    // Vérifier que c'est bien un bouton de date (petit élément, pas un gros bloc)
+                    if (el.offsetHeight < 100 && el.offsetHeight > 0) {
+                        el.click();
+                        return text;
+                    }
+                }
+            }
+            return null;
+        }, todayDay);
+        
+        if (clicked) {
+            console.log(`✅ Date du jour cliquée : "${clicked}"`);
+            // Attendre que les horaires se mettent à jour
+            await new Promise(r => setTimeout(r, 2000));
+        } else {
+            console.log('⚠️ Bouton date du jour non trouvé, on continue avec la date par défaut');
+        }
+        
         // Attendre les films
         await page.waitForSelector('.css-1fwauv0', { timeout: 30000 });
         console.log('✅ Films trouvés avec .css-1fwauv0');
