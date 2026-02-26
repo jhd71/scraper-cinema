@@ -5,15 +5,15 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-02-25",
-  "dateUpdate": "2026-02-25T21:30:22.171Z",
+  "date": "2026-02-26",
+  "dateUpdate": "2026-02-26T01:28:45.274Z",
   "films": [
     {
       "titre": "Chers parents",
       "genre": "Comédie",
       "duree": "1h 26min",
       "horaires": [
-        "16:10",
+        "16:30",
         "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
@@ -24,7 +24,6 @@
       "genre": "Épouvante-horreur, Thriller",
       "duree": "1h 54min",
       "horaires": [
-        "16:20",
         "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/2f/1d/2f1d554dfd962d6049b9c1ea8cc4bbaa.jpg",
@@ -35,8 +34,8 @@
       "genre": "Comédie",
       "duree": "2h 1min",
       "horaires": [
-        "14:10",
-        "20:55"
+        "16:05",
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012480-le-reve-americain/"
@@ -46,28 +45,29 @@
       "genre": "Drame, Biopic",
       "duree": "2h 30min",
       "horaires": [
-        "13:45",
+        "13:50",
         "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/7d/cb/7dcb8416ab4e8fd4ff6eeaed758c6004.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007317-marty-supreme/"
     },
     {
-      "titre": "Goat - rêver plus haut",
-      "genre": "Animation, Comédie, Action",
-      "duree": "1h 40min",
+      "titre": "\"Hurlevent\"",
+      "genre": "Drame, Romance",
+      "duree": "2h 16min",
       "horaires": [
-        "14:20"
+        "13:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/37/b7/37b765610a647216c6dd6ea52d3170bd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/326824-goat-rever-plus-haut/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0b/f5/0bf52c69f64606b7325be670294cb767.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007235-hurlevent/"
     },
     {
       "titre": "Les Enfants de la Résistance",
       "genre": "Drame, Historique, Aventure, Famille",
       "duree": "1h 41min",
       "horaires": [
-        "18:40"
+        "14:10",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000006174-les-enfants-de-la-resistance/"
@@ -77,38 +77,37 @@
       "genre": "Comédie",
       "duree": "1h 45min",
       "horaires": [
-        "18:50"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000024120-lol-20/"
     },
     {
-      "titre": "Soulèvements",
-      "genre": "Documentaire",
-      "duree": "1h 45min",
+      "titre": "Urchin",
+      "genre": "Drame",
+      "duree": "1h 39min",
       "horaires": [
-        "18:20"
+        "16:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/c3/7a/c37aa39be9f24b3762c95b0d28a7f074.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000027296-soulevements/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/e7/82/e782432beca8a04cea3b2dc66459c4a5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019912-urchin/"
     },
     {
-      "titre": "Biscuit le chien fantastique",
-      "genre": "Animation, Comédie, Famille",
+      "titre": "À pied d'œuvre",
+      "genre": "Comédie dramatique",
       "duree": "1h 32min",
       "horaires": [
-        "16:30"
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/7b/09/7b095f309baf4441fc5966b2f217900e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017117-biscuit-le-chien-fantastique/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/a3/e1/a3e1ce65375168ab8784cfafdbef8493.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017997-a-pied-doeuvre/"
     },
     {
       "titre": "Marsupilami",
       "genre": "Comédie, Aventure, Famille",
       "duree": "1h 39min",
       "horaires": [
-        "14:00",
-        "18:10"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/317669-marsupilami/"
@@ -118,10 +117,20 @@
       "genre": "Drame, Policier",
       "duree": "1h 50min",
       "horaires": [
-        "16:40"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/9b/e7/9be71377d6e8e664aa6225ee84a1daf5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012006-the-mastermind/"
+    },
+    {
+      "titre": "La Vie après Siham",
+      "genre": "Documentaire",
+      "duree": "1h 16min",
+      "horaires": [
+        "18:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/38/18/38181f1fe67de6a511e5a075587f98a6.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023001-la-vie-apres-siham/"
     }
   ]
 }
