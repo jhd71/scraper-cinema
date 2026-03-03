@@ -5,16 +5,25 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-03-02",
-  "dateUpdate": "2026-03-02T21:27:18.658Z",
+  "date": "2026-03-03",
+  "dateUpdate": "2026-03-03T01:43:44.751Z",
   "films": [
+    {
+      "titre": "Giselle (The Royal Ballet)",
+      "genre": "Opéra",
+      "duree": "3h 30min",
+      "horaires": [
+        "20:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/4b/22/4b221820d47c7307e6be3439bb59bb69.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022520-giselle-the-royal-ballet/"
+    },
     {
       "titre": "Chers parents",
       "genre": "Comédie",
       "duree": "1h 26min",
       "horaires": [
-        "14:00",
-        "20:40"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012022-chers-parents/"
@@ -24,7 +33,7 @@
       "genre": "Épouvante-horreur, Thriller",
       "duree": "1h 54min",
       "horaires": [
-        "20:30"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/2f/1d/2f1d554dfd962d6049b9c1ea8cc4bbaa.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/318865-scream-7/"
@@ -34,7 +43,8 @@
       "genre": "Comédie",
       "duree": "2h 1min",
       "horaires": [
-        "14:10"
+        "13:45",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012480-le-reve-americain/"
@@ -44,18 +54,27 @@
       "genre": "Drame, Biopic",
       "duree": "2h 30min",
       "horaires": [
-        "20:20"
+        "15:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/7d/cb/7dcb8416ab4e8fd4ff6eeaed758c6004.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007317-marty-supreme/"
+    },
+    {
+      "titre": "\"Hurlevent\"",
+      "genre": "Drame, Romance",
+      "duree": "2h 16min",
+      "horaires": [
+        "16:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0b/f5/0bf52c69f64606b7325be670294cb767.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007235-hurlevent/"
     },
     {
       "titre": "Les Enfants de la Résistance",
       "genre": "Drame, Historique, Aventure, Famille",
       "duree": "1h 41min",
       "horaires": [
-        "13:45",
-        "18:20"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000006174-les-enfants-de-la-resistance/"
@@ -65,81 +84,60 @@
       "genre": "Comédie",
       "duree": "1h 45min",
       "horaires": [
-        "18:30"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000024120-lol-20/"
     },
     {
-      "titre": "Urchin",
-      "genre": "Drame",
+      "titre": "Send Help",
+      "genre": "Épouvante-horreur, Thriller, Comédie",
+      "duree": "1h 54min",
+      "horaires": [
+        "21:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0d/73/0d7322fd3f5eba82242087930f58c8ea.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/323164-send-help/"
+    },
+    {
+      "titre": "Soulèvements",
+      "genre": "Documentaire",
+      "duree": "1h 45min",
+      "horaires": [
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/c3/7a/c37aa39be9f24b3762c95b0d28a7f074.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000027296-soulevements/"
+    },
+    {
+      "titre": "Marsupilami",
+      "genre": "Comédie, Aventure, Famille",
       "duree": "1h 39min",
       "horaires": [
-        "18:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/e7/82/e782432beca8a04cea3b2dc66459c4a5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019912-urchin/"
-    },
-    {
-      "titre": "À pied d'œuvre",
-      "genre": "Comédie dramatique",
-      "duree": "1h 32min",
-      "horaires": [
-        "16:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/a3/e1/a3e1ce65375168ab8784cfafdbef8493.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017997-a-pied-doeuvre/"
-    },
-    {
-      "titre": "The Mastermind",
-      "genre": "Drame, Policier",
-      "duree": "1h 50min",
-      "horaires": [
-        "16:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/9b/e7/9be71377d6e8e664aa6225ee84a1daf5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012006-the-mastermind/"
-    },
-    {
-      "titre": "Baise-en-ville",
-      "genre": "Comédie",
-      "duree": "1h 34min",
-      "horaires": [
-        "16:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/8e/a5/8ea5ebba183c85d8c42b36a96b66d517.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004512-baise-en-ville/"
-    },
-    {
-      "titre": "Palestine 36",
-      "genre": "Drame",
-      "duree": "1h 59min",
-      "horaires": [
-        "13:50",
         "20:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/37/0c/370c9b5f7f8502fb80051e5e9920fe9b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022541-palestine-36/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/317669-marsupilami/"
     },
     {
-      "titre": "Le Temps des moissons",
-      "genre": "Drame",
-      "duree": "2h 15min",
-      "horaires": [
-        "18:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/74/0e/740e757ee905b05882b204567f5ea1b9.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018564-le-temps-des-moissons/"
-    },
-    {
-      "titre": "Le Chant des forêts",
+      "titre": "La Vie après Siham",
       "genre": "Documentaire",
-      "duree": "1h 33min",
+      "duree": "1h 16min",
       "horaires": [
-        "16:00"
+        "16:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/38/18/38181f1fe67de6a511e5a075587f98a6.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023001-la-vie-apres-siham/"
+    },
+    {
+      "titre": "Mariage royal",
+      "genre": "Comédie musicale, Comédie, Romance",
+      "duree": "1h 34min",
+      "horaires": [
+        "13:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f4/48/f448f3a11c8a86a0ab0885599aa30755.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/16142-mariage-royal/"
     }
   ]
 }
