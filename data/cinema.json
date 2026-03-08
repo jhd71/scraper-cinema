@@ -5,16 +5,16 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-03-07",
-  "dateUpdate": "2026-03-07T21:15:50.100Z",
+  "date": "2026-03-08",
+  "dateUpdate": "2026-03-08T01:41:25.324Z",
   "films": [
     {
       "titre": "Alter Ego",
       "genre": "Comédie",
       "duree": "1h 39min",
       "horaires": [
-        "16:10",
-        "20:20"
+        "12:20",
+        "16:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/a3/21/a3212f7a3bc901b69704c09de6e30093.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/288260-alter-ego/"
@@ -24,10 +24,9 @@
       "genre": "Animation, Aventure, Comédie",
       "duree": "1h 45min",
       "horaires": [
-        "14:00",
-        "16:20",
-        "18:40",
-        "20:55"
+        "10:30",
+        "14:40",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/fc/0ffc959e65d43de4e4e3a40b80123e9e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000009065-jumpers/"
@@ -37,7 +36,9 @@
       "genre": "Comédie",
       "duree": "1h 26min",
       "horaires": [
-        "18:30"
+        "12:40",
+        "16:45",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012022-chers-parents/"
@@ -47,8 +48,8 @@
       "genre": "Épouvante-horreur, Thriller",
       "duree": "1h 54min",
       "horaires": [
-        "14:00",
-        "20:20"
+        "10:30",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/2f/1d/2f1d554dfd962d6049b9c1ea8cc4bbaa.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/318865-scream-7/"
@@ -58,17 +59,27 @@
       "genre": "Drame",
       "duree": "1h 47min",
       "horaires": [
-        "13:50"
+        "18:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/66/c3/66c3fe35122f2e0e86e01859a80153b7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000015619-coutures/"
+    },
+    {
+      "titre": "Le Rêve américain",
+      "genre": "Comédie",
+      "duree": "2h 1min",
+      "horaires": [
+        "20:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012480-le-reve-americain/"
     },
     {
       "titre": "Maigret et le mort amoureux",
       "genre": "Policier",
       "duree": "1h 20min",
       "horaires": [
-        "16:00"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/59/d8/59d850a90c94bb8ebbbb22fbff9d4970.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/325655-maigret-et-le-mort-amoureux/"
@@ -78,7 +89,8 @@
       "genre": "Animation, Famille, Aventure, Comédie, Fantastique",
       "duree": "1h 20min",
       "horaires": [
-        "14:20"
+        "10:40",
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/f0/c9/f0c9c07f44b1e8dfd4f4793d81246491.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/326812-super-charlie/"
@@ -88,7 +100,7 @@
       "genre": "Animation, Comédie, Action",
       "duree": "1h 40min",
       "horaires": [
-        "18:00"
+        "14:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/37/b7/37b765610a647216c6dd6ea52d3170bd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/326824-goat-rever-plus-haut/"
@@ -98,20 +110,52 @@
       "genre": "Drame, Historique, Aventure, Famille",
       "duree": "1h 41min",
       "horaires": [
-        "18:10"
+        "10:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000006174-les-enfants-de-la-resistance/"
+    },
+    {
+      "titre": "LOL 2.0",
+      "genre": "Comédie",
+      "duree": "1h 45min",
+      "horaires": [
+        "14:30",
+        "20:55"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024120-lol-20/"
     },
     {
       "titre": "Marsupilami",
       "genre": "Comédie, Aventure, Famille",
       "duree": "1h 39min",
       "horaires": [
-        "20:30"
+        "16:50",
+        "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/317669-marsupilami/"
+    },
+    {
+      "titre": "Le Chant des forêts",
+      "genre": "Documentaire",
+      "duree": "1h 33min",
+      "horaires": [
+        "12:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321789-le-chant-des-forets/"
+    },
+    {
+      "titre": "Elles n’en font qu’à leur tête",
+      "genre": "Comédie, Concert",
+      "duree": "0h 56min",
+      "horaires": [
+        "14:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/pictures/22/09/12/15/54/3316373.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/306871-elles-nen-font-qua-leur-tete/"
     }
   ]
 }
