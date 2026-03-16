@@ -5,102 +5,66 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-03-15",
-  "dateUpdate": "2026-03-15T21:22:39.860Z",
+  "date": "2026-03-16",
+  "dateUpdate": "2026-03-16T01:53:39.300Z",
   "films": [
-    {
-      "titre": "Projet dernière chance",
-      "genre": "Science fiction, Action, Aventure",
-      "duree": "2h 37min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/282076-projet-derniere-chance/"
-    },
     {
       "titre": "LES K D'OR",
       "genre": "Comédie",
       "duree": "1h 36min",
       "horaires": [
-        "10:20",
-        "13:55",
-        "18:55"
+        "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/14/72/1472d7be3edc7bc25bb46224e2f64328.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000003121-les-k-dor/"
-    },
-    {
-      "titre": "Planètes",
-      "genre": "Animation, Science fiction",
-      "duree": "1h 15min",
-      "horaires": [
-        "12:40",
-        "16:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/ea/8f/ea8fb95276ef64374d453772434084b5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/279261-planetes/"
     },
     {
       "titre": "Alter Ego",
       "genre": "Comédie",
       "duree": "1h 39min",
       "horaires": [
-        "16:40",
-        "20:40"
+        "14:10",
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/a3/21/a3212f7a3bc901b69704c09de6e30093.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/288260-alter-ego/"
-    },
-    {
-      "titre": "Jumpers",
-      "genre": "Animation, Aventure, Comédie",
-      "duree": "1h 45min",
-      "horaires": [
-        "10:20",
-        "14:45",
-        "18:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/fc/0ffc959e65d43de4e4e3a40b80123e9e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009065-jumpers/"
     },
     {
       "titre": "Chers parents",
       "genre": "Comédie",
       "duree": "1h 26min",
       "horaires": [
-        "14:20",
-        "16:55"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012022-chers-parents/"
-    },
-    {
-      "titre": "EPiC: Elvis Presley in Concert",
-      "genre": "Documentaire, Concert",
-      "duree": "1h 36min",
-      "horaires": [
-        "18:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/4c/a9/4ca9330ce74e46f44ac476a9a6d8ebf9.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018720-epic-elvis-presley-in-concert/"
     },
     {
       "titre": "Is This Thing On?",
       "genre": "Drame",
       "duree": "2h 1min",
       "horaires": [
-        "20:40"
+        "15:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/2c/ae/2cae809fed06a33e5c9a55e0e28c2e92.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/317213-is-this-thing-on/"
+    },
+    {
+      "titre": "Orwell: 2+2=5",
+      "genre": "Documentaire",
+      "duree": "2h 0min",
+      "horaires": [
+        "18:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0c/2b/0c2bd5a0e4ca0f608888589f81b6a9b2.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314229-orwell-225/"
     },
     {
       "titre": "Rue Málaga",
       "genre": "Comédie dramatique",
       "duree": "1h 57min",
       "horaires": [
-        "20:50"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/4f/46/4f46a55374da1919875e846787fd1289.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020088-rue-malaga/"
@@ -110,7 +74,7 @@
       "genre": "Épouvante-horreur, Thriller",
       "duree": "1h 54min",
       "horaires": [
-        "20:50"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/2f/1d/2f1d554dfd962d6049b9c1ea8cc4bbaa.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/318865-scream-7/"
@@ -120,70 +84,71 @@
       "genre": "Drame",
       "duree": "1h 47min",
       "horaires": [
-        "12:10"
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/66/c3/66c3fe35122f2e0e86e01859a80153b7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000015619-coutures/"
-    },
-    {
-      "titre": "Le Rêve américain",
-      "genre": "Comédie",
-      "duree": "2h 1min",
-      "horaires": [
-        "12:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012480-le-reve-americain/"
     },
     {
       "titre": "Maigret et le mort amoureux",
       "genre": "Policier",
       "duree": "1h 20min",
       "horaires": [
-        "12:15"
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/59/d8/59d850a90c94bb8ebbbb22fbff9d4970.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/325655-maigret-et-le-mort-amoureux/"
     },
     {
-      "titre": "Les Enfants de la Résistance",
-      "genre": "Drame, Historique, Aventure, Famille",
-      "duree": "1h 41min",
-      "horaires": [
-        "14:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006174-les-enfants-de-la-resistance/"
-    },
-    {
-      "titre": "La Femme de ménage",
-      "genre": "Thriller",
-      "duree": "2h 13min",
+      "titre": "Les Échos du passé",
+      "genre": "Drame",
+      "duree": "2h 35min",
       "horaires": [
         "18:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317403-la-femme-de-menage/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/16/07/1607b1aa4e7516d75f83006f89c4cb20.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/325123-les-echos-du-passe/"
     },
     {
-      "titre": "L’Attachement",
+      "titre": "L’Engloutie",
       "genre": "Drame",
-      "duree": "1h 45min",
+      "duree": "1h 37min",
       "horaires": [
-        "10:30"
+        "13:50",
+        "20:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/83/a4/83a423a22c4438f3ecae29e227b2f6a9.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/313781-lattachement/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/a8/23/a823d4d9bc40438a7af124111fc67d19.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/311909-lengloutie/"
     },
     {
-      "titre": "Le merveilleux hiver de Tom le chat",
-      "genre": "Aventure, Animation",
-      "duree": "1h 2min",
+      "titre": "Dossier 137",
+      "genre": "Policier",
+      "duree": "1h 55min",
       "horaires": [
-        "10:45"
+        "20:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/5c/9c/5c9cd81d62ffb0bed10112b31a6307a7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000032461-le-merveilleux-hiver-de-tom-le-chat/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f2/64/f2640084cabb11cf1457d43888f43084.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000008860-dossier-137/"
+    },
+    {
+      "titre": "La Femme la plus riche du Monde",
+      "genre": "Comédie dramatique",
+      "duree": "2h 3min",
+      "horaires": [
+        "13:55"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/e1/6e/e16e8e1896a723183dca39a874939073.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006191-la-femme-la-plus-riche-du-monde/"
+    },
+    {
+      "titre": "Nosferatu, fantôme de la nuit",
+      "genre": "Épouvante-horreur",
+      "duree": "1h 47min",
+      "horaires": [
+        "15:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/49/00/4900977318bf7b5b18656cb5ef3484ae.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1382-nosferatu-fantome-de-la-nuit/"
     }
   ]
 }
