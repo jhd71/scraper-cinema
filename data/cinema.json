@@ -5,15 +5,38 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-03-17",
-  "dateUpdate": "2026-03-17T21:31:29.758Z",
+  "date": "2026-03-18",
+  "dateUpdate": "2026-03-18T01:46:55.087Z",
   "films": [
+    {
+      "titre": "Les Rayons et les Ombres",
+      "genre": "Drame, Historique",
+      "duree": "3h 19min",
+      "horaires": [
+        "14:00",
+        "19:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007343-les-rayons-et-les-ombres/"
+    },
+    {
+      "titre": "Projet dernière chance",
+      "genre": "Science fiction, Action, Aventure",
+      "duree": "2h 37min",
+      "horaires": [
+        "16:00",
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/282076-projet-derniere-chance/"
+    },
     {
       "titre": "LES K D'OR",
       "genre": "Comédie",
       "duree": "1h 36min",
       "horaires": [
-        "18:40"
+        "16:20",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/14/72/1472d7be3edc7bc25bb46224e2f64328.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000003121-les-k-dor/"
@@ -23,18 +46,28 @@
       "genre": "Animation, Science fiction",
       "duree": "1h 15min",
       "horaires": [
-        "18:50"
+        "18:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/ea/8f/ea8fb95276ef64374d453772434084b5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/279261-planetes/"
+    },
+    {
+      "titre": "Victor comme tout le monde",
+      "genre": "Comédie dramatique",
+      "duree": "1h 28min",
+      "horaires": [
+        "14:20",
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/7b/ec/7bec0c5e6b6d2cf4f985353223ae133a.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000021956-victor-comme-tout-le-monde/"
     },
     {
       "titre": "Alter Ego",
       "genre": "Comédie",
       "duree": "1h 39min",
       "horaires": [
-        "14:00",
-        "18:10"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/a3/21/a3212f7a3bc901b69704c09de6e30093.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/288260-alter-ego/"
@@ -44,110 +77,50 @@
       "genre": "Animation, Aventure, Comédie",
       "duree": "1h 45min",
       "horaires": [
-        "20:30"
+        "13:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/fc/0ffc959e65d43de4e4e3a40b80123e9e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000009065-jumpers/"
     },
     {
-      "titre": "Chers parents",
-      "genre": "Comédie",
-      "duree": "1h 26min",
+      "titre": "La Maison des femmes",
+      "genre": "Drame",
+      "duree": "1h 50min",
       "horaires": [
         "16:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012022-chers-parents/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/d0/9f/d09ff1ec5ee43c6f7f17d6622d7422d0.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012019-la-maison-des-femmes/"
     },
     {
-      "titre": "Is This Thing On?",
-      "genre": "Drame",
-      "duree": "2h 1min",
-      "horaires": [
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/2c/ae/2cae809fed06a33e5c9a55e0e28c2e92.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317213-is-this-thing-on/"
-    },
-    {
-      "titre": "Rue Málaga",
-      "genre": "Comédie dramatique",
-      "duree": "1h 57min",
-      "horaires": [
-        "13:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/4f/46/4f46a55374da1919875e846787fd1289.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020088-rue-malaga/"
-    },
-    {
-      "titre": "Scream 7",
-      "genre": "Épouvante-horreur, Thriller",
-      "duree": "1h 54min",
-      "horaires": [
-        "20:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/2f/1d/2f1d554dfd962d6049b9c1ea8cc4bbaa.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318865-scream-7/"
-    },
-    {
-      "titre": "Coutures",
-      "genre": "Drame",
+      "titre": "Pillion",
+      "genre": "Drame, Érotique, Comédie, Romance",
       "duree": "1h 47min",
       "horaires": [
-        "16:00"
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/66/c3/66c3fe35122f2e0e86e01859a80153b7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000015619-coutures/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/53/4b/534b15308fa026cff713af2a4ccae844.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004467-pillion/"
     },
     {
-      "titre": "Le Rêve américain",
-      "genre": "Comédie",
-      "duree": "2h 1min",
+      "titre": "Rural",
+      "genre": "Documentaire",
+      "duree": "1h 33min",
       "horaires": [
-        "18:00"
+        "17:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012480-le-reve-americain/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/76/32/76325273dba162d20a31fbc235173f69.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000032102-rural/"
     },
     {
-      "titre": "Maigret et le mort amoureux",
-      "genre": "Policier",
-      "duree": "1h 20min",
-      "horaires": [
-        "14:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/59/d8/59d850a90c94bb8ebbbb22fbff9d4970.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325655-maigret-et-le-mort-amoureux/"
-    },
-    {
-      "titre": "Marty Supreme",
-      "genre": "Drame, Biopic",
-      "duree": "2h 30min",
-      "horaires": [
-        "15:55"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/7d/cb/7dcb8416ab4e8fd4ff6eeaed758c6004.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007317-marty-supreme/"
-    },
-    {
-      "titre": "Les Enfants de la Résistance",
-      "genre": "Drame, Historique, Aventure, Famille",
-      "duree": "1h 41min",
+      "titre": "The Bride!",
+      "genre": "Drame, Thriller, Romance, Science fiction, Épouvante-horreur",
+      "duree": "2h 7min",
       "horaires": [
         "20:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006174-les-enfants-de-la-resistance/"
-    },
-    {
-      "titre": "Nouvelle Vague",
-      "genre": "Biopic, Comédie, Drame",
-      "duree": "1h 46min",
-      "horaires": [
-        "16:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/46/38/46383415873af63e1cf2ece6098b21c8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/323491-nouvelle-vague/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/1b/45/1b45ecb07e76bd594a85997de715f925.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/180943-the-bride/"
     }
   ]
 }
