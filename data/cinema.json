@@ -6,11 +6,11 @@
     "url": "https://www.cinemacapitole-montceau.fr"
   },
   "date": "2026-03-19",
-  "dateUpdate": "2026-03-19T06:51:21.855Z",
+  "dateUpdate": "2026-03-19T08:54:06.956Z",
   "films": [
     {
       "titre": "Les Rayons et les Ombres",
-      "genre": "Drame, HistoriqueTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?16:40",
+      "genre": "Drame, Historique",
       "duree": "3h 19min",
       "horaires": [
         "16:40"
@@ -20,7 +20,7 @@
     },
     {
       "titre": "Projet dernière chance",
-      "genre": "Science fiction, Action, AventureTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?16:0020:40",
+      "genre": "Science fiction, Action, Aventure",
       "duree": "2h 37min",
       "horaires": [
         "16:00",
@@ -31,7 +31,7 @@
     },
     {
       "titre": "Planètes",
-      "genre": "Animation, Science fictionTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?18:55",
+      "genre": "Animation, Science fiction",
       "duree": "1h 15min",
       "horaires": [
         "18:55"
@@ -41,7 +41,7 @@
     },
     {
       "titre": "Victor comme tout le monde",
-      "genre": "Comédie dramatiqueTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?16:30",
+      "genre": "Comédie dramatique",
       "duree": "1h 28min",
       "horaires": [
         "16:30"
@@ -51,7 +51,7 @@
     },
     {
       "titre": "Alter Ego",
-      "genre": "ComédieTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?16:00",
+      "genre": "Comédie",
       "duree": "1h 39min",
       "horaires": [
         "16:00"
@@ -61,7 +61,7 @@
     },
     {
       "titre": "La Maison des femmes",
-      "genre": "DrameTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?20:30",
+      "genre": "Drame",
       "duree": "1h 50min",
       "horaires": [
         "20:30"
@@ -71,7 +71,7 @@
     },
     {
       "titre": "Pillion",
-      "genre": "Drame, Érotique, Comédie, RomanceTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?20:20",
+      "genre": "Drame, Érotique, Comédie, Romance",
       "duree": "1h 47min",
       "horaires": [
         "20:20"
@@ -81,7 +81,7 @@
     },
     {
       "titre": "The Bride!",
-      "genre": "Drame, Thriller, Romance, Science fiction, Épouvante-horreurAujourd’hui?13:55",
+      "genre": "Film",
       "duree": "2h 7min",
       "horaires": [
         "13:55"
@@ -91,7 +91,7 @@
     },
     {
       "titre": "Rue Málaga",
-      "genre": "Comédie dramatiqueTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?13:45",
+      "genre": "Comédie dramatique",
       "duree": "1h 57min",
       "horaires": [
         "13:45"
@@ -101,7 +101,7 @@
     },
     {
       "titre": "Nosferatu, fantôme de la nuit",
-      "genre": "Épouvante-horreurNOSFERATU, FANTÔME DE LA NUITClassique  En savoir plusAujourd’hui?18:20",
+      "genre": "Épouvante-horreur",
       "duree": "1h 47min",
       "horaires": [
         "18:20"
