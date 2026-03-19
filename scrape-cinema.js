@@ -107,11 +107,20 @@ async function scrapeCinema() {
                     }
                     if (!affiche && imgEl && imgEl.src) affiche = imgEl.src;
                     
-                    // Genre
+                    // Genre - chercher le petit élément qui contient "Genre :"
                     let genre = 'Film';
                     const allText = container.textContent || '';
-                    const genreMatch = allText.match(/Genre\s*:\s*([^\n]+)/);
-                    if (genreMatch) genre = genreMatch[1].trim();
+                    const allEls = container.querySelectorAll('div, span, p');
+                    for (const el of allEls) {
+                        const t = el.textContent?.trim() || '';
+                        if (t.includes('Genre') && t.includes(':') && t.length < 80) {
+                            const g = t.replace(/.*Genre\s*:\s*/, '').trim();
+                            if (g && g.length > 1 && g.length < 50) {
+                                genre = g;
+                                break;
+                            }
+                        }
+                    }
                     
                     // Durée
                     let duree = '';
