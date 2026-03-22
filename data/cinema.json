@@ -5,16 +5,16 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-03-21",
-  "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-03-21T21:19:03.322Z",
+  "date": "2026-03-22",
+  "dateLabel": "Dim.22",
+  "dateUpdate": "2026-03-22T01:11:10.140Z",
   "films": [
     {
       "titre": "Les Rayons et les Ombres",
       "genre": "Drame, Historique",
       "duree": "3h 19min",
       "horaires": [
-        "14:00",
+        "16:20",
         "19:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
@@ -25,8 +25,8 @@
       "genre": "Science fiction, Action, Aventure",
       "duree": "2h 37min",
       "horaires": [
-        "16:00",
-        "20:40"
+        "13:30",
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/282076-projet-derniere-chance/"
@@ -36,8 +36,9 @@
       "genre": "Comédie",
       "duree": "1h 36min",
       "horaires": [
-        "14:20",
-        "20:30"
+        "10:30",
+        "14:50",
+        "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/72/1472d7be3edc7bc25bb46224e2f64328.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000003121-les-k-dor/"
@@ -47,7 +48,8 @@
       "genre": "Animation, Science fiction",
       "duree": "1h 15min",
       "horaires": [
-        "18:55"
+        "10:10",
+        "16:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/8f/ea8fb95276ef64374d453772434084b5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/279261-planetes/"
@@ -57,8 +59,8 @@
       "genre": "Comédie dramatique",
       "duree": "1h 28min",
       "horaires": [
-        "14:10",
-        "20:55"
+        "11:45",
+        "16:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7b/ec/7bec0c5e6b6d2cf4f985353223ae133a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000021956-victor-comme-tout-le-monde/"
@@ -68,7 +70,7 @@
       "genre": "Comédie",
       "duree": "1h 39min",
       "horaires": [
-        "16:20"
+        "16:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a3/21/a3212f7a3bc901b69704c09de6e30093.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/288260-alter-ego/"
@@ -78,8 +80,8 @@
       "genre": "Animation, Aventure, Comédie",
       "duree": "1h 45min",
       "horaires": [
-        "13:55",
-        "17:40"
+        "10:20",
+        "14:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/fc/0ffc959e65d43de4e4e3a40b80123e9e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000009065-jumpers/"
@@ -89,7 +91,7 @@
       "genre": "Drame",
       "duree": "1h 50min",
       "horaires": [
-        "16:10"
+        "10:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d0/9f/d09ff1ec5ee43c6f7f17d6622d7422d0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012019-la-maison-des-femmes/"
@@ -99,20 +101,71 @@
       "genre": "Drame, Érotique, Comédie, Romance",
       "duree": "1h 47min",
       "horaires": [
-        "18:20"
+        "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/53/4b/534b15308fa026cff713af2a4ccae844.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000004467-pillion/"
+    },
+    {
+      "titre": "Rural",
+      "genre": "Documentaire",
+      "duree": "1h 33min",
+      "horaires": [
+        "12:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/76/32/76325273dba162d20a31fbc235173f69.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000032102-rural/"
     },
     {
       "titre": "The Bride!",
       "genre": "Film",
       "duree": "2h 7min",
       "horaires": [
-        "18:20"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1b/45/1b45ecb07e76bd594a85997de715f925.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/180943-the-bride/"
+    },
+    {
+      "titre": "EPiC: Elvis Presley in Concert",
+      "genre": "Documentaire, Concert",
+      "duree": "1h 36min",
+      "horaires": [
+        "14:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4c/a9/4ca9330ce74e46f44ac476a9a6d8ebf9.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018720-epic-elvis-presley-in-concert/"
+    },
+    {
+      "titre": "Is This Thing On?",
+      "genre": "Drame",
+      "duree": "2h 1min",
+      "horaires": [
+        "20:55",
+        "12:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2c/ae/2cae809fed06a33e5c9a55e0e28c2e92.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/317213-is-this-thing-on/"
+    },
+    {
+      "titre": "Orwell: 2+2=5",
+      "genre": "Documentaire",
+      "duree": "52h 0min",
+      "horaires": [
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/2b/0c2bd5a0e4ca0f608888589f81b6a9b2.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314229-orwell-225/"
+    },
+    {
+      "titre": "Rue Málaga",
+      "genre": "Comédie dramatique",
+      "duree": "1h 57min",
+      "horaires": [
+        "12:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/46/4f46a55374da1919875e846787fd1289.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020088-rue-malaga/"
     }
   ]
 }
