@@ -161,8 +161,8 @@ async function scrapeCinema() {
             
             console.log(`📅 ${dateBtns.length} boutons de dates trouvés: ${dateBtns.map(b => b.text).join(', ')}`);
             
-            // Ignorer le premier (aujourd'hui, déjà testé), essayer les suivants
-            for (let i = 1; i < Math.min(dateBtns.length, 4); i++) {
+            // Essayer chaque bouton de date jusqu'à trouver des films
+            for (let i = 0; i < Math.min(dateBtns.length, 5); i++) {
                 const btn = dateBtns[i];
                 console.log(`📅 Essai du ${btn.text}...`);
                 
@@ -190,7 +190,14 @@ async function scrapeCinema() {
                     films = await extractFilms(page);
                     
                     if (films.length > 0) {
-                        dateLabel = btn.text.charAt(0).toUpperCase() + btn.text.slice(1);
+                        // Vérifier si la date trouvée est aujourd'hui (heure Paris)
+                        const parisDate = new Date().toLocaleDateString('fr-FR', { timeZone: 'Europe/Paris', day: 'numeric' });
+                        const btnNum = btn.text.match(/\d+/);
+                        if (btnNum && btnNum[0] === parisDate) {
+                            dateLabel = "Aujourd'hui";
+                        } else {
+                            dateLabel = btn.text.charAt(0).toUpperCase() + btn.text.slice(1);
+                        }
                         console.log(`✅ ${films.length} films trouvés pour ${dateLabel}`);
                         break;
                     }
