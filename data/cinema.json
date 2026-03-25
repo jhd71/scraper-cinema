@@ -5,16 +5,36 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-03-24",
+  "date": "2026-03-25",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-03-24T21:32:35.192Z",
+  "dateUpdate": "2026-03-25T01:45:48.210Z",
   "films": [
+    {
+      "titre": "Droits dans leurs bottes",
+      "genre": "Documentaire",
+      "duree": "1h 25min",
+      "horaires": [
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/81/a2/81a2b14fba760c7308863008bccd2242.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000039030-droits-dans-leurs-bottes/"
+    },
+    {
+      "titre": "Les Filles du ciel",
+      "genre": "Drame",
+      "duree": "1h 36min",
+      "horaires": [
+        "20:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4e/b7/4eb7083418c36bfd338cd34374143071.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/323410-les-filles-du-ciel/"
+    },
     {
       "titre": "Les Rayons et les Ombres",
       "genre": "Drame, Historique",
       "duree": "3h 19min",
       "horaires": [
-        "14:00",
+        "16:10",
         "19:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
@@ -25,29 +45,28 @@
       "genre": "Science fiction, Action, Aventure",
       "duree": "2h 37min",
       "horaires": [
-        "15:30",
-        "20:40"
+        "13:50",
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/282076-projet-derniere-chance/"
     },
     {
-      "titre": "LES K D'OR",
-      "genre": "Comédie",
-      "duree": "1h 36min",
+      "titre": "Le Crime du 3e étage",
+      "genre": "Comédie dramatique, Policier",
+      "duree": "1h 44min",
       "horaires": [
-        "16:30",
-        "20:50"
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/72/1472d7be3edc7bc25bb46224e2f64328.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003121-les-k-dor/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/0f/b20fa135f8ed4c7d0a5e0949c56e095e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020100-le-crime-du-3e-etage/"
     },
     {
       "titre": "Planètes",
       "genre": "Animation, Science fiction",
       "duree": "1h 15min",
       "horaires": [
-        "18:50"
+        "16:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/8f/ea8fb95276ef64374d453772434084b5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/279261-planetes/"
@@ -57,27 +76,17 @@
       "genre": "Comédie dramatique",
       "duree": "1h 28min",
       "horaires": [
-        "13:45"
+        "14:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7b/ec/7bec0c5e6b6d2cf4f985353223ae133a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000021956-victor-comme-tout-le-monde/"
-    },
-    {
-      "titre": "Alter Ego",
-      "genre": "Comédie",
-      "duree": "1h 39min",
-      "horaires": [
-        "14:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a3/21/a3212f7a3bc901b69704c09de6e30093.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/288260-alter-ego/"
     },
     {
       "titre": "Jumpers",
       "genre": "Animation, Aventure, Comédie",
       "duree": "1h 45min",
       "horaires": [
-        "18:30"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/fc/0ffc959e65d43de4e4e3a40b80123e9e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000009065-jumpers/"
@@ -87,50 +96,50 @@
       "genre": "Drame",
       "duree": "1h 50min",
       "horaires": [
-        "16:40"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d0/9f/d09ff1ec5ee43c6f7f17d6622d7422d0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012019-la-maison-des-femmes/"
-    },
-    {
-      "titre": "Pillion",
-      "genre": "Drame, Érotique, Comédie, Romance",
-      "duree": "1h 47min",
-      "horaires": [
-        "18:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/53/4b/534b15308fa026cff713af2a4ccae844.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004467-pillion/"
-    },
-    {
-      "titre": "Rural",
-      "genre": "Documentaire",
-      "duree": "1h 33min",
-      "horaires": [
-        "17:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/76/32/76325273dba162d20a31fbc235173f69.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000032102-rural/"
     },
     {
       "titre": "The Bride!",
       "genre": "Film",
       "duree": "2h 7min",
       "horaires": [
-        "14:10"
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1b/45/1b45ecb07e76bd594a85997de715f925.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/180943-the-bride/"
     },
     {
-      "titre": "Is This Thing On?",
-      "genre": "Drame",
-      "duree": "2h 1min",
+      "titre": "Chers parents",
+      "genre": "Comédie",
+      "duree": "1h 26min",
       "horaires": [
-        "20:30"
+        "18:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2c/ae/2cae809fed06a33e5c9a55e0e28c2e92.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317213-is-this-thing-on/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012022-chers-parents/"
+    },
+    {
+      "titre": "Les Enfants de la Résistance",
+      "genre": "Drame, Historique, Aventure, Famille",
+      "duree": "1h 41min",
+      "horaires": [
+        "14:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006174-les-enfants-de-la-resistance/"
+    },
+    {
+      "titre": "La Fête du court métrage : Viens voir les comédiens",
+      "genre": "Comédie, Drame",
+      "duree": "1h 31min",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2f/ab/2fabeaf57d8b63e921e2230e94396d10.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/281175-la-fete-du-court-metrage-viens-voir-les-comediens/"
     }
   ]
 }
