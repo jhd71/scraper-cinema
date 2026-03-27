@@ -5,26 +5,26 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-03-26T21:26:12.884Z",
+  "dateUpdate": "2026-03-27T01:51:48.872Z",
   "films": [
     {
-      "titre": "Alain Souchon - Le concert au cinéma",
-      "genre": "Concert",
-      "duree": "2h 10min",
+      "titre": "Droits dans leurs bottes",
+      "genre": "Documentaire",
+      "duree": "1h 25min",
       "horaires": [
-        "20:00"
+        "18:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f4/1b/f41b146a22d3cca512ed1097fabe8f74.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000039502-alain-souchon-le-concert-au-cinema/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/81/a2/81a2b14fba760c7308863008bccd2242.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000039030-droits-dans-leurs-bottes/"
     },
     {
       "titre": "Les Filles du ciel",
       "genre": "Drame",
       "duree": "1h 36min",
       "horaires": [
-        "18:35"
+        "16:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4e/b7/4eb7083418c36bfd338cd34374143071.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/323410-les-filles-du-ciel/"
@@ -34,7 +34,8 @@
       "genre": "Drame, Historique",
       "duree": "3h 19min",
       "horaires": [
-        "16:00"
+        "14:00",
+        "19:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007343-les-rayons-et-les-ombres/"
@@ -55,67 +56,57 @@
       "genre": "Comédie dramatique, Policier",
       "duree": "1h 44min",
       "horaires": [
-        "16:30"
+        "14:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/0f/b20fa135f8ed4c7d0a5e0949c56e095e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020100-le-crime-du-3e-etage/"
+    },
+    {
+      "titre": "LES K D'OR",
+      "genre": "Comédie",
+      "duree": "1h 36min",
+      "horaires": [
+        "18:25"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/72/1472d7be3edc7bc25bb46224e2f64328.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003121-les-k-dor/"
     },
     {
       "titre": "Victor comme tout le monde",
       "genre": "Comédie dramatique",
       "duree": "1h 28min",
       "horaires": [
-        "18:40"
+        "16:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7b/ec/7bec0c5e6b6d2cf4f985353223ae133a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000021956-victor-comme-tout-le-monde/"
     },
     {
-      "titre": "Alter Ego",
-      "genre": "Comédie",
-      "duree": "1h 39min",
+      "titre": "Jumpers",
+      "genre": "Animation, Aventure, Comédie",
+      "duree": "1h 45min",
       "horaires": [
-        "14:00"
+        "17:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a3/21/a3212f7a3bc901b69704c09de6e30093.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/288260-alter-ego/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/fc/0ffc959e65d43de4e4e3a40b80123e9e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009065-jumpers/"
     },
     {
       "titre": "La Maison des femmes",
       "genre": "Drame",
       "duree": "1h 50min",
       "horaires": [
-        "14:20"
+        "20:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d0/9f/d09ff1ec5ee43c6f7f17d6622d7422d0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012019-la-maison-des-femmes/"
-    },
-    {
-      "titre": "Pillion",
-      "genre": "Drame, Érotique, Comédie, Romance",
-      "duree": "1h 47min",
-      "horaires": [
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/53/4b/534b15308fa026cff713af2a4ccae844.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004467-pillion/"
-    },
-    {
-      "titre": "Rural",
-      "genre": "Documentaire",
-      "duree": "1h 33min",
-      "horaires": [
-        "16:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/76/32/76325273dba162d20a31fbc235173f69.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000032102-rural/"
     },
     {
       "titre": "The Bride!",
       "genre": "Film",
       "duree": "2h 7min",
       "horaires": [
-        "18:00"
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1b/45/1b45ecb07e76bd594a85997de715f925.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/180943-the-bride/"
@@ -125,30 +116,30 @@
       "genre": "Comédie",
       "duree": "1h 26min",
       "horaires": [
-        "16:15"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012022-chers-parents/"
     },
     {
-      "titre": "EPiC: Elvis Presley in Concert",
-      "genre": "Documentaire, Concert",
-      "duree": "1h 36min",
+      "titre": "Orwell: 2+2=5",
+      "genre": "Documentaire",
+      "duree": "52h 0min",
       "horaires": [
         "14:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4c/a9/4ca9330ce74e46f44ac476a9a6d8ebf9.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018720-epic-elvis-presley-in-concert/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/2b/0c2bd5a0e4ca0f608888589f81b6a9b2.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314229-orwell-225/"
     },
     {
-      "titre": "Scream 7",
-      "genre": "Épouvante-horreur, Thriller",
-      "duree": "1h 54min",
+      "titre": "La Fête du court métrage : Cannes tout courts",
+      "genre": "Comédie, Drame",
+      "duree": "1h 28min",
       "horaires": [
-        "20:35"
+        "16:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2f/1d/2f1d554dfd962d6049b9c1ea8cc4bbaa.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318865-scream-7/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/21/a5215ad4d0814ab2d7e269297a7f0737.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/281174-la-fete-du-court-metrage-cannes-tout-courts/"
     }
   ]
 }
