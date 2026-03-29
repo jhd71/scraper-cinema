@@ -5,16 +5,36 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-03-28T21:24:36.662Z",
+  "dateUpdate": "2026-03-29T01:54:32.817Z",
   "films": [
+    {
+      "titre": "L'Enfant Du Désert",
+      "genre": "Aventure, Famille",
+      "duree": "",
+      "horaires": [
+        "17:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9d/15/9d157ac17daf804e350714f1f925c6bb.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023671-lenfant-du-desert/"
+    },
+    {
+      "titre": "Compostelle",
+      "genre": "Comédie, Drame",
+      "duree": "",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/3d/5b3d2c4e0f58bab97b979611615ea321.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016304-compostelle/"
+    },
     {
       "titre": "Les Filles du ciel",
       "genre": "Drame",
       "duree": "1h 36min",
       "horaires": [
-        "14:20"
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4e/b7/4eb7083418c36bfd338cd34374143071.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/323410-les-filles-du-ciel/"
@@ -24,8 +44,8 @@
       "genre": "Drame, Historique",
       "duree": "3h 19min",
       "horaires": [
-        "14:00",
-        "19:50"
+        "12:45",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007343-les-rayons-et-les-ombres/"
@@ -35,7 +55,7 @@
       "genre": "Science fiction, Action, Aventure",
       "duree": "2h 37min",
       "horaires": [
-        "16:00",
+        "14:20",
         "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
@@ -46,17 +66,28 @@
       "genre": "Comédie dramatique, Policier",
       "duree": "1h 44min",
       "horaires": [
-        "20:20"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/0f/b20fa135f8ed4c7d0a5e0949c56e095e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020100-le-crime-du-3e-etage/"
+    },
+    {
+      "titre": "LES K D'OR",
+      "genre": "Comédie",
+      "duree": "1h 36min",
+      "horaires": [
+        "12:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/72/1472d7be3edc7bc25bb46224e2f64328.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003121-les-k-dor/"
     },
     {
       "titre": "Planètes",
       "genre": "Animation, Science fiction",
       "duree": "1h 15min",
       "horaires": [
-        "18:55"
+        "10:20",
+        "19:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/8f/ea8fb95276ef64374d453772434084b5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/279261-planetes/"
@@ -66,7 +97,7 @@
       "genre": "Comédie dramatique",
       "duree": "1h 28min",
       "horaires": [
-        "18:30"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7b/ec/7bec0c5e6b6d2cf4f985353223ae133a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000021956-victor-comme-tout-le-monde/"
@@ -76,7 +107,7 @@
       "genre": "Animation, Aventure, Comédie",
       "duree": "1h 45min",
       "horaires": [
-        "13:55"
+        "10:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/fc/0ffc959e65d43de4e4e3a40b80123e9e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000009065-jumpers/"
@@ -86,7 +117,7 @@
       "genre": "Drame",
       "duree": "1h 50min",
       "horaires": [
-        "16:20"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d0/9f/d09ff1ec5ee43c6f7f17d6622d7422d0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012019-la-maison-des-femmes/"
@@ -96,7 +127,7 @@
       "genre": "Drame, Érotique, Comédie, Romance",
       "duree": "1h 47min",
       "horaires": [
-        "20:50"
+        "18:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/53/4b/534b15308fa026cff713af2a4ccae844.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000004467-pillion/"
@@ -106,40 +137,61 @@
       "genre": "Film",
       "duree": "2h 7min",
       "horaires": [
-        "18:20"
+        "20:50",
+        "12:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1b/45/1b45ecb07e76bd594a85997de715f925.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/180943-the-bride/"
     },
     {
-      "titre": "Les Enfants de la Résistance",
-      "genre": "Drame, Historique, Aventure, Famille",
-      "duree": "1h 41min",
+      "titre": "Chers parents",
+      "genre": "Comédie",
+      "duree": "1h 26min",
       "horaires": [
-        "16:20"
+        "17:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006174-les-enfants-de-la-resistance/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012022-chers-parents/"
     },
     {
-      "titre": "Marsupilami",
-      "genre": "Comédie, Aventure, Famille",
-      "duree": "1h 39min",
+      "titre": "EPiC: Elvis Presley in Concert",
+      "genre": "Documentaire, Concert",
+      "duree": "1h 36min",
       "horaires": [
-        "17:40"
+        "10:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317669-marsupilami/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4c/a9/4ca9330ce74e46f44ac476a9a6d8ebf9.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018720-epic-elvis-presley-in-concert/"
     },
     {
-      "titre": "Nosferatu, fantôme de la nuit",
-      "genre": "Épouvante-horreur",
-      "duree": "1h 47min",
+      "titre": "Rue Málaga",
+      "genre": "Comédie dramatique",
+      "duree": "1h 57min",
       "horaires": [
-        "14:10"
+        "12:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/00/4900977318bf7b5b18656cb5ef3484ae.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1382-nosferatu-fantome-de-la-nuit/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/46/4f46a55374da1919875e846787fd1289.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020088-rue-malaga/"
+    },
+    {
+      "titre": "L'Odyssée de Choum",
+      "genre": "Animation",
+      "duree": "0h 38min",
+      "horaires": [
+        "11:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/94/6e941c090be5cf2e6b68da74d6a70f13.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/268287-lodyssee-de-choum/"
+    },
+    {
+      "titre": "La Fête du court métrage : Fais-moi rire",
+      "genre": "Comédie",
+      "duree": "1h 32min",
+      "horaires": [
+        "15:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/89/8f89000c09ebb751889701e1961387a8.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/281172-la-fete-du-court-metrage-fais-moi-rire/"
     }
   ]
 }
