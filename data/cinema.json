@@ -5,141 +5,113 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-03-31T21:33:25.763Z",
+  "dateUpdate": "2026-04-01T02:01:17.563Z",
   "films": [
+    {
+      "titre": "Compostelle",
+      "genre": "Comédie, Drame",
+      "duree": "",
+      "horaires": [
+        "14:10",
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/3d/5b3d2c4e0f58bab97b979611615ea321.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016304-compostelle/"
+    },
+    {
+      "titre": "Mauvaise Pioche",
+      "genre": "Comédie",
+      "duree": "1h 32min",
+      "horaires": [
+        "16:30",
+        "20:55"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/7f/f17f79f743742e1743f00001d4d14003.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020594-mauvaise-pioche/"
+    },
+    {
+      "titre": "Super Mario Galaxy Le Film",
+      "genre": "Animation, Aventure, Famille, Action, Fantastique",
+      "duree": "1h 39min",
+      "horaires": [
+        "16:00",
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/327878-super-mario-galaxy-le-film/"
+    },
     {
       "titre": "Les Filles du ciel",
       "genre": "Drame",
       "duree": "1h 36min",
       "horaires": [
-        "16:20"
+        "14:10",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4e/b7/4eb7083418c36bfd338cd34374143071.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/323410-les-filles-du-ciel/"
+    },
+    {
+      "titre": "La Guerre des prix",
+      "genre": "Thriller",
+      "duree": "1h 36min",
+      "horaires": [
+        "18:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/82/9e/829ecf49faaf8f4534f045054c096d9d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016305-la-guerre-des-prix/"
+    },
+    {
+      "titre": "La Princesse, l'ogre et la fourmi",
+      "genre": "Animation, Famille",
+      "duree": "0h 42min",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d4/4f/d44fc9a919162a0bdf8cc6bfa82ece89.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037359-la-princesse-logre-et-la-fourmi/"
     },
     {
       "titre": "Les Rayons et les Ombres",
       "genre": "Drame, Historique",
       "duree": "3h 19min",
       "horaires": [
-        "14:00",
-        "19:50"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007343-les-rayons-et-les-ombres/"
+    },
+    {
+      "titre": "Police Flash 80",
+      "genre": "Comédie, Policier",
+      "duree": "801h 26min",
+      "horaires": [
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e0/d2e0fc59aa05b1667b14e7c3987573bc.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022941-police-flash-80/"
     },
     {
       "titre": "Projet dernière chance",
       "genre": "Science fiction, Action, Aventure",
       "duree": "2h 37min",
       "horaires": [
-        "13:45",
-        "20:35"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/282076-projet-derniere-chance/"
     },
     {
-      "titre": "Le Crime du 3e étage",
-      "genre": "Comédie dramatique, Policier",
-      "duree": "1h 44min",
+      "titre": "Reminders Of Him",
+      "genre": "Romance, Drame",
+      "duree": "1h 55min",
       "horaires": [
-        "20:40"
+        "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/0f/b20fa135f8ed4c7d0a5e0949c56e095e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020100-le-crime-du-3e-etage/"
-    },
-    {
-      "titre": "LES K D'OR",
-      "genre": "Comédie",
-      "duree": "1h 36min",
-      "horaires": [
-        "14:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/72/1472d7be3edc7bc25bb46224e2f64328.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003121-les-k-dor/"
-    },
-    {
-      "titre": "Victor comme tout le monde",
-      "genre": "Comédie dramatique",
-      "duree": "1h 28min",
-      "horaires": [
-        "18:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7b/ec/7bec0c5e6b6d2cf4f985353223ae133a.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000021956-victor-comme-tout-le-monde/"
-    },
-    {
-      "titre": "Jumpers",
-      "genre": "Animation, Aventure, Comédie",
-      "duree": "1h 45min",
-      "horaires": [
-        "17:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/fc/0ffc959e65d43de4e4e3a40b80123e9e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009065-jumpers/"
-    },
-    {
-      "titre": "La Maison des femmes",
-      "genre": "Drame",
-      "duree": "1h 50min",
-      "horaires": [
-        "18:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d0/9f/d09ff1ec5ee43c6f7f17d6622d7422d0.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012019-la-maison-des-femmes/"
-    },
-    {
-      "titre": "Pillion",
-      "genre": "Drame, Érotique, Comédie, Romance",
-      "duree": "1h 47min",
-      "horaires": [
-        "20:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/53/4b/534b15308fa026cff713af2a4ccae844.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004467-pillion/"
-    },
-    {
-      "titre": "The Bride!",
-      "genre": "Film",
-      "duree": "2h 7min",
-      "horaires": [
-        "18:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/1b/45/1b45ecb07e76bd594a85997de715f925.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/180943-the-bride/"
-    },
-    {
-      "titre": "Orwell: 2+2=5",
-      "genre": "Documentaire",
-      "duree": "52h 0min",
-      "horaires": [
-        "15:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/2b/0c2bd5a0e4ca0f608888589f81b6a9b2.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/314229-orwell-225/"
-    },
-    {
-      "titre": "Rue Málaga",
-      "genre": "Comédie dramatique",
-      "duree": "1h 57min",
-      "horaires": [
-        "16:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/46/4f46a55374da1919875e846787fd1289.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020088-rue-malaga/"
-    },
-    {
-      "titre": "La Fête du court métrage : elles au premier plan",
-      "genre": "Comédie, Drame",
-      "duree": "1h 20min",
-      "horaires": [
-        "14:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/b2/f3b223e6373b5225aa957926c9224fe7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/281186-la-fete-du-court-metrage-elles-au-premier-plan/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f7/f5/f7f5b02f75fd640bd6feb9f9581c42e0.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/315376-reminders-of-him/"
     }
   ]
 }
