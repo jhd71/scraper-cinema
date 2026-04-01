@@ -7,11 +7,11 @@
   },
   "date": "2026-04-01",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-04-01T05:18:51.061Z",
+  "dateUpdate": "2026-04-01T07:12:29.282Z",
   "films": [
     {
       "titre": "Compostelle",
-      "genre": "Comédie, Drame",
+      "genre": "Film",
       "duree": "",
       "horaires": [
         "14:10",
@@ -22,7 +22,7 @@
     },
     {
       "titre": "Mauvaise Pioche",
-      "genre": "Comédie",
+      "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
         "16:30",
@@ -33,7 +33,7 @@
     },
     {
       "titre": "Super Mario Galaxy Le Film",
-      "genre": "Animation, Aventure, Famille, Action, Fantastique",
+      "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
         "16:00",
@@ -44,7 +44,7 @@
     },
     {
       "titre": "Les Filles du ciel",
-      "genre": "Drame",
+      "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
         "14:10",
@@ -55,7 +55,7 @@
     },
     {
       "titre": "La Guerre des prix",
-      "genre": "Thriller",
+      "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
         "18:00"
@@ -65,7 +65,7 @@
     },
     {
       "titre": "La Princesse, l'ogre et la fourmi",
-      "genre": "Animation, Famille",
+      "genre": "Film",
       "duree": "0h 42min",
       "horaires": [
         "16:20"
@@ -75,7 +75,7 @@
     },
     {
       "titre": "Les Rayons et les Ombres",
-      "genre": "Drame, Historique",
+      "genre": "Film",
       "duree": "3h 19min",
       "horaires": [
         "16:10"
@@ -85,7 +85,7 @@
     },
     {
       "titre": "Police Flash 80",
-      "genre": "Comédie, Policier",
+      "genre": "Film",
       "duree": "801h 26min",
       "horaires": [
         "18:30"
@@ -95,7 +95,7 @@
     },
     {
       "titre": "Projet dernière chance",
-      "genre": "Science fiction, Action, Aventure",
+      "genre": "Film",
       "duree": "2h 37min",
       "horaires": [
         "20:30"
@@ -105,7 +105,7 @@
     },
     {
       "titre": "Reminders Of Him",
-      "genre": "Romance, Drame",
+      "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
         "14:00"
