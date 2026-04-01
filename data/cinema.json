@@ -7,12 +7,12 @@
   },
   "date": "2026-04-01",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-04-01T18:53:05.061Z",
+  "dateUpdate": "2026-04-01T21:36:29.089Z",
   "films": [
     {
       "titre": "Compostelle",
       "genre": "Film",
-      "duree": "",
+      "duree": "1h 54min",
       "horaires": [
         "14:10",
         "18:30"
