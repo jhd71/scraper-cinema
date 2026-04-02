@@ -5,16 +5,16 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-04-01T21:36:29.089Z",
+  "dateUpdate": "2026-04-02T01:49:32.297Z",
   "films": [
     {
       "titre": "Compostelle",
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "14:10",
+        "13:55",
         "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/3d/5b3d2c4e0f58bab97b979611615ea321.jpg",
@@ -25,60 +25,58 @@
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "16:30",
-        "20:55"
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/7f/f17f79f743742e1743f00001d4d14003.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020594-mauvaise-pioche/"
     },
     {
-      "titre": "Super Mario Galaxy Le Film",
+      "titre": "Droits dans leurs bottes",
       "genre": "Film",
-      "duree": "1h 39min",
+      "duree": "1h 25min",
       "horaires": [
-        "16:00",
-        "20:45"
+        "16:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/327878-super-mario-galaxy-le-film/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/81/a2/81a2b14fba760c7308863008bccd2242.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000039030-droits-dans-leurs-bottes/"
     },
     {
       "titre": "Les Filles du ciel",
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "14:10",
         "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4e/b7/4eb7083418c36bfd338cd34374143071.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/323410-les-filles-du-ciel/"
     },
     {
+      "titre": "La Danse des renards",
+      "genre": "Film",
+      "duree": "1h 34min",
+      "horaires": [
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ef/99/ef99ce4fb6db8b8348ebc254c64ab440.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/316780-la-danse-des-renards/"
+    },
+    {
       "titre": "La Guerre des prix",
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "18:00"
+        "14:10",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/82/9e/829ecf49faaf8f4534f045054c096d9d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016305-la-guerre-des-prix/"
-    },
-    {
-      "titre": "La Princesse, l'ogre et la fourmi",
-      "genre": "Film",
-      "duree": "0h 42min",
-      "horaires": [
-        "16:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d4/4f/d44fc9a919162a0bdf8cc6bfa82ece89.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037359-la-princesse-logre-et-la-fourmi/"
     },
     {
       "titre": "Les Rayons et les Ombres",
       "genre": "Film",
       "duree": "3h 19min",
       "horaires": [
-        "16:10"
+        "14:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007343-les-rayons-et-les-ombres/"
@@ -88,7 +86,7 @@
       "genre": "Film",
       "duree": "801h 26min",
       "horaires": [
-        "18:30"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e0/d2e0fc59aa05b1667b14e7c3987573bc.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022941-police-flash-80/"
@@ -108,10 +106,30 @@
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "14:00"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f7/f5/f7f5b02f75fd640bd6feb9f9581c42e0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315376-reminders-of-him/"
+    },
+    {
+      "titre": "Le Crime du 3e étage",
+      "genre": "Film",
+      "duree": "1h 44min",
+      "horaires": [
+        "16:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/0f/b20fa135f8ed4c7d0a5e0949c56e095e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020100-le-crime-du-3e-etage/"
+    },
+    {
+      "titre": "Nosferatu, fantôme de la nuit",
+      "genre": "Film",
+      "duree": "1h 47min",
+      "horaires": [
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/00/4900977318bf7b5b18656cb5ef3484ae.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1382-nosferatu-fantome-de-la-nuit/"
     }
   ]
 }
