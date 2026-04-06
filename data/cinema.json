@@ -5,17 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-04-05",
+  "date": "2026-04-06",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-04-05T21:25:35.133Z",
+  "dateUpdate": "2026-04-06T01:57:50.214Z",
   "films": [
     {
       "titre": "Compostelle",
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "12:10",
-        "16:30"
+        "14:00",
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/3d/5b3d2c4e0f58bab97b979611615ea321.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016304-compostelle/"
@@ -25,9 +25,8 @@
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "10:20",
-        "14:30",
-        "18:50"
+        "16:20",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/7f/f17f79f743742e1743f00001d4d14003.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020594-mauvaise-pioche/"
@@ -37,10 +36,8 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "12:15",
-        "14:20",
-        "16:40",
-        "20:45"
+        "13:50",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/327878-super-mario-galaxy-le-film/"
@@ -50,8 +47,7 @@
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "14:30",
-        "20:20"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4e/b7/4eb7083418c36bfd338cd34374143071.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/323410-les-filles-du-ciel/"
@@ -61,7 +57,7 @@
       "genre": "Film",
       "duree": "1h 34min",
       "horaires": [
-        "12:30"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ef/99/ef99ce4fb6db8b8348ebc254c64ab440.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/316780-la-danse-des-renards/"
@@ -71,38 +67,17 @@
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "10:20",
-        "16:00"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/82/9e/829ecf49faaf8f4534f045054c096d9d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016305-la-guerre-des-prix/"
-    },
-    {
-      "titre": "La Princesse, l'ogre et la fourmi",
-      "genre": "Film",
-      "duree": "0h 42min",
-      "horaires": [
-        "10:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d4/4f/d44fc9a919162a0bdf8cc6bfa82ece89.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037359-la-princesse-logre-et-la-fourmi/"
-    },
-    {
-      "titre": "Les Rayons et les Ombres",
-      "genre": "Film",
-      "duree": "3h 19min",
-      "horaires": [
-        "16:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007343-les-rayons-et-les-ombres/"
     },
     {
       "titre": "Police Flash 80",
       "genre": "Film",
       "duree": "801h 26min",
       "horaires": [
-        "18:00"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e0/d2e0fc59aa05b1667b14e7c3987573bc.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022941-police-flash-80/"
@@ -112,7 +87,7 @@
       "genre": "Film",
       "duree": "2h 37min",
       "horaires": [
-        "20:30"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/282076-projet-derniere-chance/"
@@ -122,7 +97,7 @@
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "11:40"
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f7/f5/f7f5b02f75fd640bd6feb9f9581c42e0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315376-reminders-of-him/"
@@ -132,40 +107,31 @@
       "genre": "Film",
       "duree": "1h 44min",
       "horaires": [
-        "20:55"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/0f/b20fa135f8ed4c7d0a5e0949c56e095e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020100-le-crime-du-3e-etage/"
     },
     {
-      "titre": "Victor comme tout le monde",
+      "titre": "Howard Zinn, une histoire populaire américaine 2",
       "genre": "Film",
-      "duree": "1h 28min",
+      "duree": "21h 52min",
       "horaires": [
-        "13:55"
+        "18:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7b/ec/7bec0c5e6b6d2cf4f985353223ae133a.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000021956-victor-comme-tout-le-monde/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/73/6e73f5172dd4c7f6a48350a1bb36e383.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000032267-howard-zinn-une-histoire-populaire-americaine-2/"
     },
     {
-      "titre": "ATHOS - Au cœur de la Patrouille de France",
+      "titre": "Los Tigres",
       "genre": "Film",
-      "duree": "1h 30min",
+      "duree": "1h 49min",
       "horaires": [
-        "18:45"
+        "14:10",
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7d/36/7d362f5b3055641d75eab9da958c8e25.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024602-athos-au-coeur-de-la-patrouille-de-france/"
-    },
-    {
-      "titre": "Marsupilami",
-      "genre": "Film",
-      "duree": "1h 39min",
-      "horaires": [
-        "10:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317669-marsupilami/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e6/07/e6072a30a6045a3cdc545da6bbafe62a.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/325967-los-tigres/"
     }
   ]
 }
