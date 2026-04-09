@@ -5,17 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-04-08T21:36:51.692Z",
+  "dateUpdate": "2026-04-09T01:46:46.261Z",
   "films": [
     {
       "titre": "Cocorico 2",
       "genre": "Film",
       "duree": "21h 31min",
       "horaires": [
-        "16:20",
-        "20:40"
+        "13:55",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/81/c481880f72da4f9a46f3fea9b0f83bf4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012412-cocorico-2/"
@@ -25,8 +25,8 @@
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "16:10",
-        "20:30"
+        "14:10",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9d/15/9d157ac17daf804e350714f1f925c6bb.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000023671-lenfant-du-desert/"
@@ -36,8 +36,8 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "13:50",
-        "18:10"
+        "16:10",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/3d/5b3d2c4e0f58bab97b979611615ea321.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016304-compostelle/"
@@ -47,8 +47,8 @@
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "13:50",
-        "18:55"
+        "14:30",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/7f/f17f79f743742e1743f00001d4d14003.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020594-mauvaise-pioche/"
@@ -58,8 +58,8 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "14:00",
-        "18:30"
+        "16:20",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/327878-super-mario-galaxy-le-film/"
@@ -69,37 +69,37 @@
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "16:55"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/91/c4/91c4697bf2f82f4dba42d64d8188ec45.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018802-ceux-qui-comptent/"
+    },
+    {
+      "titre": "Droits dans leurs bottes",
+      "genre": "Film",
+      "duree": "1h 25min",
+      "horaires": [
+        "14:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/81/a2/81a2b14fba760c7308863008bccd2242.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000039030-droits-dans-leurs-bottes/"
     },
     {
       "titre": "Walter Lapin",
       "genre": "Film",
       "duree": "1h 25min",
       "horaires": [
-        "14:20"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a2/bd/a2bdae0847360b299016dd772fc85c2b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022218-walter-lapin/"
-    },
-    {
-      "titre": "La Danse des renards",
-      "genre": "Film",
-      "duree": "1h 34min",
-      "horaires": [
-        "18:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ef/99/ef99ce4fb6db8b8348ebc254c64ab440.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/316780-la-danse-des-renards/"
     },
     {
       "titre": "La Guerre des prix",
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "20:50"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/82/9e/829ecf49faaf8f4534f045054c096d9d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016305-la-guerre-des-prix/"
@@ -109,30 +109,20 @@
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "16:10"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f7/f5/f7f5b02f75fd640bd6feb9f9581c42e0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315376-reminders-of-him/"
     },
     {
-      "titre": "Le Crime du 3e étage",
+      "titre": "ATHOS - Au cœur de la Patrouille de France",
       "genre": "Film",
-      "duree": "1h 44min",
+      "duree": "1h 30min",
       "horaires": [
-        "20:50"
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/0f/b20fa135f8ed4c7d0a5e0949c56e095e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020100-le-crime-du-3e-etage/"
-    },
-    {
-      "titre": "Jack et Nancy - les plus belles histoires de Quentin Blake",
-      "genre": "Film",
-      "duree": "0h 52min",
-      "horaires": [
-        "15:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3d/76/3d76384dc9a14c36165ea3b2df314ceb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024997-jack-et-nancy-les-plus-belles-histoires-de-quentin-blake/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7d/36/7d362f5b3055641d75eab9da958c8e25.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024602-athos-au-coeur-de-la-patrouille-de-france/"
     }
   ]
 }
