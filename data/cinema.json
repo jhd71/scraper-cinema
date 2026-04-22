@@ -5,17 +5,60 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-04-21T21:40:06.289Z",
+  "dateUpdate": "2026-04-22T02:00:28.681Z",
   "films": [
+    {
+      "titre": "Michael",
+      "genre": "Film",
+      "duree": "2h 8min",
+      "horaires": [
+        "13:50",
+        "20:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/279306-michael/"
+    },
+    {
+      "titre": "Nous l’orchestre",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "20:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b0/b6/b0b697a9f50e276e76eb4660fe084869.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/313953-nous-lorchestre/"
+    },
+    {
+      "titre": "Pour le meilleur",
+      "genre": "Film",
+      "duree": "1h 47min",
+      "horaires": [
+        "14:00",
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/70/d6/70d6f7006ed9b8dbaf991e6922ba60f7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020101-pour-le-meilleur/"
+    },
+    {
+      "titre": "Good Luck Have Fun Don't Die",
+      "genre": "Film",
+      "duree": "2h 15min",
+      "horaires": [
+        "16:10",
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/42/e1/42e15e9df4857aedd4142dcc6339306c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/326953-good-luck-have-fun-dont-die/"
+    },
     {
       "titre": "Juste une illusion",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "16:20",
-        "20:40"
+        "16:15",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000015954-juste-une-illusion/"
@@ -25,79 +68,48 @@
       "genre": "Film",
       "duree": "21h 31min",
       "horaires": [
-        "13:55",
-        "18:40"
+        "18:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/81/c481880f72da4f9a46f3fea9b0f83bf4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012412-cocorico-2/"
     },
     {
-      "titre": "L'Enfant Du Désert",
+      "titre": "La Femme de",
       "genre": "Film",
-      "duree": "1h 32min",
+      "duree": "1h 33min",
       "horaires": [
-        "16:15",
-        "20:30"
+        "14:20",
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9d/15/9d157ac17daf804e350714f1f925c6bb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023671-lenfant-du-desert/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4d/e3/4de3841fc2b8b6f2fa29be5ac5c4f964.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017983-la-femme-de/"
     },
     {
-      "titre": "Compostelle",
+      "titre": "Le Cri des gardes",
       "genre": "Film",
-      "duree": "1h 54min",
+      "duree": "1h 49min",
       "horaires": [
-        "18:20"
+        "18:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/3d/5b3d2c4e0f58bab97b979611615ea321.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016304-compostelle/"
-    },
-    {
-      "titre": "Mauvaise Pioche",
-      "genre": "Film",
-      "duree": "1h 32min",
-      "horaires": [
-        "18:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/7f/f17f79f743742e1743f00001d4d14003.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020594-mauvaise-pioche/"
-    },
-    {
-      "titre": "Nuestra Tierra",
-      "genre": "Film",
-      "duree": "2h 3min",
-      "horaires": [
-        "15:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7e/c2/7ec26787c1e2fbdc52dc6cac5c0e1edd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000027836-nuestra-tierra/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/07/ac/07ac2ba8e8d3388475020725122a5a41.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/327653-le-cri-des-gardes/"
     },
     {
       "titre": "Plus fort que moi",
       "genre": "Film",
       "duree": "2h 1min",
       "horaires": [
-        "13:50"
+        "13:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b7/8fb759142fd32992ed10f00b082d92fd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000009982-plus-fort-que-moi/"
-    },
-    {
-      "titre": "Silent Friend",
-      "genre": "Film",
-      "duree": "2h 27min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/42/05/4205010710cd6378d3ec01f929478794.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/315015-silent-friend/"
     },
     {
       "titre": "Super Mario Galaxy Le Film",
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "20:55"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/327878-super-mario-galaxy-le-film/"
@@ -107,30 +119,10 @@
       "genre": "Film",
       "duree": "1h 46min",
       "horaires": [
-        "20:40"
+        "16:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d8/a1/d8a1392b8ca6606937144df9513994d8.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000008742-the-drama/"
-    },
-    {
-      "titre": "Ceux qui comptent",
-      "genre": "Film",
-      "duree": "1h 38min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/91/c4/91c4697bf2f82f4dba42d64d8188ec45.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018802-ceux-qui-comptent/"
-    },
-    {
-      "titre": "Stand by Me",
-      "genre": "Film",
-      "duree": "1h 29min",
-      "horaires": [
-        "18:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/de/4d/de4d9f55e089fd9d0d1624e2a808dd06.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/2495-stand-by-me/"
     }
   ]
 }
