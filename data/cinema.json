@@ -5,27 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-04-26T21:32:51.428Z",
+  "dateUpdate": "2026-04-27T02:10:40.325Z",
   "films": [
-    {
-      "titre": "Le Cid (Comédie-Française)",
-      "genre": "Film",
-      "duree": "2h 35min",
-      "horaires": [
-        "15:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/3e/9c3ef747092bfc398d919af166551a41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000033563-le-cid-comedie-francaise/"
-    },
     {
       "titre": "Michael",
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "14:10",
-        "20:45"
+        "13:50",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/279306-michael/"
@@ -35,7 +25,7 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "16:55"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b0/b6/b0b697a9f50e276e76eb4660fe084869.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313953-nous-lorchestre/"
@@ -45,8 +35,8 @@
       "genre": "Film",
       "duree": "1h 47min",
       "horaires": [
-        "10:20",
-        "16:40"
+        "16:20",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/70/d6/70d6f7006ed9b8dbaf991e6922ba60f7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020101-pour-le-meilleur/"
@@ -56,8 +46,7 @@
       "genre": "Film",
       "duree": "2h 15min",
       "horaires": [
-        "20:50",
-        "12:25"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/42/e1/42e15e9df4857aedd4142dcc6339306c.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/326953-good-luck-have-fun-dont-die/"
@@ -67,8 +56,8 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "14:40",
-        "18:45"
+        "13:55",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000015954-juste-une-illusion/"
@@ -78,8 +67,7 @@
       "genre": "Film",
       "duree": "21h 31min",
       "horaires": [
-        "15:05",
-        "19:00"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/81/c481880f72da4f9a46f3fea9b0f83bf4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012412-cocorico-2/"
@@ -89,49 +77,17 @@
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "12:15",
-        "18:50"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9d/15/9d157ac17daf804e350714f1f925c6bb.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000023671-lenfant-du-desert/"
-    },
-    {
-      "titre": "La Femme de",
-      "genre": "Film",
-      "duree": "1h 33min",
-      "horaires": [
-        "10:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4d/e3/4de3841fc2b8b6f2fa29be5ac5c4f964.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017983-la-femme-de/"
-    },
-    {
-      "titre": "Le Cri des gardes",
-      "genre": "Film",
-      "duree": "1h 49min",
-      "horaires": [
-        "18:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/07/ac/07ac2ba8e8d3388475020725122a5a41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/327653-le-cri-des-gardes/"
-    },
-    {
-      "titre": "Romería",
-      "genre": "Film",
-      "duree": "1h 55min",
-      "horaires": [
-        "12:40",
-        "20:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7d/71/7d71d5cb3807d32a852e5725c3c91974.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/304130-romeria/"
     },
     {
       "titre": "Nuestra Tierra",
       "genre": "Film",
       "duree": "2h 3min",
       "horaires": [
-        "10:20"
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7e/c2/7ec26787c1e2fbdc52dc6cac5c0e1edd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000027836-nuestra-tierra/"
@@ -141,31 +97,31 @@
       "genre": "Film",
       "duree": "2h 1min",
       "horaires": [
-        "12:20"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b7/8fb759142fd32992ed10f00b082d92fd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000009982-plus-fort-que-moi/"
     },
     {
-      "titre": "Super Mario Galaxy Le Film",
+      "titre": "Une jeunesse indienne - Homebound",
       "genre": "Film",
-      "duree": "1h 39min",
+      "duree": "1h 59min",
       "horaires": [
-        "10:15",
-        "17:00"
+        "14:00",
+        "20:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/327878-super-mario-galaxy-le-film/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0a/aa/0aaa63f822e3b7b2ffcd14b12e07a33c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022828-une-jeunesse-indienne-homebound/"
     },
     {
-      "titre": "Stand by Me",
+      "titre": "Abel",
       "genre": "Film",
-      "duree": "1h 29min",
+      "duree": "2h 0min",
       "horaires": [
-        "21:00"
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/de/4d/de4d9f55e089fd9d0d1624e2a808dd06.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/2495-stand-by-me/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/9d/a59db0f04640682ed57e6e0d153fe78e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012048-abel/"
     }
   ]
 }
