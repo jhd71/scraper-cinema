@@ -5,17 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-04-29T21:54:48.095Z",
+  "dateUpdate": "2026-04-30T02:27:34.821Z",
   "films": [
     {
       "titre": "Le Diable s'habille en Prada 2",
       "genre": "Film",
       "duree": "21h 59min",
       "horaires": [
-        "16:00",
-        "20:45"
+        "14:10",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000006868-le-diable-shabille-en-prada-2/"
@@ -25,8 +25,8 @@
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "13:50",
-        "20:30"
+        "20:30",
+        "15:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/279306-michael/"
@@ -36,7 +36,7 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "18:30"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b0/b6/b0b697a9f50e276e76eb4660fe084869.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313953-nous-lorchestre/"
@@ -46,19 +46,28 @@
       "genre": "Film",
       "duree": "1h 47min",
       "horaires": [
-        "16:10",
-        "20:30"
+        "14:00",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/70/d6/70d6f7006ed9b8dbaf991e6922ba60f7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020101-pour-le-meilleur/"
+    },
+    {
+      "titre": "Good Luck Have Fun Don't Die",
+      "genre": "Film",
+      "duree": "2h 15min",
+      "horaires": [
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/42/e1/42e15e9df4857aedd4142dcc6339306c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/326953-good-luck-have-fun-dont-die/"
     },
     {
       "titre": "Juste une illusion",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "14:00",
-        "20:55"
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000015954-juste-une-illusion/"
@@ -68,7 +77,8 @@
       "genre": "Film",
       "duree": "1h 45min",
       "horaires": [
-        "16:20"
+        "18:10",
+        "13:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/d3/4fd3dc8b1b50eaa5de068450ee3e120e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/328280-la-corde-au-cou/"
@@ -78,7 +88,7 @@
       "genre": "Film",
       "duree": "1h 26min",
       "horaires": [
-        "18:40"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bb/0f/bb0f9363bd93b115f677849c570d48b4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/327335-une-fille-en-or/"
@@ -88,50 +98,40 @@
       "genre": "Film",
       "duree": "21h 31min",
       "horaires": [
-        "14:00"
+        "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/81/c481880f72da4f9a46f3fea9b0f83bf4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012412-cocorico-2/"
     },
     {
-      "titre": "Le Cri des gardes",
+      "titre": "La Femme de",
       "genre": "Film",
-      "duree": "1h 49min",
+      "duree": "1h 33min",
       "horaires": [
         "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/07/ac/07ac2ba8e8d3388475020725122a5a41.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/327653-le-cri-des-gardes/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4d/e3/4de3841fc2b8b6f2fa29be5ac5c4f964.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017983-la-femme-de/"
+    },
+    {
+      "titre": "Le dernier pour la route",
+      "genre": "Film",
+      "duree": "1h 40min",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/66/ea/66eae298970eaae1f708d26f9191e923.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022829-le-dernier-pour-la-route/"
     },
     {
       "titre": "Romería",
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "13:55"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7d/71/7d71d5cb3807d32a852e5725c3c91974.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/304130-romeria/"
-    },
-    {
-      "titre": "Compostelle",
-      "genre": "Film",
-      "duree": "1h 54min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/3d/5b3d2c4e0f58bab97b979611615ea321.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016304-compostelle/"
-    },
-    {
-      "titre": "Super Mario Galaxy Le Film",
-      "genre": "Film",
-      "duree": "1h 39min",
-      "horaires": [
-        "16:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/327878-super-mario-galaxy-le-film/"
     }
   ]
 }
