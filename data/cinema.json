@@ -7,12 +7,12 @@
   },
   "date": "2026-04-30",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-04-30T05:52:48.658Z",
+  "dateUpdate": "2026-04-30T08:10:19.363Z",
   "films": [
     {
       "titre": "Le Diable s'habille en Prada 2",
       "genre": "Film",
-      "duree": "21h 59min",
+      "duree": "1h 59min",
       "horaires": [
         "14:10",
         "20:50"
@@ -96,7 +96,7 @@
     {
       "titre": "Cocorico 2",
       "genre": "Film",
-      "duree": "21h 31min",
+      "duree": "1h 31min",
       "horaires": [
         "18:50"
       ],
