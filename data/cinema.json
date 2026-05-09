@@ -5,17 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-05-08T21:54:33.256Z",
+  "dateUpdate": "2026-05-09T02:24:21.662Z",
   "films": [
     {
       "titre": "C’est quoi l’amour ?",
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "14:00",
-        "20:40"
+        "14:10",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d5/79/d579011f3f7569a419fc93a0efe08763.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007257-cest-quoi-lamour/"
@@ -25,8 +25,8 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "13:50",
-        "19:00"
+        "14:00",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000027807-pour-le-plaisir/"
@@ -36,7 +36,7 @@
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "15:55",
+        "13:55",
         "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
@@ -47,7 +47,7 @@
       "genre": "Film",
       "duree": "1h 20min",
       "horaires": [
-        "15:35"
+        "17:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/09/65/09654c317f423a18cba51456e628839d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000009082-la-poupee/"
@@ -74,41 +74,41 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000006828-bagarre/"
     },
     {
-      "titre": "La Corde au cou",
+      "titre": "Juste une illusion",
       "genre": "Film",
-      "duree": "1h 45min",
+      "duree": "1h 56min",
       "horaires": [
-        "13:45"
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/d3/4fd3dc8b1b50eaa5de068450ee3e120e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/328280-la-corde-au-cou/"
-    },
-    {
-      "titre": "Le Réveil de la Momie",
-      "genre": "Film",
-      "duree": "2h 14min",
-      "horaires": [
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ee/36/ee363e4628f63077dc8bf60babf12514.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000005009-le-reveil-de-la-momie/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000015954-juste-une-illusion/"
     },
     {
       "titre": "Une fille en or",
       "genre": "Film",
       "duree": "1h 26min",
       "horaires": [
-        "17:15"
+        "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bb/0f/bb0f9363bd93b115f677849c570d48b4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/327335-une-fille-en-or/"
+    },
+    {
+      "titre": "Les Contes du pommier",
+      "genre": "Film",
+      "duree": "1h 10min",
+      "horaires": [
+        "15:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/e7/97e726b5f30004d00fdd339b3f0757ce.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019329-les-contes-du-pommier/"
     },
     {
       "titre": "Wedding Nightmare : deuxième partie",
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "18:15"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/88/f9/88f94d7255e07eb66e232f2d92c517df.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001305-wedding-nightmare-deuxieme-partie/"
