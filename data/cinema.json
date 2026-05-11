@@ -7,7 +7,7 @@
   },
   "date": "2026-05-11",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-05-11T12:01:12.514Z",
+  "dateUpdate": "2026-05-11T17:21:20.743Z",
   "films": [
     {
       "titre": "C’est quoi l’amour ?",
@@ -128,7 +128,8 @@
       "genre": "Film",
       "duree": "1h 33min",
       "horaires": [
-        "09:20"
+        "09:20",
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/14/12/01/12/08/107961.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/226004-le-chant-de-la-mer/"
