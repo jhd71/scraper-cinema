@@ -7,7 +7,7 @@
   },
   "date": "2026-05-11",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-05-11T06:32:59.044Z",
+  "dateUpdate": "2026-05-11T12:01:12.514Z",
   "films": [
     {
       "titre": "C’est quoi l’amour ?",
@@ -122,6 +122,26 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/52/a4527664f53d4cdc51dbaf628184aff1.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001960-aucun-autre-choix/"
+    },
+    {
+      "titre": "Le Chant de la Mer",
+      "genre": "Film",
+      "duree": "1h 33min",
+      "horaires": [
+        "09:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/14/12/01/12/08/107961.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/226004-le-chant-de-la-mer/"
+    },
+    {
+      "titre": "La pie voleuse",
+      "genre": "Film",
+      "duree": "0h 35min",
+      "horaires": [
+        "10:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/13/12/31/10/20/420259.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/226035-la-pie-voleuse/"
     }
   ]
 }
