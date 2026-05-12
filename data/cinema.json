@@ -7,7 +7,7 @@
   },
   "date": "2026-05-12",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-05-12T06:08:53.256Z",
+  "dateUpdate": "2026-05-12T11:15:35.076Z",
   "films": [
     {
       "titre": "La Vénus électrique",
@@ -131,6 +131,27 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/327878-super-mario-galaxy-le-film/"
+    },
+    {
+      "titre": "Le Chant de la Mer",
+      "genre": "Film",
+      "duree": "1h 33min",
+      "horaires": [
+        "09:30",
+        "11:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/14/12/01/12/08/107961.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/226004-le-chant-de-la-mer/"
+    },
+    {
+      "titre": "La pie voleuse",
+      "genre": "Film",
+      "duree": "0h 35min",
+      "horaires": [
+        "09:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/13/12/31/10/20/420259.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/226035-la-pie-voleuse/"
     }
   ]
 }
