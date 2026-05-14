@@ -7,14 +7,15 @@
   },
   "date": "2026-05-14",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-05-14T19:39:47.315Z",
+  "dateUpdate": "2026-05-14T22:04:48.416Z",
   "films": [
     {
       "titre": "Histoires parallèles",
       "genre": "Film",
       "duree": "2h 19min",
       "horaires": [
-        "20:40"
+        "16:00",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000023480-histoires-paralleles/"
@@ -24,8 +25,8 @@
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "13:55",
-        "18:20"
+        "15:45",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000017998-la-venus-electrique/"
@@ -35,8 +36,8 @@
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "14:00",
-        "18:15"
+        "13:50",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d5/79/d579011f3f7569a419fc93a0efe08763.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007257-cest-quoi-lamour/"
@@ -46,40 +47,50 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "16:15",
-        "21:00"
+        "14:00",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000027807-pour-le-plaisir/"
+    },
+    {
+      "titre": "Die My Love",
+      "genre": "Film",
+      "duree": "1h 58min",
+      "horaires": [
+        "18:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/7e/5a7e0992bbd2396635a9a4673d0e06b5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/310017-die-my-love/"
     },
     {
       "titre": "Le Diable s'habille en Prada 2",
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "14:00",
+        "16:00",
         "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000006868-le-diable-shabille-en-prada-2/"
     },
     {
-      "titre": "Les Fleurs du manguier",
+      "titre": "La Poupée",
       "genre": "Film",
-      "duree": "1h 39min",
+      "duree": "1h 20min",
       "horaires": [
-        "16:10"
+        "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d3/9e/d39e562c39c6ddb0b42fd902bd54ff63.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000027824-les-fleurs-du-manguier/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/09/65/09654c317f423a18cba51456e628839d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000009082-la-poupee/"
     },
     {
       "titre": "Michael",
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "15:55",
-        "20:30"
+        "13:50",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/279306-michael/"
@@ -95,22 +106,11 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000015954-juste-une-illusion/"
     },
     {
-      "titre": "La Corde au cou",
-      "genre": "Film",
-      "duree": "1h 45min",
-      "horaires": [
-        "16:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/d3/4fd3dc8b1b50eaa5de068450ee3e120e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/328280-la-corde-au-cou/"
-    },
-    {
       "titre": "Super Mario Galaxy Le Film",
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "13:50",
-        "18:25"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/327878-super-mario-galaxy-le-film/"
