@@ -7,15 +7,15 @@
   },
   "date": "2026-05-21",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-05-21T19:46:13.638Z",
+  "dateUpdate": "2026-05-21T22:15:23.798Z",
   "films": [
     {
       "titre": "Autofiction",
       "genre": "Film",
       "duree": "1h 51min",
       "horaires": [
-        "13:50",
-        "18:30"
+        "16:20",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000025821-autofiction/"
@@ -25,6 +25,7 @@
       "genre": "Film",
       "duree": "2h 12min",
       "horaires": [
+        "18:10",
         "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
@@ -35,8 +36,8 @@
       "genre": "Film",
       "duree": "2h 15min",
       "horaires": [
-        "16:00",
-        "20:40"
+        "13:50",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fb/ce/fbce99c777dbeedf8a6d8290cbd25b2a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/325965-letre-aime/"
@@ -46,7 +47,7 @@
       "genre": "Film",
       "duree": "2h 19min",
       "horaires": [
-        "13:50",
+        "13:45",
         "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
@@ -57,8 +58,8 @@
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "15:45",
-        "20:30"
+        "13:55",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000017998-la-venus-electrique/"
@@ -68,7 +69,7 @@
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "16:05"
+        "15:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d5/79/d579011f3f7569a419fc93a0efe08763.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007257-cest-quoi-lamour/"
@@ -78,27 +79,17 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "16:30"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000027807-pour-le-plaisir/"
-    },
-    {
-      "titre": "Die My Love",
-      "genre": "Film",
-      "duree": "1h 58min",
-      "horaires": [
-        "13:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/7e/5a7e0992bbd2396635a9a4673d0e06b5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/310017-die-my-love/"
     },
     {
       "titre": "Le Diable s'habille en Prada 2",
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "20:55"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000006868-le-diable-shabille-en-prada-2/"
@@ -108,7 +99,7 @@
       "genre": "Film",
       "duree": "1h 53min",
       "horaires": [
-        "18:20"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/89/77/8977029863031e2d3ea8b7f679dece65.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/317095-a-voix-basse/"
@@ -118,7 +109,7 @@
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "18:20"
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/279306-michael/"
