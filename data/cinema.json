@@ -7,15 +7,15 @@
   },
   "date": "2026-05-29",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-05-29T18:09:37.731Z",
+  "dateUpdate": "2026-05-29T22:24:42.293Z",
   "films": [
     {
       "titre": "Mata",
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "16:30",
-        "21:00"
+        "16:40",
+        "21:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016295-mata/"
@@ -25,8 +25,8 @@
       "genre": "Film",
       "duree": "1h 51min",
       "horaires": [
-        "16:20",
-        "21:00"
+        "18:55",
+        "13:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000025821-autofiction/"
@@ -36,8 +36,9 @@
       "genre": "Film",
       "duree": "2h 12min",
       "horaires": [
-        "16:20",
-        "20:40"
+        "14:10",
+        "16:10",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
@@ -47,8 +48,8 @@
       "genre": "Film",
       "duree": "2h 15min",
       "horaires": [
-        "15:50",
-        "20:50"
+        "13:50",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fb/ce/fbce99c777dbeedf8a6d8290cbd25b2a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/325965-letre-aime/"
@@ -58,8 +59,7 @@
       "genre": "Film",
       "duree": "2h 19min",
       "horaires": [
-        "13:45",
-        "18:20"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000023480-histoires-paralleles/"
@@ -69,8 +69,8 @@
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "13:50",
-        "18:30"
+        "14:00",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000041395-labandon/"
@@ -80,31 +80,31 @@
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "14:00",
-        "18:30"
+        "15:50",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000017998-la-venus-electrique/"
-    },
-    {
-      "titre": "Le Diable s'habille en Prada 2",
-      "genre": "Film",
-      "duree": "1h 59min",
-      "horaires": [
-        "18:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006868-le-diable-shabille-en-prada-2/"
     },
     {
       "titre": "Michael",
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "14:00"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/279306-michael/"
+    },
+    {
+      "titre": "Juste une illusion",
+      "genre": "Film",
+      "duree": "1h 56min",
+      "horaires": [
+        "18:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000015954-juste-une-illusion/"
     }
   ]
 }
