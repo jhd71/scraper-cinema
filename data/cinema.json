@@ -5,18 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-05-31T21:54:38.518Z",
+  "dateUpdate": "2026-06-01T03:26:20.419Z",
   "films": [
     {
       "titre": "Mata",
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "12:30",
-        "16:30",
-        "21:00"
+        "13:50",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016295-mata/"
@@ -26,9 +25,7 @@
       "genre": "Film",
       "duree": "1h 51min",
       "horaires": [
-        "14:50",
-        "10:10",
-        "18:45"
+        "15:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000025821-autofiction/"
@@ -38,9 +35,8 @@
       "genre": "Film",
       "duree": "2h 12min",
       "horaires": [
-        "10:00",
-        "14:00",
-        "18:40"
+        "15:50",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
@@ -50,8 +46,7 @@
       "genre": "Film",
       "duree": "2h 15min",
       "horaires": [
-        "13:35",
-        "20:50"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fb/ce/fbce99c777dbeedf8a6d8290cbd25b2a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/325965-letre-aime/"
@@ -61,8 +56,8 @@
       "genre": "Film",
       "duree": "2h 19min",
       "horaires": [
-        "12:15",
-        "16:10"
+        "16:15",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000023480-histoires-paralleles/"
@@ -72,9 +67,8 @@
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "10:15",
-        "16:40",
-        "21:10"
+        "16:30",
+        "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000041395-labandon/"
@@ -84,71 +78,42 @@
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "11:15",
-        "18:40"
+        "13:55",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000017998-la-venus-electrique/"
-    },
-    {
-      "titre": "Mortal Kombat II",
-      "genre": "Film",
-      "duree": "1h 56min",
-      "horaires": [
-        "20:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5f/fe/5ffe380abc5a30a52107cdd9b2264c07.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/292320-mortal-kombat-ii/"
-    },
-    {
-      "titre": "Pour le plaisir",
-      "genre": "Film",
-      "duree": "1h 29min",
-      "horaires": [
-        "12:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000027807-pour-le-plaisir/"
     },
     {
       "titre": "Sauvons les meubles",
       "genre": "Film",
       "duree": "1h 26min",
       "horaires": [
-        "16:55"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/0e/0c0ee1446194ee21ca801fca6ac71de9.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/302099-sauvons-les-meubles/"
     },
     {
-      "titre": "Le Diable s'habille en Prada 2",
+      "titre": "Allo la France",
       "genre": "Film",
-      "duree": "1h 59min",
+      "duree": "1h 17min",
       "horaires": [
-        "18:25"
+        "18:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006868-le-diable-shabille-en-prada-2/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/cf/4acf7b90b734527b3c5068492f23d430.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000025088-allo-la-france/"
     },
     {
-      "titre": "Super Mario Galaxy Le Film",
+      "titre": "Ce qu'il reste de nous",
       "genre": "Film",
-      "duree": "1h 39min",
+      "duree": "2h 25min",
       "horaires": [
-        "14:30"
+        "13:50",
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/327878-super-mario-galaxy-le-film/"
-    },
-    {
-      "titre": "L'Ourse et l'oiseau",
-      "genre": "Film",
-      "duree": "0h 41min",
-      "horaires": [
-        "10:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/af/46/af46510d2d819c30b064e68efa6e5233.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031821-lourse-et-loiseau/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ab/be/abbedce650d9fd1b3fe6c2defe9c3518.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016229-ce-quil-reste-de-nous/"
     }
   ]
 }
