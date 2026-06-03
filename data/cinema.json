@@ -7,7 +7,7 @@
   },
   "date": "2026-06-03",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-03T03:32:25.350Z",
+  "dateUpdate": "2026-06-03T10:48:09.963Z",
   "films": [
     {
       "titre": "Bouchra",
@@ -65,7 +65,7 @@
     {
       "titre": "Autofiction",
       "genre": "Film",
-      "duree": "1h 51min",
+      "duree": "1h 52min",
       "horaires": [
         "18:30"
       ],
