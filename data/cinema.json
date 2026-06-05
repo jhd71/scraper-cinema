@@ -7,14 +7,14 @@
   },
   "date": "2026-06-05",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-05T19:46:06.808Z",
+  "dateUpdate": "2026-06-05T22:11:39.871Z",
   "films": [
     {
       "titre": "Bouchra",
       "genre": "Film",
       "duree": "1h 23min",
       "horaires": [
-        "16:30"
+        "17:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/14/99140c361e133b0537d02b67b63689c7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000027940-bouchra/"
@@ -24,18 +24,29 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "16:40",
+        "14:00",
         "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/77/c5/77c52cb63e96528fac960a9785dba1be.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-lage-de-fer/"
     },
     {
+      "titre": "Nouveaux copains à Puffin Rock",
+      "genre": "Film",
+      "duree": "1h 19min",
+      "horaires": [
+        "16:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/08/20/082028a510ebcaa259712094f41f2f45.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314613-nouveaux-copains-a-puffin-rock/"
+    },
+    {
       "titre": "Scary Movie",
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "20:55"
+        "14:15",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001030-scary-movie/"
@@ -46,60 +57,22 @@
       "duree": "1h 38min",
       "horaires": [
         "14:00",
-        "18:30"
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016295-mata/"
-    },
-    {
-      "titre": "Autofiction",
-      "genre": "Film",
-      "duree": "1h 52min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000025821-autofiction/"
     },
     {
       "titre": "Star Wars: The Mandalorian and Grogu",
       "genre": "Film",
       "duree": "2h 12min",
       "horaires": [
-        "18:15"
+        "13:45",
+        "18:15",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
-    },
-    {
-      "titre": "L’Être Aimé",
-      "genre": "Film",
-      "duree": "2h 15min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fb/ce/fbce99c777dbeedf8a6d8290cbd25b2a.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325965-letre-aime/"
-    },
-    {
-      "titre": "Histoires parallèles",
-      "genre": "Film",
-      "duree": "2h 19min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023480-histoires-paralleles/"
-    },
-    {
-      "titre": "Iron Maiden: Burning Ambition",
-      "genre": "Film",
-      "duree": "1h 46min",
-      "horaires": [
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ff/cc/ffcc393f7659ba975478a74c0a96f3d4.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000038424-iron-maiden-burning-ambition/"
     },
     {
       "titre": "L’Abandon",
@@ -117,20 +90,20 @@
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "14:00"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000017998-la-venus-electrique/"
     },
     {
-      "titre": "Les Hommes préfèrent les blondes",
+      "titre": "Le Diable s'habille en Prada 2",
       "genre": "Film",
-      "duree": "1h 31min",
+      "duree": "1h 59min",
       "horaires": [
-        "18:30"
+        "16:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8e/48/8e4869581edd33daf17152e5f1a7efd9.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/886-les-hommes-preferent-les-blondes/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006868-le-diable-shabille-en-prada-2/"
     }
   ]
 }
