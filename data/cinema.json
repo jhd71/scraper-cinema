@@ -7,14 +7,25 @@
   },
   "date": "2026-06-09",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-09T20:00:24.810Z",
+  "dateUpdate": "2026-06-09T22:18:29.176Z",
   "films": [
+    {
+      "titre": "Disclosure Day",
+      "genre": "Film",
+      "duree": "2h 25min",
+      "horaires": [
+        "14:00",
+        "20:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000001453-disclosure-day/"
+    },
     {
       "titre": "Bouchra",
       "genre": "Film",
       "duree": "1h 23min",
       "horaires": [
-        "16:20"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/14/99140c361e133b0537d02b67b63689c7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000027940-bouchra/"
@@ -31,115 +42,95 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-lage-de-fer/"
     },
     {
+      "titre": "Nouveaux copains à Puffin Rock",
+      "genre": "Film",
+      "duree": "1h 19min",
+      "horaires": [
+        "16:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/08/20/082028a510ebcaa259712094f41f2f45.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314613-nouveaux-copains-a-puffin-rock/"
+    },
+    {
       "titre": "Scary Movie",
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
+        "14:10",
         "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001030-scary-movie/"
     },
     {
+      "titre": "Cocotte",
+      "genre": "Film",
+      "duree": "1h 37min",
+      "horaires": [
+        "14:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022455-cocotte/"
+    },
+    {
+      "titre": "L'Objet du délit",
+      "genre": "Film",
+      "duree": "2h 13min",
+      "horaires": [
+        "16:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/13/f113b78c6126c1a49a0168d53497267c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022832-lobjet-du-delit/"
+    },
+    {
+      "titre": "Le Dernier Souffle d'un Yakuza",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "16:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/be/1b/be1b87d105e6ecf478bfd605fcb6c32b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023475-le-dernier-souffle-dun-yakuza/"
+    },
+    {
       "titre": "Mata",
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "14:10",
         "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016295-mata/"
     },
     {
+      "titre": "Tout va super",
+      "genre": "Film",
+      "duree": "1h 31min",
+      "horaires": [
+        "17:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/44/8a/448ab250b55c084da48459dc9c9c4600.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017042-tout-va-super/"
+    },
+    {
+      "titre": "Autofiction",
+      "genre": "Film",
+      "duree": "1h 52min",
+      "horaires": [
+        "18:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000025821-autofiction/"
+    },
+    {
       "titre": "Star Wars: The Mandalorian and Grogu",
       "genre": "Film",
       "duree": "2h 12min",
       "horaires": [
-        "18:20"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
-    },
-    {
-      "titre": "L’Être Aimé",
-      "genre": "Film",
-      "duree": "2h 15min",
-      "horaires": [
-        "20:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fb/ce/fbce99c777dbeedf8a6d8290cbd25b2a.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325965-letre-aime/"
-    },
-    {
-      "titre": "Histoires parallèles",
-      "genre": "Film",
-      "duree": "2h 19min",
-      "horaires": [
-        "17:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023480-histoires-paralleles/"
-    },
-    {
-      "titre": "L’Abandon",
-      "genre": "Film",
-      "duree": "1h 40min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000041395-labandon/"
-    },
-    {
-      "titre": "La Vénus électrique",
-      "genre": "Film",
-      "duree": "2h 2min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017998-la-venus-electrique/"
-    },
-    {
-      "titre": "Pour le plaisir",
-      "genre": "Film",
-      "duree": "1h 29min",
-      "horaires": [
-        "16:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000027807-pour-le-plaisir/"
-    },
-    {
-      "titre": "The World of Love",
-      "genre": "Film",
-      "duree": "1h 59min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/24/aa/24aae1d7eec39d1197e852f02703ecb7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000027952-the-world-of-love/"
-    },
-    {
-      "titre": "Michael",
-      "genre": "Film",
-      "duree": "2h 8min",
-      "horaires": [
-        "20:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/279306-michael/"
-    },
-    {
-      "titre": "Les Hommes préfèrent les blondes",
-      "genre": "Film",
-      "duree": "1h 31min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8e/48/8e4869581edd33daf17152e5f1a7efd9.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/886-les-hommes-preferent-les-blondes/"
     }
   ]
 }
