@@ -7,87 +7,70 @@
   },
   "date": "2026-06-12",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-12T20:01:04.105Z",
+  "dateUpdate": "2026-06-12T22:20:14.637Z",
   "films": [
     {
       "titre": "Disclosure Day",
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "14:00",
-        "20:20"
+        "13:45",
+        "18:10",
+        "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001453-disclosure-day/"
-    },
-    {
-      "titre": "Bouchra",
-      "genre": "Film",
-      "duree": "1h 23min",
-      "horaires": [
-        "16:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/14/99140c361e133b0537d02b67b63689c7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000027940-bouchra/"
     },
     {
       "titre": "La Bataille de Gaulle - Partie 1 : L’âge de fer",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "13:50",
-        "20:20"
+        "14:00",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
+    },
+    {
+      "titre": "Nouveaux copains à Puffin Rock",
+      "genre": "Film",
+      "duree": "1h 19min",
+      "horaires": [
+        "16:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/08/20/082028a510ebcaa259712094f41f2f45.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314613-nouveaux-copains-a-puffin-rock/"
     },
     {
       "titre": "Scary Movie",
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "21:00"
+        "14:10",
+        "18:45",
+        "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001030-scary-movie/"
-    },
-    {
-      "titre": "Cocotte",
-      "genre": "Film",
-      "duree": "1h 37min",
-      "horaires": [
-        "16:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022455-cocotte/"
     },
     {
       "titre": "L'Objet du délit",
       "genre": "Film",
       "duree": "2h 13min",
       "horaires": [
-        "13:50",
-        "18:30"
+        "16:10",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/13/f113b78c6126c1a49a0168d53497267c.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022832-lobjet-du-delit/"
-    },
-    {
-      "titre": "Le Dernier Souffle d'un Yakuza",
-      "genre": "Film",
-      "duree": "1h 30min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/be/1b/be1b87d105e6ecf478bfd605fcb6c32b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023475-le-dernier-souffle-dun-yakuza/"
     },
     {
       "titre": "Mata",
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "16:30"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016295-mata/"
@@ -97,50 +80,30 @@
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "18:30"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/44/8a/448ab250b55c084da48459dc9c9c4600.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000017042-tout-va-super/"
-    },
-    {
-      "titre": "Autofiction",
-      "genre": "Film",
-      "duree": "1h 52min",
-      "horaires": [
-        "16:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000025821-autofiction/"
     },
     {
       "titre": "Star Wars: The Mandalorian and Grogu",
       "genre": "Film",
       "duree": "2h 12min",
       "horaires": [
-        "20:30"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
     },
     {
-      "titre": "L’Être Aimé",
+      "titre": "Histoires parallèles",
       "genre": "Film",
-      "duree": "2h 15min",
+      "duree": "2h 19min",
       "horaires": [
-        "13:50"
+        "17:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fb/ce/fbce99c777dbeedf8a6d8290cbd25b2a.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325965-letre-aime/"
-    },
-    {
-      "titre": "Collapse (Face à Gaza)",
-      "genre": "Film",
-      "duree": "1h 18min",
-      "horaires": [
-        "18:35"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/28/bc/28bcc85afef364e64faefdce89d16a70.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000039746-collapse-face-a-gaza/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023480-histoires-paralleles/"
     }
   ]
 }
