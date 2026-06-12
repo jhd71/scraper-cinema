@@ -7,7 +7,7 @@
   },
   "date": "2026-06-12",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-12T12:13:25.300Z",
+  "dateUpdate": "2026-06-12T17:34:14.097Z",
   "films": [
     {
       "titre": "Disclosure Day",
@@ -31,15 +31,15 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000027940-bouchra/"
     },
     {
-      "titre": "La Bataille de Gaulle : L’âge de fer",
+      "titre": "La Bataille de Gaulle - Partie 1 : L’âge de fer",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
         "13:50",
         "20:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/77/c5/77c52cb63e96528fac960a9785dba1be.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-lage-de-fer/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
     },
     {
       "titre": "Scary Movie",
