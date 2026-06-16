@@ -7,7 +7,7 @@
   },
   "date": "2026-06-16",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-16T11:00:13.285Z",
+  "dateUpdate": "2026-06-16T16:44:39.189Z",
   "films": [
     {
       "titre": "Disclosure Day",
@@ -56,7 +56,7 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "14:10"
+        "14:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022455-cocotte/"
@@ -68,7 +68,7 @@
       "horaires": [
         "16:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/13/f113b78c6126c1a49a0168d53497267c.jpg",
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/26/a92625b4071ac2b7bf3586cfa5d051a5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022832-lobjet-du-delit/"
     },
     {
