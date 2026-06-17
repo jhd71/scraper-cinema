@@ -7,8 +7,20 @@
   },
   "date": "2026-06-17",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-17T03:28:02.970Z",
+  "dateUpdate": "2026-06-17T10:43:58.878Z",
   "films": [
+    {
+      "titre": "Toy Story 5",
+      "genre": "Film",
+      "duree": "51h 42min",
+      "horaires": [
+        "13:50",
+        "16:15",
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ba/a6/baa69b8aeb28ddae932549492cb5ed9c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
+    },
     {
       "titre": "Disclosure Day",
       "genre": "Film",
@@ -101,18 +113,6 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b0/b6/b0b697a9f50e276e76eb4660fe084869.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313953-nous-lorchestre/"
-    },
-    {
-      "titre": "Toy Story 5",
-      "genre": "Film",
-      "duree": "51h 42min",
-      "horaires": [
-        "13:50",
-        "16:15",
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ba/a6/baa69b8aeb28ddae932549492cb5ed9c.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
     }
   ]
 }
