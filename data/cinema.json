@@ -7,15 +7,26 @@
   },
   "date": "2026-06-18",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-18T20:22:03.631Z",
+  "dateUpdate": "2026-06-18T22:53:27.063Z",
   "films": [
+    {
+      "titre": "Toy Story 5",
+      "genre": "Film",
+      "duree": "51h 42min",
+      "horaires": [
+        "18:40",
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ba/a6/baa69b8aeb28ddae932549492cb5ed9c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
+    },
     {
       "titre": "Disclosure Day",
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "20:30",
-        "13:50"
+        "15:50",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001453-disclosure-day/"
@@ -25,7 +36,7 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "16:30",
+        "14:00",
         "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
@@ -46,7 +57,7 @@
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "20:50"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001030-scary-movie/"
@@ -56,7 +67,7 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "16:00"
+        "15:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022455-cocotte/"
@@ -66,80 +77,50 @@
       "genre": "Film",
       "duree": "2h 13min",
       "horaires": [
-        "14:00"
+        "17:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/26/a92625b4071ac2b7bf3586cfa5d051a5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022832-lobjet-du-delit/"
     },
     {
-      "titre": "Le Dernier Souffle d'un Yakuza",
+      "titre": "Mata",
       "genre": "Film",
-      "duree": "1h 30min",
+      "duree": "1h 38min",
       "horaires": [
-        "16:30"
+        "17:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/be/1b/be1b87d105e6ecf478bfd605fcb6c32b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023475-le-dernier-souffle-dun-yakuza/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016295-mata/"
     },
     {
       "titre": "Tout va super",
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "20:30"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/44/8a/448ab250b55c084da48459dc9c9c4600.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000017042-tout-va-super/"
     },
     {
-      "titre": "Star Wars: The Mandalorian and Grogu",
+      "titre": "La Vie après Siham",
       "genre": "Film",
-      "duree": "2h 12min",
+      "duree": "1h 16min",
       "horaires": [
-        "18:20"
+        "16:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/38/18/38181f1fe67de6a511e5a075587f98a6.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023001-la-vie-apres-siham/"
     },
     {
-      "titre": "L’Abandon",
+      "titre": "La Vierge, les Coptes et Moi",
       "genre": "Film",
-      "duree": "1h 40min",
+      "duree": "1h 31min",
       "horaires": [
-        "15:50"
+        "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000041395-labandon/"
-    },
-    {
-      "titre": "Le Diable s'habille en Prada 2",
-      "genre": "Film",
-      "duree": "1h 59min",
-      "horaires": [
-        "13:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000006868-le-diable-shabille-en-prada-2/"
-    },
-    {
-      "titre": "Michael",
-      "genre": "Film",
-      "duree": "2h 8min",
-      "horaires": [
-        "18:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/279306-michael/"
-    },
-    {
-      "titre": "Vol au-dessus d'un nid de coucou",
-      "genre": "Film",
-      "duree": "2h 14min",
-      "horaires": [
-        "17:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/ee/8dee08a3a6d342687e39fc85e4331ad4.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/2072-vol-au-dessus-dun-nid-de-coucou/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/medias/nmedia/18/90/73/19/20209180.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/203082-la-vierge-les-coptes-et-moi/"
     }
   ]
 }
