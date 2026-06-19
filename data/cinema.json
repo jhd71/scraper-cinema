@@ -7,12 +7,12 @@
   },
   "date": "2026-06-19",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-19T17:13:08.633Z",
+  "dateUpdate": "2026-06-19T19:40:37.750Z",
   "films": [
     {
       "titre": "Toy Story 5",
       "genre": "Film",
-      "duree": "51h 42min",
+      "duree": "1h 42min",
       "horaires": [
         "18:40",
         "20:50"
