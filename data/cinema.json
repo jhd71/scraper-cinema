@@ -5,17 +5,19 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-19T21:59:59.415Z",
+  "dateUpdate": "2026-06-20T02:46:49.778Z",
   "films": [
     {
       "titre": "Toy Story 5",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "18:40",
-        "20:50"
+        "13:50",
+        "16:00",
+        "18:15",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
@@ -25,8 +27,9 @@
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "15:50",
-        "20:30"
+        "17:45",
+        "20:30",
+        "13:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001453-disclosure-day/"
@@ -36,7 +39,7 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "14:00",
+        "16:40",
         "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
@@ -47,7 +50,7 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "13:50"
+        "15:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/12/07/1207823987500650b921584917214ab5.jpeg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016927-le-garcon-qui-faisait-danser-les-collines/"
@@ -57,7 +60,8 @@
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "18:30"
+        "16:30",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001030-scary-movie/"
@@ -67,60 +71,30 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "15:50"
+        "13:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022455-cocotte/"
     },
     {
-      "titre": "L'Objet du délit",
+      "titre": "Star Wars: The Mandalorian and Grogu",
       "genre": "Film",
-      "duree": "2h 13min",
+      "duree": "2h 12min",
       "horaires": [
-        "17:00"
+        "18:25"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/26/a92625b4071ac2b7bf3586cfa5d051a5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022832-lobjet-du-delit/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
     },
     {
-      "titre": "Mata",
+      "titre": "Blue Giant",
       "genre": "Film",
-      "duree": "1h 38min",
-      "horaires": [
-        "17:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016295-mata/"
-    },
-    {
-      "titre": "Tout va super",
-      "genre": "Film",
-      "duree": "1h 31min",
+      "duree": "2h 0min",
       "horaires": [
         "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/44/8a/448ab250b55c084da48459dc9c9c4600.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017042-tout-va-super/"
-    },
-    {
-      "titre": "La Vie après Siham",
-      "genre": "Film",
-      "duree": "1h 16min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/38/18/38181f1fe67de6a511e5a075587f98a6.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023001-la-vie-apres-siham/"
-    },
-    {
-      "titre": "La Vierge, les Coptes et Moi",
-      "genre": "Film",
-      "duree": "1h 31min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/medias/nmedia/18/90/73/19/20209180.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/203082-la-vierge-les-coptes-et-moi/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/24/01/17/11/26/3762153.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/312091-blue-giant/"
     }
   ]
 }
