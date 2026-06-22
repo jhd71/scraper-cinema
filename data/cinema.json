@@ -7,14 +7,14 @@
   },
   "date": "2026-06-22",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-22T20:37:22.846Z",
+  "dateUpdate": "2026-06-22T22:43:26.128Z",
   "films": [
     {
       "titre": "Toy Story 5",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "18:30"
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
@@ -24,7 +24,7 @@
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "18:00"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001453-disclosure-day/"
@@ -34,7 +34,7 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "16:30",
+        "14:00",
         "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
@@ -45,7 +45,7 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "14:00"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/12/07/1207823987500650b921584917214ab5.jpeg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016927-le-garcon-qui-faisait-danser-les-collines/"
@@ -55,7 +55,7 @@
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "16:10"
+        "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001030-scary-movie/"
@@ -65,7 +65,7 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "14:00"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022455-cocotte/"
@@ -75,27 +75,57 @@
       "genre": "Film",
       "duree": "2h 13min",
       "horaires": [
-        "14:00"
+        "17:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/26/a92625b4071ac2b7bf3586cfa5d051a5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022832-lobjet-du-delit/"
+    },
+    {
+      "titre": "Le Dernier Souffle d'un Yakuza",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/be/1b/be1b87d105e6ecf478bfd605fcb6c32b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023475-le-dernier-souffle-dun-yakuza/"
     },
     {
       "titre": "Tout va super",
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "16:15"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/44/8a/448ab250b55c084da48459dc9c9c4600.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000017042-tout-va-super/"
+    },
+    {
+      "titre": "Autofiction",
+      "genre": "Film",
+      "duree": "1h 52min",
+      "horaires": [
+        "13:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000025821-autofiction/"
+    },
+    {
+      "titre": "Star Wars: The Mandalorian and Grogu",
+      "genre": "Film",
+      "duree": "2h 12min",
+      "horaires": [
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
     },
     {
       "titre": "L’Abandon",
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "16:00"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000041395-labandon/"
@@ -105,41 +135,20 @@
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "20:40"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000006868-le-diable-shabille-en-prada-2/"
     },
     {
-      "titre": "Sorda",
+      "titre": "Vol au-dessus d'un nid de coucou",
       "genre": "Film",
-      "duree": "1h 40min",
+      "duree": "2h 14min",
       "horaires": [
-        "14:10",
-        "20:10"
+        "13:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ff/de/ffde10f946a815725bb5cd6e5b47bbe3.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004367-sorda/"
-    },
-    {
-      "titre": "Michael",
-      "genre": "Film",
-      "duree": "2h 8min",
-      "horaires": [
-        "20:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/279306-michael/"
-    },
-    {
-      "titre": "Fotogenico",
-      "genre": "Film",
-      "duree": "1h 36min",
-      "horaires": [
-        "18:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/da/f7/daf7a02b7160ccdc460e6d8680d13f28.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000001262-fotogenico/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/ee/8dee08a3a6d342687e39fc85e4331ad4.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/2072-vol-au-dessus-dun-nid-de-coucou/"
     }
   ]
 }
