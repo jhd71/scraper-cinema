@@ -7,7 +7,7 @@
   },
   "date": "2026-06-23",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-23T06:43:47.180Z",
+  "dateUpdate": "2026-06-23T11:55:18.480Z",
   "films": [
     {
       "titre": "Toy Story 5",
@@ -30,7 +30,7 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001453-disclosure-day/"
     },
     {
-      "titre": "La Bataille de Gaulle: L'Âge de Fer",
+      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
@@ -38,7 +38,7 @@
         "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-lage-de-fer/"
+      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
     },
     {
       "titre": "Le Garçon qui faisait danser les collines",
