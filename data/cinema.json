@@ -7,15 +7,15 @@
   },
   "date": "2026-06-24",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-24T19:28:50.580Z",
+  "dateUpdate": "2026-06-24T22:11:36.371Z",
   "films": [
     {
       "titre": "Des Minions et des monstres",
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "16:20",
-        "20:40"
+        "14:10",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
@@ -25,8 +25,8 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "16:30",
-        "20:50"
+        "13:55",
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/36/8f/368f8ae0d4f0928b0523eb6a5347576a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022312-les-caprices-de-lenfant-roi/"
@@ -36,8 +36,8 @@
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "14:00",
-        "18:30"
+        "16:10",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
@@ -48,7 +48,7 @@
       "duree": "2h 25min",
       "horaires": [
         "20:20",
-        "16:10"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001453-disclosure-day/"
@@ -58,7 +58,7 @@
       "genre": "Film",
       "duree": "1h 7min",
       "horaires": [
-        "21:00"
+        "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/45/0b/450bf9211ea195e44999da9e5dbfa51b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000044063-le-vertige/"
@@ -78,7 +78,7 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "18:45"
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/12/07/1207823987500650b921584917214ab5.jpeg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016927-le-garcon-qui-faisait-danser-les-collines/"
@@ -89,30 +89,30 @@
       "duree": "1h 36min",
       "horaires": [
         "18:15",
-        "14:10"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001030-scary-movie/"
     },
     {
-      "titre": "Cocotte",
+      "titre": "Tout va super",
       "genre": "Film",
-      "duree": "1h 37min",
+      "duree": "1h 31min",
       "horaires": [
-        "18:55"
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022455-cocotte/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/44/8a/448ab250b55c084da48459dc9c9c4600.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017042-tout-va-super/"
     },
     {
-      "titre": "L'Objet du délit",
+      "titre": "Vol au-dessus d'un nid de coucou",
       "genre": "Film",
-      "duree": "2h 13min",
+      "duree": "2h 14min",
       "horaires": [
-        "13:50"
+        "20:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/26/a92625b4071ac2b7bf3586cfa5d051a5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022832-lobjet-du-delit/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/ee/8dee08a3a6d342687e39fc85e4331ad4.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/2072-vol-au-dessus-dun-nid-de-coucou/"
     }
   ]
 }
