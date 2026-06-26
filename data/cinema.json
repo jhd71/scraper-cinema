@@ -7,7 +7,7 @@
   },
   "date": "2026-06-26",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-26T06:49:07.021Z",
+  "dateUpdate": "2026-06-26T11:41:14.757Z",
   "films": [
     {
       "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
@@ -48,6 +48,7 @@
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
+        "09:15",
         "16:10",
         "18:45"
       ],
