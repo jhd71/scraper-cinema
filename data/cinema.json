@@ -5,17 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-06-28T21:57:53.510Z",
+  "dateUpdate": "2026-06-29T02:51:45.086Z",
   "films": [
     {
       "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "14:20",
-        "20:20"
+        "14:00",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
@@ -25,9 +25,8 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "10:30",
-        "14:40",
-        "18:55"
+        "16:20",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
@@ -37,9 +36,7 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "10:10",
-        "14:20",
-        "18:30"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/36/8f/368f8ae0d4f0928b0523eb6a5347576a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022312-les-caprices-de-lenfant-roi/"
@@ -49,9 +46,8 @@
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "12:30",
-        "16:40",
-        "20:55"
+        "14:00",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
@@ -61,8 +57,8 @@
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "13:30",
-        "20:40"
+        "13:45",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001453-disclosure-day/"
@@ -72,7 +68,7 @@
       "genre": "Film",
       "duree": "1h 7min",
       "horaires": [
-        "12:00"
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/45/0b/450bf9211ea195e44999da9e5dbfa51b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000044063-le-vertige/"
@@ -82,81 +78,41 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "17:20"
+        "17:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
-    },
-    {
-      "titre": "Le Garçon qui faisait danser les collines",
-      "genre": "Film",
-      "duree": "1h 39min",
-      "horaires": [
-        "10:20",
-        "12:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/12/07/1207823987500650b921584917214ab5.jpeg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016927-le-garcon-qui-faisait-danser-les-collines/"
     },
     {
       "titre": "Scary Movie",
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "18:40"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001030-scary-movie/"
     },
     {
-      "titre": "Cocotte",
-      "genre": "Film",
-      "duree": "1h 37min",
-      "horaires": [
-        "12:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022455-cocotte/"
-    },
-    {
-      "titre": "L'Objet du délit",
-      "genre": "Film",
-      "duree": "2h 13min",
-      "horaires": [
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/26/a92625b4071ac2b7bf3586cfa5d051a5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022832-lobjet-du-delit/"
-    },
-    {
-      "titre": "Tout va super",
-      "genre": "Film",
-      "duree": "1h 31min",
-      "horaires": [
-        "10:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/44/8a/448ab250b55c084da48459dc9c9c4600.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017042-tout-va-super/"
-    },
-    {
-      "titre": "L’Abandon",
+      "titre": "Sorda",
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "16:30"
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000041395-labandon/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ff/de/ffde10f946a815725bb5cd6e5b47bbe3.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004367-sorda/"
     },
     {
-      "titre": "Michael",
+      "titre": "Fotogenico",
       "genre": "Film",
-      "duree": "2h 8min",
+      "duree": "1h 36min",
       "horaires": [
-        "16:15"
+        "14:10",
+        "20:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/279306-michael/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/da/f7/daf7a02b7160ccdc460e6d8680d13f28.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000001262-fotogenico/"
     }
   ]
 }
