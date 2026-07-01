@@ -7,14 +7,24 @@
   },
   "date": "2026-07-01",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-07-01T19:44:18.656Z",
+  "dateUpdate": "2026-07-01T22:14:15.324Z",
   "films": [
+    {
+      "titre": "Julien Doré - Le Dernier pestacle",
+      "genre": "Film",
+      "duree": "1h 50min",
+      "horaires": [
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3d/49/3d49da1d47c8fa7f0def2a5d9f6fe5b8.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000043839-julien-dore-le-dernier-pestacle/"
+    },
     {
       "titre": "Supergirl",
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "16:30",
+        "16:40",
         "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9b/ae/9bae883f672ff5095e2a4282effeb116.jpg",
@@ -25,8 +35,7 @@
       "genre": "Film",
       "duree": "1h 43min",
       "horaires": [
-        "13:55",
-        "18:15"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8a/6e/8a6e5ffd0c7bb7caa1ba70aaba6972b1.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/295636-un-champ-de-fraises-pour-leternite/"
@@ -47,8 +56,8 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "14:15",
-        "18:30"
+        "16:20",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
@@ -58,28 +67,18 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "16:00"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/36/8f/368f8ae0d4f0928b0523eb6a5347576a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022312-les-caprices-de-lenfant-roi/"
-    },
-    {
-      "titre": "Jim Queen",
-      "genre": "Film",
-      "duree": "1h 25min",
-      "horaires": [
-        "18:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/24/0b2475fd5c509b222ed908d2ee8bb3c5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/310112-jim-queen/"
     },
     {
       "titre": "Toy Story 5",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "16:15",
-        "20:30"
+        "14:10",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
@@ -89,30 +88,40 @@
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "17:00"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001453-disclosure-day/"
     },
     {
-      "titre": "Le Vertige",
+      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
       "genre": "Film",
-      "duree": "1h 7min",
+      "duree": "2h 40min",
       "horaires": [
-        "20:40"
+        "17:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/45/0b/450bf9211ea195e44999da9e5dbfa51b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000044063-le-vertige/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
     },
     {
       "titre": "Scary Movie",
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "14:00"
+        "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001030-scary-movie/"
+    },
+    {
+      "titre": "L’Abandon",
+      "genre": "Film",
+      "duree": "1h 40min",
+      "horaires": [
+        "14:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000041395-labandon/"
     }
   ]
 }
