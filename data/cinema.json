@@ -5,27 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-07-02T22:01:52.320Z",
+  "dateUpdate": "2026-07-03T02:23:43.104Z",
   "films": [
-    {
-      "titre": "Julien Doré - Le Dernier pestacle",
-      "genre": "Film",
-      "duree": "1h 50min",
-      "horaires": [
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3d/49/3d49da1d47c8fa7f0def2a5d9f6fe5b8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000043839-julien-dore-le-dernier-pestacle/"
-    },
     {
       "titre": "Supergirl",
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "16:40",
-        "20:50"
+        "16:15",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9b/ae/9bae883f672ff5095e2a4282effeb116.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/266720-supergirl/"
@@ -35,7 +25,7 @@
       "genre": "Film",
       "duree": "1h 43min",
       "horaires": [
-        "16:10"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8a/6e/8a6e5ffd0c7bb7caa1ba70aaba6972b1.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/295636-un-champ-de-fraises-pour-leternite/"
@@ -46,7 +36,7 @@
       "duree": "2h 40min",
       "horaires": [
         "14:00",
-        "20:00"
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
@@ -56,8 +46,8 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "16:20",
-        "20:30"
+        "14:15",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
@@ -67,18 +57,28 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "18:10"
+        "15:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/36/8f/368f8ae0d4f0928b0523eb6a5347576a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022312-les-caprices-de-lenfant-roi/"
+    },
+    {
+      "titre": "Jim Queen",
+      "genre": "Film",
+      "duree": "1h 25min",
+      "horaires": [
+        "14:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/24/0b2475fd5c509b222ed908d2ee8bb3c5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/310112-jim-queen/"
     },
     {
       "titre": "Toy Story 5",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "14:10",
-        "18:20"
+        "16:15",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
@@ -88,40 +88,40 @@
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "13:50"
+        "17:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000001453-disclosure-day/"
     },
     {
-      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
+      "titre": "Colony",
       "genre": "Film",
-      "duree": "2h 40min",
+      "duree": "2h 2min",
       "horaires": [
-        "17:00"
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/76/24/762414ae8d9a780867c83c2f3e9ea456.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000021055-colony/"
     },
     {
-      "titre": "Scary Movie",
+      "titre": "Obsession",
       "genre": "Film",
-      "duree": "1h 36min",
+      "duree": "1h 49min",
       "horaires": [
-        "18:50"
+        "21:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000001030-scary-movie/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/00/20/0020008382daf6b1305be800e8342a72.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000028234-obsession/"
     },
     {
-      "titre": "L’Abandon",
+      "titre": "L'Aile ou la cuisse",
       "genre": "Film",
-      "duree": "1h 40min",
+      "duree": "1h 44min",
       "horaires": [
-        "14:00"
+        "13:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000041395-labandon/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3d/82/3d822555e58e5588c9ca7ea71da43c15.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/47573-laile-ou-la-cuisse/"
     }
   ]
 }
