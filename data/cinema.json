@@ -5,28 +5,59 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-07-14T21:52:19.810Z",
+  "dateUpdate": "2026-07-15T01:50:38.179Z",
   "films": [
+    {
+      "titre": "L'Odyssée",
+      "genre": "Film",
+      "duree": "2h 52min",
+      "horaires": [
+        "14:00",
+        "19:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013045-lodyssee/"
+    },
     {
       "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "16:10",
-        "20:50"
+        "14:15",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
+    },
+    {
+      "titre": "In Waves",
+      "genre": "Film",
+      "duree": "1h 31min",
+      "horaires": [
+        "13:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/66/95/66956c0d0a15062c936b14d7dd48c5b7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293636-in-waves/"
+    },
+    {
+      "titre": "On l'appelait Robin des Bois",
+      "genre": "Film",
+      "duree": "2h 2min",
+      "horaires": [
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3a/fe/3afe3c822ee3fed0c74b32d5060c2a69.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000002580-on-lappelait-robin-des-bois/"
     },
     {
       "titre": "Supergirl",
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "16:00",
-        "20:40"
+        "15:40",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9b/ae/9bae883f672ff5095e2a4282effeb116.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/266720-supergirl/"
@@ -36,7 +67,7 @@
       "genre": "Film",
       "duree": "1h 43min",
       "horaires": [
-        "13:55"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8a/6e/8a6e5ffd0c7bb7caa1ba70aaba6972b1.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/295636-un-champ-de-fraises-pour-leternite/"
@@ -46,8 +77,7 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "17:00",
-        "20:00"
+        "15:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
@@ -57,71 +87,60 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "14:10",
-        "18:20"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
     },
     {
-      "titre": "Les Caprices de l’Enfant Roi",
+      "titre": "Eruption",
       "genre": "Film",
-      "duree": "1h 54min",
+      "duree": "1h 11min",
       "horaires": [
-        "16:00"
+        "17:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/36/8f/368f8ae0d4f0928b0523eb6a5347576a.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022312-les-caprices-de-lenfant-roi/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/20/a920872e51c1f9f893aefe6166ef2d94.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012946-eruption/"
     },
     {
       "titre": "Les Parfait(s) : arnaques en famille",
       "genre": "Film",
       "duree": "1h 34min",
       "horaires": [
-        "20:30"
+        "18:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c9/06/c9066cfdb985bb1f03cc08c35e29be68.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020330-les-parfaits-arnaques-en-famille/"
+    },
+    {
+      "titre": "Maspalomas",
+      "genre": "Film",
+      "duree": "1h 55min",
+      "horaires": [
+        "17:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/23/15/2315f43ab8450d3204f41426a899b98b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017160-maspalomas/"
     },
     {
       "titre": "Jim Queen",
       "genre": "Film",
       "duree": "1h 25min",
       "horaires": [
-        "18:30"
+        "19:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/24/0b2475fd5c509b222ed908d2ee8bb3c5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/310112-jim-queen/"
-    },
-    {
-      "titre": "L'Illusion de Yakushima",
-      "genre": "Film",
-      "duree": "1h 52min",
-      "horaires": [
-        "18:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/10/33/103306ec6d5abdd9dabb719258ded147.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022404-lillusion-de-yakushima/"
     },
     {
       "titre": "Toy Story 5",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "13:50"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
-    },
-    {
-      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
-      "genre": "Film",
-      "duree": "2h 40min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
     }
   ]
 }
