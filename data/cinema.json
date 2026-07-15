@@ -7,12 +7,12 @@
   },
   "date": "2026-07-15",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-07-15T10:43:44.979Z",
+  "dateUpdate": "2026-07-15T13:22:29.978Z",
   "films": [
     {
       "titre": "L'Odyssée",
       "genre": "Film",
-      "duree": "2h 52min",
+      "duree": "2h 53min",
       "horaires": [
         "14:00",
         "19:50"
