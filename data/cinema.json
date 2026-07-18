@@ -5,16 +5,16 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-07-17T21:44:20.776Z",
+  "dateUpdate": "2026-07-18T01:53:38.147Z",
   "films": [
     {
       "titre": "L'Odyssée",
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "16:30",
+        "13:50",
         "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
@@ -32,11 +32,21 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
     },
     {
+      "titre": "In Waves",
+      "genre": "Film",
+      "duree": "1h 31min",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/66/95/66956c0d0a15062c936b14d7dd48c5b7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293636-in-waves/"
+    },
+    {
       "titre": "Supergirl",
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "14:00",
+        "14:10",
         "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9b/ae/9bae883f672ff5095e2a4282effeb116.jpg",
@@ -47,7 +57,7 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "19:50"
+        "17:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
@@ -57,7 +67,8 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "16:00"
+        "14:00",
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
@@ -67,27 +78,17 @@
       "genre": "Film",
       "duree": "1h 34min",
       "horaires": [
-        "17:55"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c9/06/c9066cfdb985bb1f03cc08c35e29be68.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020330-les-parfaits-arnaques-en-famille/"
-    },
-    {
-      "titre": "Maspalomas",
-      "genre": "Film",
-      "duree": "1h 55min",
-      "horaires": [
-        "13:55"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/23/15/2315f43ab8450d3204f41426a899b98b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000017160-maspalomas/"
     },
     {
       "titre": "L'Illusion de Yakushima",
       "genre": "Film",
       "duree": "1h 52min",
       "horaires": [
-        "16:10"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/10/33/103306ec6d5abdd9dabb719258ded147.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022404-lillusion-de-yakushima/"
@@ -104,24 +105,14 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
     },
     {
-      "titre": "Le Tombeau des lucioles",
+      "titre": "La Grande rêvasion",
       "genre": "Film",
-      "duree": "1h 30min",
+      "duree": "0h 45min",
       "horaires": [
-        "18:30"
+        "16:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4c/e5/4ce5eb41dee26f90d52da68353d7d38b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/10251-le-tombeau-des-lucioles/"
-    },
-    {
-      "titre": "Jour de fête",
-      "genre": "Film",
-      "duree": "1h 16min",
-      "horaires": [
-        "14:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3c/bc/3cbcc3b174f53772dc0ac8192b3f7be8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/2605-jour-de-fete/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/de/c0/dec0a9439dda983e4fab8fe508f525e0.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000035099-la-grande-revasion/"
     }
   ]
 }
