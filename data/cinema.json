@@ -5,17 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-07-20T21:56:37.429Z",
+  "dateUpdate": "2026-07-21T02:03:42.310Z",
   "films": [
     {
       "titre": "L'Odyssée",
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "13:50",
-        "19:50"
+        "16:55",
+        "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013045-lodyssee/"
@@ -25,48 +25,59 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "14:10",
+        "16:00",
         "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
     },
     {
-      "titre": "Autour de Lucio",
+      "titre": "In Waves",
       "genre": "Film",
-      "duree": "1h 30min",
+      "duree": "1h 31min",
       "horaires": [
-        "20:30"
+        "17:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4b/cd/4bcd9963cb522fae189d557babfc0a31.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000046046-autour-de-lucio/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/66/95/66956c0d0a15062c936b14d7dd48c5b7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/293636-in-waves/"
+    },
+    {
+      "titre": "On l'appelait Robin des Bois",
+      "genre": "Film",
+      "duree": "2h 2min",
+      "horaires": [
+        "20:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3a/fe/3afe3c822ee3fed0c74b32d5060c2a69.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000002580-on-lappelait-robin-des-bois/"
+    },
+    {
+      "titre": "Permis de détruire",
+      "genre": "Film",
+      "duree": "1h 37min",
+      "horaires": [
+        "16:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/23/b9/23b90c7731c8c959d6b7e73b3bac993a.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000021764-permis-de-detruire/"
     },
     {
       "titre": "Supergirl",
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "16:15"
+        "15:30",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9b/ae/9bae883f672ff5095e2a4282effeb116.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/266720-supergirl/"
-    },
-    {
-      "titre": "Un champ de fraises pour l’éternité",
-      "genre": "Film",
-      "duree": "1h 43min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8a/6e/8a6e5ffd0c7bb7caa1ba70aaba6972b1.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/295636-un-champ-de-fraises-pour-leternite/"
     },
     {
       "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "16:55"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
@@ -76,52 +87,51 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "18:30",
-        "14:00"
+        "14:10",
+        "14:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
     },
     {
-      "titre": "Les Parfait(s) : arnaques en famille",
+      "titre": "Eruption",
       "genre": "Film",
-      "duree": "1h 34min",
+      "duree": "1h 11min",
       "horaires": [
-        "18:10"
+        "19:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c9/06/c9066cfdb985bb1f03cc08c35e29be68.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020330-les-parfaits-arnaques-en-famille/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/20/a920872e51c1f9f893aefe6166ef2d94.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012946-eruption/"
+    },
+    {
+      "titre": "Jim Queen",
+      "genre": "Film",
+      "duree": "1h 25min",
+      "horaires": [
+        "13:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/24/0b2475fd5c509b222ed908d2ee8bb3c5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/310112-jim-queen/"
     },
     {
       "titre": "Toy Story 5",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "16:30"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
     },
     {
-      "titre": "Mon grand frère et moi",
+      "titre": "Jour de fête",
       "genre": "Film",
-      "duree": "2h 7min",
+      "duree": "1h 16min",
       "horaires": [
-        "13:50",
-        "20:55"
+        "18:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3a/f3/3af3573f4d7ea057d79487afdd105894.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031372-mon-grand-frere-et-moi/"
-    },
-    {
-      "titre": "Une Balle dans la tête",
-      "genre": "Film",
-      "duree": "2h 16min",
-      "horaires": [
-        "18:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8b/f4/8bf4588571b3ca5edd40c475993bc21b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/8190-une-balle-dans-la-tete/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3c/bc/3cbcc3b174f53772dc0ac8192b3f7be8.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/2605-jour-de-fete/"
     }
   ]
 }
