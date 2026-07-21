@@ -7,7 +7,7 @@
   },
   "date": "2026-07-21",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-07-21T11:01:16.528Z",
+  "dateUpdate": "2026-07-21T16:18:20.195Z",
   "films": [
     {
       "titre": "L'Odyssée",
@@ -87,8 +87,7 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "14:10",
-        "14:20"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
@@ -102,6 +101,16 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/20/a920872e51c1f9f893aefe6166ef2d94.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012946-eruption/"
+    },
+    {
+      "titre": "Les Parfait(s) : arnaques en famille",
+      "genre": "Film",
+      "duree": "1h 34min",
+      "horaires": [
+        "14:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c9/06/c9066cfdb985bb1f03cc08c35e29be68.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020330-les-parfaits-arnaques-en-famille/"
     },
     {
       "titre": "Jim Queen",
