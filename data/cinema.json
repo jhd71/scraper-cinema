@@ -5,9 +5,9 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-07-23T22:00:06.562Z",
+  "dateUpdate": "2026-07-24T02:05:02.080Z",
   "films": [
     {
       "titre": "De la Comédie-Française",
@@ -15,7 +15,7 @@
       "duree": "1h 15min",
       "horaires": [
         "14:20",
-        "18:30"
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000037046-de-la-comedie-francaise/"
@@ -25,7 +25,7 @@
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "14:00"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/9e/a69e4b47821ccc84f4ee63d57ffc5124.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/320561-la-fille-dans-les-nuages/"
@@ -35,19 +35,39 @@
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "13:50",
-        "20:00"
+        "16:50",
+        "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013045-lodyssee/"
+    },
+    {
+      "titre": "Evil Dead Burn",
+      "genre": "Film",
+      "duree": "1h 51min",
+      "horaires": [
+        "21:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/b2/b7b2ba851dae7e23fdf1f8ef35704d9f.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/326465-evil-dead-burn/"
+    },
+    {
+      "titre": "Le Passage",
+      "genre": "Film",
+      "duree": "1h 43min",
+      "horaires": [
+        "18:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/05/40/0540f501d85587116abb51aa2f9f7a91.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/326124-le-passage/"
     },
     {
       "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "16:15",
-        "20:30"
+        "14:00",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
@@ -57,80 +77,60 @@
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "16:00"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/66/95/66956c0d0a15062c936b14d7dd48c5b7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/293636-in-waves/"
     },
     {
-      "titre": "On l'appelait Robin des Bois",
+      "titre": "Permis de détruire",
       "genre": "Film",
-      "duree": "2h 2min",
+      "duree": "1h 37min",
       "horaires": [
-        "20:40"
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3a/fe/3afe3c822ee3fed0c74b32d5060c2a69.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000002580-on-lappelait-robin-des-bois/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/23/b9/23b90c7731c8c959d6b7e73b3bac993a.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000021764-permis-de-detruire/"
     },
     {
-      "titre": "Supergirl",
+      "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
       "genre": "Film",
-      "duree": "1h 50min",
+      "duree": "2h 40min",
       "horaires": [
-        "20:20"
+        "13:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9b/ae/9bae883f672ff5095e2a4282effeb116.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/266720-supergirl/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
     },
     {
       "titre": "Des Minions et des monstres",
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "16:30"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
+    },
+    {
+      "titre": "Backrooms",
+      "genre": "Film",
+      "duree": "1h 51min",
+      "horaires": [
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/3b/a93b9ba87d2ecb728214f6fc9edecf5b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/313220-backrooms/"
     },
     {
       "titre": "Toy Story 5",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "14:10"
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
-    },
-    {
-      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
-      "genre": "Film",
-      "duree": "2h 40min",
-      "horaires": [
-        "17:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
-    },
-    {
-      "titre": "Le Tombeau des lucioles",
-      "genre": "Film",
-      "duree": "1h 30min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4c/e5/4ce5eb41dee26f90d52da68353d7d38b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/10251-le-tombeau-des-lucioles/"
-    },
-    {
-      "titre": "Les Vacances de Monsieur Hulot",
-      "genre": "Film",
-      "duree": "1h 28min",
-      "horaires": [
-        "18:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/98/95/98957abe085b0f16eba3fa7291c77b58.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/2615-les-vacances-de-monsieur-hulot/"
     }
   ]
 }
