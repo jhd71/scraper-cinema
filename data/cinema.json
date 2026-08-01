@@ -5,9 +5,9 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-07-31T21:59:09.094Z",
+  "dateUpdate": "2026-08-01T02:10:55.386Z",
   "films": [
     {
       "titre": "Spider-Man: Brand New Day",
@@ -26,7 +26,7 @@
       "duree": "1h 15min",
       "horaires": [
         "17:05",
-        "21:00"
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000037046-de-la-comedie-francaise/"
@@ -36,7 +36,7 @@
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "16:50"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/9e/a69e4b47821ccc84f4ee63d57ffc5124.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/320561-la-fille-dans-les-nuages/"
@@ -46,7 +46,7 @@
       "genre": "Film",
       "duree": "1h 21min",
       "horaires": [
-        "14:15"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/25/8d253a0a0ae870ed54287abc2a552bb4.jpeg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000014102-kayara-princesse-inca/"
@@ -56,81 +56,63 @@
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "16:30",
+        "14:30",
         "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013045-lodyssee/"
     },
     {
-      "titre": "Le Berger et les ours",
-      "genre": "Film",
-      "duree": "1h 41min",
-      "horaires": [
-        "20:55"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8a/22/8a22bf3670d6e30e9434ec9fd5aed923.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000015418-le-berger-et-les-ours/"
-    },
-    {
-      "titre": "The Last Viking",
-      "genre": "Film",
-      "duree": "1h 56min",
-      "horaires": [
-        "18:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/6b/786b7993221ab3a0d871f6510da3f91f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/316460-the-last-viking/"
-    },
-    {
-      "titre": "Evil Dead Burn",
-      "genre": "Film",
-      "duree": "1h 51min",
-      "horaires": [
-        "18:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/b2/b7b2ba851dae7e23fdf1f8ef35704d9f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/326465-evil-dead-burn/"
-    },
-    {
       "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "16:10"
+        "15:40",
+        "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
+    },
+    {
+      "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
+      "genre": "Film",
+      "duree": "2h 40min",
+      "horaires": [
+        "17:55"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
     },
     {
       "titre": "Des Minions et des monstres",
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "14:30"
+        "17:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
+    },
+    {
+      "titre": "Backrooms",
+      "genre": "Film",
+      "duree": "1h 51min",
+      "horaires": [
+        "18:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/3b/a93b9ba87d2ecb728214f6fc9edecf5b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/313220-backrooms/"
     },
     {
       "titre": "Toy Story 5",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "18:35"
+        "18:35",
+        "14:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
-    },
-    {
-      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
-      "genre": "Film",
-      "duree": "2h 40min",
-      "horaires": [
-        "13:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
     }
   ]
 }
