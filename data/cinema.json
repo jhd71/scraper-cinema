@@ -7,7 +7,7 @@
   },
   "date": "2026-08-06",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-08-06T11:14:21.779Z",
+  "dateUpdate": "2026-08-06T13:49:41.063Z",
   "films": [
     {
       "titre": "La Pat' Patrouille : Le film mission Dino",
@@ -41,6 +41,16 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/276608-spider-man-brand-new-day/"
+    },
+    {
+      "titre": "Charlie et les kangourous",
+      "genre": "Film",
+      "duree": "1h 47min",
+      "horaires": [
+        "14:25"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9f/4a/9f4af8841cf8a30055df79e676984b5c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003105-charlie-et-les-kangourous/"
     },
     {
       "titre": "De la Comédie-Française",
@@ -102,16 +112,6 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/e2/61e2f15896e83edab697e35280b6f0d3.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000027832-ghost-elephants/"
-    },
-    {
-      "titre": "In Waves",
-      "genre": "Film",
-      "duree": "1h 31min",
-      "horaires": [
-        "14:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/66/95/66956c0d0a15062c936b14d7dd48c5b7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/293636-in-waves/"
     },
     {
       "titre": "Des Minions et des monstres",
