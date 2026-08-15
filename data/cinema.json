@@ -5,9 +5,9 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-08-14T21:18:50.999Z",
+  "dateUpdate": "2026-08-15T00:52:22.164Z",
   "films": [
     {
       "titre": "La fin d’Oak Street",
@@ -26,7 +26,7 @@
       "duree": "1h 32min",
       "horaires": [
         "14:20",
-        "18:40"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000032856-tombe-du-ciel/"
@@ -54,16 +54,6 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022546-les-gendarmes/"
     },
     {
-      "titre": "I Want Your Sex",
-      "genre": "Film",
-      "duree": "1h 30min",
-      "horaires": [
-        "18:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/15/ad/15adab41a1612c7739f12d034a62f712.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003998-i-want-your-sex/"
-    },
-    {
       "titre": "Spider-Man: Brand New Day",
       "genre": "Film",
       "duree": "2h 25min",
@@ -75,24 +65,24 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/276608-spider-man-brand-new-day/"
     },
     {
-      "titre": "Sous le ciel de Kyoto",
+      "titre": "Charlie et les kangourous",
       "genre": "Film",
-      "duree": "2h 8min",
+      "duree": "1h 47min",
       "horaires": [
-        "16:00"
+        "13:55"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f5/c5/f5c59c0d93b30f3bd8ba4d657d668a9d.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014327-sous-le-ciel-de-kyoto/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9f/4a/9f4af8841cf8a30055df79e676984b5c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003105-charlie-et-les-kangourous/"
     },
     {
-      "titre": "Kayara, Princesse inca",
+      "titre": "De la Comédie-Française",
       "genre": "Film",
-      "duree": "1h 21min",
+      "duree": "1h 15min",
       "horaires": [
-        "15:50"
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/25/8d253a0a0ae870ed54287abc2a552bb4.jpeg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014102-kayara-princesse-inca/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037046-de-la-comedie-francaise/"
     },
     {
       "titre": "L'Odyssée",
@@ -105,24 +95,34 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013045-lodyssee/"
     },
     {
-      "titre": "Des Minions et des monstres",
+      "titre": "Entre ciel et terre",
       "genre": "Film",
-      "duree": "1h 29min",
+      "duree": "0h 33min",
       "horaires": [
-        "14:00"
+        "16:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b4/86/b4866c2f7eebdb5a67dfe51b23f6dee8.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000043585-entre-ciel-et-terre/"
     },
     {
-      "titre": "Toy Story 5",
+      "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
-      "duree": "1h 42min",
+      "duree": "1h 56min",
       "horaires": [
-        "18:30"
+        "16:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
+    },
+    {
+      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
+      "genre": "Film",
+      "duree": "2h 40min",
+      "horaires": [
+        "17:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
     }
   ]
 }
