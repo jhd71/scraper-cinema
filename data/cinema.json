@@ -5,16 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-08-17T21:19:17.723Z",
+  "dateUpdate": "2026-08-18T00:51:55.296Z",
   "films": [
     {
       "titre": "La fin d’Oak Street",
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "16:30"
+        "14:10",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2b/1b/2b1bc2ebbf00d185baa83a18177317c6.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/314503-la-fin-doak-street/"
@@ -24,7 +25,8 @@
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "16:10"
+        "16:30",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000032856-tombe-du-ciel/"
@@ -34,7 +36,8 @@
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "13:50"
+        "13:50",
+        "18:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bb/35/bb358019448f4fcd5c37b0d19c04fd0d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/320681-la-pat-patrouille-le-film-mission-dino/"
@@ -44,11 +47,21 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "14:10",
+        "14:00",
         "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/8e/498e9c4d4f75557cdf9c3796e92a0a21.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022546-les-gendarmes/"
+    },
+    {
+      "titre": "I Want Your Sex",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "18:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/15/ad/15adab41a1612c7739f12d034a62f712.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003998-i-want-your-sex/"
     },
     {
       "titre": "Spider-Man: Brand New Day",
@@ -62,24 +75,24 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/276608-spider-man-brand-new-day/"
     },
     {
-      "titre": "Charlie et les kangourous",
+      "titre": "Sous le ciel de Kyoto",
       "genre": "Film",
-      "duree": "1h 47min",
+      "duree": "2h 8min",
       "horaires": [
-        "14:00"
+        "18:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9f/4a/9f4af8841cf8a30055df79e676984b5c.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000003105-charlie-et-les-kangourous/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f5/c5/f5c59c0d93b30f3bd8ba4d657d668a9d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014327-sous-le-ciel-de-kyoto/"
     },
     {
-      "titre": "De la Comédie-Française",
+      "titre": "Kayara, Princesse inca",
       "genre": "Film",
-      "duree": "1h 15min",
+      "duree": "1h 21min",
       "horaires": [
-        "18:30"
+        "16:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037046-de-la-comedie-francaise/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/25/8d253a0a0ae870ed54287abc2a552bb4.jpeg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014102-kayara-princesse-inca/"
     },
     {
       "titre": "L'Odyssée",
@@ -92,55 +105,24 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013045-lodyssee/"
     },
     {
-      "titre": "Des Minions et des monstres",
+      "titre": "La Dernière séance",
       "genre": "Film",
-      "duree": "1h 29min",
+      "duree": "1h 52min",
       "horaires": [
-        "18:00"
+        "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ba/16/ba1686f11e81aa7744e16454a5627fa2.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/281912-la-derniere-seance/"
     },
     {
-      "titre": "La Baleine et le musicien",
+      "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
-      "duree": "1h 23min",
+      "duree": "1h 56min",
       "horaires": [
-        "18:25"
+        "15:55"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b3/54/b354f7ce979aa7674f9f1dd17a4de56f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012309-la-baleine-et-le-musicien/"
-    },
-    {
-      "titre": "Toy Story 5",
-      "genre": "Film",
-      "duree": "1h 42min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
-    },
-    {
-      "titre": "Une année italienne",
-      "genre": "Film",
-      "duree": "1h 42min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e2/36/e23682f324bb9201bef0499ff4281c1f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/327942-une-annee-italienne/"
-    },
-    {
-      "titre": "Bait",
-      "genre": "Film",
-      "duree": "1h 29min",
-      "horaires": [
-        "14:20",
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ab/fb/abfb0a4e5a21a5f53a2d0e8e7ef1750c.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/271156-bait/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
     }
   ]
 }
