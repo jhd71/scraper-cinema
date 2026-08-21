@@ -5,9 +5,9 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-08-20T21:20:53.553Z",
+  "dateUpdate": "2026-08-21T00:55:38.823Z",
   "films": [
     {
       "titre": "La fin d’Oak Street",
@@ -15,7 +15,7 @@
       "duree": "1h 40min",
       "horaires": [
         "16:30",
-        "20:50"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2b/1b/2b1bc2ebbf00d185baa83a18177317c6.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/314503-la-fin-doak-street/"
@@ -26,7 +26,7 @@
       "duree": "1h 32min",
       "horaires": [
         "14:10",
-        "18:40"
+        "18:05"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000032856-tombe-du-ciel/"
@@ -46,7 +46,7 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "20:40"
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/8e/498e9c4d4f75557cdf9c3796e92a0a21.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022546-les-gendarmes/"
@@ -56,10 +56,20 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "19:10"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/15/ad/15adab41a1612c7739f12d034a62f712.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000003998-i-want-your-sex/"
+    },
+    {
+      "titre": "Les Matins merveilleux",
+      "genre": "Film",
+      "duree": "1h 27min",
+      "horaires": [
+        "14:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/d7/c4d7a94755c795c00581abcbb45a2ee0.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019327-les-matins-merveilleux/"
     },
     {
       "titre": "Spider-Man: Brand New Day",
@@ -77,70 +87,60 @@
       "genre": "Film",
       "duree": "1h 15min",
       "horaires": [
-        "18:50"
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000037046-de-la-comedie-francaise/"
+    },
+    {
+      "titre": "Nightborn",
+      "genre": "Film",
+      "duree": "1h 32min",
+      "horaires": [
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/67/e4/67e46aeae8cd8f627262d4a1e3e05651.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/328440-nightborn/"
     },
     {
       "titre": "L'Odyssée",
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "16:00"
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013045-lodyssee/"
     },
     {
-      "titre": "La Dernière séance",
+      "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
-      "duree": "1h 52min",
+      "duree": "1h 56min",
       "horaires": [
-        "14:20"
+        "15:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ba/16/ba1686f11e81aa7744e16454a5627fa2.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/281912-la-derniere-seance/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
     },
     {
-      "titre": "Le Héros de Berlin",
+      "titre": "Noise",
       "genre": "Film",
-      "duree": "1h 53min",
+      "duree": "1h 33min",
       "horaires": [
-        "21:00"
+        "18:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7c/9a/7c9a3ca1671b58045d39caf0245aaa24.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/327050-le-heros-de-berlin/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d6/a3/d6a31fbf7f5ca4b69bacc1d3d68e6a5c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/325653-noise/"
     },
     {
-      "titre": "Des Minions et des monstres",
+      "titre": "Parade",
       "genre": "Film",
-      "duree": "1h 29min",
+      "duree": "1h 24min",
       "horaires": [
-        "16:40"
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/315380-des-minions-et-des-monstres/"
-    },
-    {
-      "titre": "La Baleine et le musicien",
-      "genre": "Film",
-      "duree": "1h 23min",
-      "horaires": [
-        "18:25"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b3/54/b354f7ce979aa7674f9f1dd17a4de56f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012309-la-baleine-et-le-musicien/"
-    },
-    {
-      "titre": "Toy Story 5",
-      "genre": "Film",
-      "duree": "1h 42min",
-      "horaires": [
-        "13:55"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a2/63/a263805c6f36d9eb8ab5ec2ca59acc65.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/925-parade/"
     }
   ]
 }
