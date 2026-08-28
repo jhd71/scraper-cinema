@@ -7,7 +7,7 @@
   },
   "date": "2026-08-28",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-08-28T14:47:38.663Z",
+  "dateUpdate": "2026-08-28T23:48:44.447Z",
   "films": [
     {
       "titre": "Tad l'explorateur et la lampe magique",
@@ -15,7 +15,7 @@
       "duree": "1h 35min",
       "horaires": [
         "13:50",
-        "18:30"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7a/89/7a89c362c3c4180669ce471a947d2f70.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/257425-tad-lexplorateur-et-la-lampe-magique/"
@@ -25,48 +25,29 @@
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "20:30",
-        "16:00"
+        "16:00",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/53/4953b0ca2f415faf7afb40c6cf9c1cf5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000014969-the-dog-stars/"
-    },
-    {
-      "titre": "Juste pour une nuit",
-      "genre": "Film",
-      "duree": "1h 42min",
-      "horaires": [
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3e/e5/3ee55833da929172da915df8db4d24b0.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019899-juste-pour-une-nuit/"
     },
     {
       "titre": "La fin d’Oak Street",
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "16:10"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2b/1b/2b1bc2ebbf00d185baa83a18177317c6.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/314503-la-fin-doak-street/"
-    },
-    {
-      "titre": "Soudain",
-      "genre": "Film",
-      "duree": "3h 15min",
-      "horaires": [
-        "13:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3e/42/3e425c3916d4f282734535c052079c8b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024105-soudain/"
     },
     {
       "titre": "Tombé du ciel",
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "18:40"
+        "14:00",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000032856-tombe-du-ciel/"
@@ -76,7 +57,7 @@
       "genre": "Film",
       "duree": "1h 16min",
       "horaires": [
-        "20:55"
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/18/ab/18aba3e0fff8d3a713834677b8b17d83.png",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019382-une-aube-nouvelle/"
@@ -86,26 +67,17 @@
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "16:45"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bb/35/bb358019448f4fcd5c37b0d19c04fd0d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/320681-la-pat-patrouille-le-film-mission-dino/"
-    },
-    {
-      "titre": "Les Gendarmes",
-      "genre": "Film",
-      "duree": "1h 27min",
-      "horaires": [
-        "14:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/8e/498e9c4d4f75557cdf9c3796e92a0a21.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022546-les-gendarmes/"
     },
     {
       "titre": "Spider-Man: Brand New Day",
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
+        "20:20",
         "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
@@ -116,30 +88,40 @@
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "17:30"
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013045-lodyssee/"
     },
     {
-      "titre": "Harry Potter à l'école des sorciers",
+      "titre": "Toy Story 5",
       "genre": "Film",
-      "duree": "2h 32min",
+      "duree": "1h 42min",
       "horaires": [
-        "20:30"
+        "16:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e7/3e/e73e85182622161d9546ca494a4db564.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/29276-harry-potter-a-lecole-des-sorciers/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
     },
     {
-      "titre": "Playtime",
+      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
       "genre": "Film",
-      "duree": "2h 4min",
+      "duree": "2h 40min",
       "horaires": [
-        "18:10"
+        "16:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7e/d6/7ed607dc315a0e50ba21318b311fa830.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1363-playtime/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
+    },
+    {
+      "titre": "Mon oncle",
+      "genre": "Film",
+      "duree": "1h 56min",
+      "horaires": [
+        "18:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3a/36/3a36ea2b9550756306bcb9bd9db5629d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/2614-mon-oncle/"
     }
   ]
 }
