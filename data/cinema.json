@@ -7,13 +7,14 @@
   },
   "date": "2026-09-05",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-09-05T19:47:44.089Z",
+  "dateUpdate": "2026-09-05T22:34:19.351Z",
   "films": [
     {
       "titre": "Tad l'explorateur et la lampe magique",
       "genre": "Film",
       "duree": "1h 35min",
       "horaires": [
+        "10:40",
         "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7a/89/7a89c362c3c4180669ce471a947d2f70.jpg",
@@ -24,8 +25,9 @@
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "13:50",
-        "18:30"
+        "15:00",
+        "20:50",
+        "10:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/53/4953b0ca2f415faf7afb40c6cf9c1cf5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000014969-the-dog-stars/"
@@ -35,7 +37,7 @@
       "genre": "Film",
       "duree": "2h 26min",
       "horaires": [
-        "14:00",
+        "14:10",
         "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7d/a3/7da334b5a024f1960d11cefab25107bc.jpg",
@@ -46,7 +48,7 @@
       "genre": "Film",
       "duree": "1h 46min",
       "horaires": [
-        "18:30"
+        "16:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ec/35/ec35f784920486fc0e3ff35b7aa4fc41.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016503-insidious-linvasion-du-lointain/"
@@ -56,7 +58,7 @@
       "genre": "Film",
       "duree": "1h 35min",
       "horaires": [
-        "16:40"
+        "18:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f6/c9/f6c9bc96111477a457737412606a7dd7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000002942-mutiny/"
@@ -66,39 +68,78 @@
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "16:15"
+        "12:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2b/1b/2b1bc2ebbf00d185baa83a18177317c6.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/314503-la-fin-doak-street/"
+    },
+    {
+      "titre": "Soudain",
+      "genre": "Film",
+      "duree": "3h 15min",
+      "horaires": [
+        "10:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3e/42/3e425c3916d4f282734535c052079c8b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024105-soudain/"
     },
     {
       "titre": "Tombé du ciel",
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "14:15",
-        "20:50"
+        "14:30",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000032856-tombe-du-ciel/"
+    },
+    {
+      "titre": "Undertone",
+      "genre": "Film",
+      "duree": "1h 34min",
+      "horaires": [
+        "20:55"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/aa/09/aa097ecc9757a22dabfabc6469ce62f1.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020491-undertone/"
+    },
+    {
+      "titre": "Une aube nouvelle",
+      "genre": "Film",
+      "duree": "1h 16min",
+      "horaires": [
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/18/ab/18aba3e0fff8d3a713834677b8b17d83.png",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019382-une-aube-nouvelle/"
     },
     {
       "titre": "La Pat' Patrouille : Le film mission Dino",
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "18:15"
+        "12:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bb/35/bb358019448f4fcd5c37b0d19c04fd0d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/320681-la-pat-patrouille-le-film-mission-dino/"
+    },
+    {
+      "titre": "Les Gendarmes",
+      "genre": "Film",
+      "duree": "1h 27min",
+      "horaires": [
+        "12:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/8e/498e9c4d4f75557cdf9c3796e92a0a21.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022546-les-gendarmes/"
     },
     {
       "titre": "Spider-Man: Brand New Day",
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "13:50",
-        "20:40"
+        "13:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/276608-spider-man-brand-new-day/"
@@ -108,20 +149,30 @@
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "20:00"
+        "17:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013045-lodyssee/"
     },
     {
-      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
+      "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "16:50"
+        "17:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
+    },
+    {
+      "titre": "Toy Story 5",
+      "genre": "Film",
+      "duree": "1h 42min",
+      "horaires": [
+        "10:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/313256-toy-story-5/"
     }
   ]
 }
