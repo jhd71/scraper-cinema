@@ -7,14 +7,15 @@
   },
   "date": "2026-09-07",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-09-07T18:57:12.170Z",
+  "dateUpdate": "2026-09-07T23:14:19.881Z",
   "films": [
     {
       "titre": "The Dog Stars",
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "18:00"
+        "17:40",
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/53/4953b0ca2f415faf7afb40c6cf9c1cf5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000014969-the-dog-stars/"
@@ -25,7 +26,7 @@
       "duree": "2h 26min",
       "horaires": [
         "13:55",
-        "20:20"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7d/a3/7da334b5a024f1960d11cefab25107bc.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/188280-fjord/"
@@ -35,27 +36,17 @@
       "genre": "Film",
       "duree": "1h 46min",
       "horaires": [
-        "20:50"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ec/35/ec35f784920486fc0e3ff35b7aa4fc41.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016503-insidious-linvasion-du-lointain/"
-    },
-    {
-      "titre": "Mutiny",
-      "genre": "Film",
-      "duree": "1h 35min",
-      "horaires": [
-        "16:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f6/c9/f6c9bc96111477a457737412606a7dd7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000002942-mutiny/"
     },
     {
       "titre": "Juste pour une nuit",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "16:40"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/3e/e5/3ee55833da929172da915df8db4d24b0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019899-juste-pour-une-nuit/"
@@ -65,7 +56,7 @@
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "18:50"
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2b/1b/2b1bc2ebbf00d185baa83a18177317c6.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/314503-la-fin-doak-street/"
@@ -75,7 +66,7 @@
       "genre": "Film",
       "duree": "3h 15min",
       "horaires": [
-        "14:10"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/3e/42/3e425c3916d4f282734535c052079c8b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000024105-soudain/"
@@ -91,64 +82,54 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000032856-tombe-du-ciel/"
     },
     {
-      "titre": "Une aube nouvelle",
-      "genre": "Film",
-      "duree": "1h 16min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/18/ab/18aba3e0fff8d3a713834677b8b17d83.png",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019382-une-aube-nouvelle/"
-    },
-    {
-      "titre": "Les Gendarmes",
-      "genre": "Film",
-      "duree": "1h 27min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/8e/498e9c4d4f75557cdf9c3796e92a0a21.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022546-les-gendarmes/"
-    },
-    {
       "titre": "Les Matins merveilleux",
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "16:00"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/d7/c4d7a94755c795c00581abcbb45a2ee0.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019327-les-matins-merveilleux/"
     },
     {
-      "titre": "Toutes mes soeurs",
+      "titre": "Spider-Man: Brand New Day",
       "genre": "Film",
-      "duree": "1h 18min",
-      "horaires": [
-        "18:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d1/d4/d1d44b29bebdda1627c59b61396687d6.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000035576-toutes-mes-soeurs/"
-    },
-    {
-      "titre": "Hayat",
-      "genre": "Film",
-      "duree": "2h 40min",
-      "horaires": [
-        "13:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/18/89/188921f67712d3e75442cb23178b581c.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318386-hayat/"
-    },
-    {
-      "titre": "The Artist",
-      "genre": "Film",
-      "duree": "1h 40min",
+      "duree": "2h 25min",
       "horaires": [
         "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/medias/nmedia/18/83/95/46/20024873.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/183070-the-artist/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/276608-spider-man-brand-new-day/"
+    },
+    {
+      "titre": "De la Comédie-Française",
+      "genre": "Film",
+      "duree": "1h 15min",
+      "horaires": [
+        "16:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037046-de-la-comedie-francaise/"
+    },
+    {
+      "titre": "L'Odyssée",
+      "genre": "Film",
+      "duree": "2h 53min",
+      "horaires": [
+        "20:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013045-lodyssee/"
+    },
+    {
+      "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
+      "genre": "Film",
+      "duree": "2h 40min",
+      "horaires": [
+        "14:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
     }
   ]
 }
