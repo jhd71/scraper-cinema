@@ -7,140 +7,122 @@
   },
   "date": "2026-09-22",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-09-22T18:27:06.984Z",
+  "dateUpdate": "2026-09-22T23:24:56.017Z",
   "films": [
+    {
+      "titre": "Garance",
+      "genre": "Film",
+      "duree": "1h 55min",
+      "horaires": [
+        "13:50",
+        "20:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026039-garance/"
+    },
+    {
+      "titre": "Heart Of The Beast",
+      "genre": "Film",
+      "duree": "1h 41min",
+      "horaires": [
+        "13:55",
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000085-heart-of-the-beast/"
+    },
+    {
+      "titre": "Justin le Juste",
+      "genre": "Film",
+      "duree": "1h 50min",
+      "horaires": [
+        "16:00",
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000028944-justin-le-juste/"
+    },
     {
       "titre": "L'Invitation",
       "genre": "Film",
       "duree": "1h 47min",
       "horaires": [
         "14:00",
-        "18:15"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/b1/31b1faa3ca361d78ca82078f8accda1e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/317219-linvitation/"
+    },
+    {
+      "titre": "Ma famille de samouraïs",
+      "genre": "Film",
+      "duree": "1h 22min",
+      "horaires": [
+        "16:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5d/72/5d72af42143f7d2d3ef6b00ac8c23699.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023495-ma-famille-de-samourais/"
     },
     {
       "titre": "Resident Evil",
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
+        "14:10",
         "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1d/65/1d653b3f832f0f7ca7016e650207798f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018854-resident-evil/"
     },
     {
+      "titre": "La Vie d'une femme",
+      "genre": "Film",
+      "duree": "1h 38min",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/327941-la-vie-dune-femme/"
+    },
+    {
       "titre": "Les Héros du Louvre",
       "genre": "Film",
       "duree": "1h 45min",
       "horaires": [
-        "16:10"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/2e/5b2e76c638253f412a5deea5a9d849e7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/323826-les-heros-du-louvre/"
     },
     {
-      "titre": "Pressure",
+      "titre": "Rose",
       "genre": "Film",
-      "duree": "1h 40min",
+      "duree": "1h 34min",
       "horaires": [
-        "16:30",
-        "20:20"
+        "16:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/fb/92fb57911489ab17bfa8ecf0b29712c5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004458-pressure/"
-    },
-    {
-      "titre": "La Dernière patiente",
-      "genre": "Film",
-      "duree": "1h 20min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/75/98/7598684d2032a548ef251e6c915c6ef2.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/300784-la-derniere-patiente/"
-    },
-    {
-      "titre": "La Frappe",
-      "genre": "Film",
-      "duree": "1h 46min",
-      "horaires": [
-        "13:50",
-        "18:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/64/13/641357276a6608346bae117825d1ef87.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/314290-la-frappe/"
-    },
-    {
-      "titre": "L'Inconnue",
-      "genre": "Film",
-      "duree": "2h 20min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/af/a2/afa2a4e9bb49e003bceb86c209f46033.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/327993-linconnue/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/34/89/34896ce3efb274395de7187b29642a8e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/319893-rose/"
     },
     {
       "titre": "The Dog Stars",
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "18:40"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/53/4953b0ca2f415faf7afb40c6cf9c1cf5.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000014969-the-dog-stars/"
-    },
-    {
-      "titre": "Fjord",
-      "genre": "Film",
-      "duree": "2h 26min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7d/a3/7da334b5a024f1960d11cefab25107bc.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/188280-fjord/"
-    },
-    {
-      "titre": "Oklahoma Honey",
-      "genre": "Film",
-      "duree": "2h 10min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c5/9b/c59b5f11e1d8c447738dd7b4a8a49476.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/316021-oklahoma-honey/"
     },
     {
       "titre": "Tombé du ciel",
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "20:55"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000032856-tombe-du-ciel/"
-    },
-    {
-      "titre": "Une affaire turque",
-      "genre": "Film",
-      "duree": "1h 32min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/af/fb/affbc85d8e3d646b39700d0bd0dc1cfd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000034332-une-affaire-turque/"
-    },
-    {
-      "titre": "Ghost in the Shell",
-      "genre": "Film",
-      "duree": "1h 23min",
-      "horaires": [
-        "20:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/54/c45409cfc5212060d0fbbf5524af3906.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/15254-ghost-in-the-shell/"
     }
   ]
 }
