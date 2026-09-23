@@ -7,15 +7,25 @@
   },
   "date": "2026-09-23",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-09-23T18:46:01.256Z",
+  "dateUpdate": "2026-09-23T23:23:37.492Z",
   "films": [
+    {
+      "titre": "Artus - Le Show XXL au cinéma",
+      "genre": "Film",
+      "duree": "2h 7min",
+      "horaires": [
+        "20:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/63/04/6304dab981dda5e2739ac3188eda1cc3.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000042175-artus-le-show-xxl-au-cinema/"
+    },
     {
       "titre": "Garance",
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "13:50",
-        "20:30"
+        "14:00",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000026039-garance/"
@@ -25,8 +35,8 @@
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "13:55",
-        "20:40"
+        "14:20",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000000085-heart-of-the-beast/"
@@ -36,8 +46,8 @@
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "16:00",
-        "20:50"
+        "14:00",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000028944-justin-le-juste/"
@@ -47,52 +57,40 @@
       "genre": "Film",
       "duree": "1h 47min",
       "horaires": [
-        "14:00",
-        "18:20"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/b1/31b1faa3ca361d78ca82078f8accda1e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/317219-linvitation/"
-    },
-    {
-      "titre": "Ma famille de samouraïs",
-      "genre": "Film",
-      "duree": "1h 22min",
-      "horaires": [
-        "16:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5d/72/5d72af42143f7d2d3ef6b00ac8c23699.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023495-ma-famille-de-samourais/"
     },
     {
       "titre": "Resident Evil",
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "14:10",
         "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1d/65/1d653b3f832f0f7ca7016e650207798f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018854-resident-evil/"
     },
     {
+      "titre": "Adieu monde cruel",
+      "genre": "Film",
+      "duree": "1h 33min",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/df/db/dfdb8f83b9bb92e5ba76f43452af06cd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012310-adieu-monde-cruel/"
+    },
+    {
       "titre": "La Vie d'une femme",
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "16:20"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/327941-la-vie-dune-femme/"
-    },
-    {
-      "titre": "Les Héros du Louvre",
-      "genre": "Film",
-      "duree": "1h 45min",
-      "horaires": [
-        "18:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/2e/5b2e76c638253f412a5deea5a9d849e7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/323826-les-heros-du-louvre/"
     },
     {
       "titre": "Rose",
@@ -105,24 +103,44 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/319893-rose/"
     },
     {
-      "titre": "The Dog Stars",
+      "titre": "La Dernière patiente",
       "genre": "Film",
-      "duree": "1h 59min",
+      "duree": "1h 20min",
       "horaires": [
-        "18:30"
+        "14:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/53/4953b0ca2f415faf7afb40c6cf9c1cf5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014969-the-dog-stars/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/75/98/7598684d2032a548ef251e6c915c6ef2.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/300784-la-derniere-patiente/"
     },
     {
-      "titre": "Tombé du ciel",
+      "titre": "La Frappe",
       "genre": "Film",
-      "duree": "1h 32min",
+      "duree": "1h 46min",
       "horaires": [
-        "18:40"
+        "16:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000032856-tombe-du-ciel/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/64/13/641357276a6608346bae117825d1ef87.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314290-la-frappe/"
+    },
+    {
+      "titre": "Fjord",
+      "genre": "Film",
+      "duree": "2h 26min",
+      "horaires": [
+        "18:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7d/a3/7da334b5a024f1960d11cefab25107bc.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/188280-fjord/"
+    },
+    {
+      "titre": "Akira",
+      "genre": "Film",
+      "duree": "2h 4min",
+      "horaires": [
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/15/bf/15bf220d29691722e98298080cccdfb7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/6429-akira/"
     }
   ]
 }
