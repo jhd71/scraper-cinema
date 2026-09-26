@@ -7,15 +7,35 @@
   },
   "date": "2026-09-26",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-09-26T18:13:00.602Z",
+  "dateUpdate": "2026-09-26T23:19:38.230Z",
   "films": [
+    {
+      "titre": "Ducobu et le fantôme de Saint-Potache",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "10:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
+    },
+    {
+      "titre": "La Maison de nos rêves",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "16:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031247-la-maison-de-nos-reves/"
+    },
     {
       "titre": "Garance",
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "16:20",
-        "20:40"
+        "13:50",
+        "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000026039-garance/"
@@ -25,8 +45,9 @@
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "16:10",
-        "20:50"
+        "16:30",
+        "20:50",
+        "12:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000000085-heart-of-the-beast/"
@@ -36,28 +57,19 @@
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "16:00",
-        "20:30"
+        "14:20",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000028944-justin-le-juste/"
-    },
-    {
-      "titre": "Un amour d’épouvantail",
-      "genre": "Film",
-      "duree": "0h 44min",
-      "horaires": [
-        "16:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/69/17/6917a9ac903b1fbbc9bfa78aca1d257c.png",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000045286-un-amour-depouvantail/"
     },
     {
       "titre": "L'Invitation",
       "genre": "Film",
       "duree": "1h 47min",
       "horaires": [
-        "14:00"
+        "12:00",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/b1/31b1faa3ca361d78ca82078f8accda1e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/317219-linvitation/"
@@ -67,7 +79,8 @@
       "genre": "Film",
       "duree": "1h 22min",
       "horaires": [
-        "14:20"
+        "10:10",
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5d/72/5d72af42143f7d2d3ef6b00ac8c23699.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000023495-ma-famille-de-samourais/"
@@ -77,61 +90,91 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "14:10",
-        "21:00"
+        "14:30",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1d/65/1d653b3f832f0f7ca7016e650207798f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018854-resident-evil/"
-    },
-    {
-      "titre": "Adieu monde cruel",
-      "genre": "Film",
-      "duree": "1h 33min",
-      "horaires": [
-        "18:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/df/db/dfdb8f83b9bb92e5ba76f43452af06cd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012310-adieu-monde-cruel/"
     },
     {
       "titre": "La Vie d'une femme",
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "13:55"
+        "12:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/327941-la-vie-dune-femme/"
+    },
+    {
+      "titre": "Les Héros du Louvre",
+      "genre": "Film",
+      "duree": "1h 45min",
+      "horaires": [
+        "16:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/2e/5b2e76c638253f412a5deea5a9d849e7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/323826-les-heros-du-louvre/"
+    },
+    {
+      "titre": "Rose",
+      "genre": "Film",
+      "duree": "1h 34min",
+      "horaires": [
+        "11:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/34/89/34896ce3efb274395de7187b29642a8e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/319893-rose/"
+    },
+    {
+      "titre": "La Dernière patiente",
+      "genre": "Film",
+      "duree": "1h 20min",
+      "horaires": [
+        "10:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/75/98/7598684d2032a548ef251e6c915c6ef2.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/300784-la-derniere-patiente/"
+    },
+    {
+      "titre": "Dégel",
+      "genre": "Film",
+      "duree": "1h 48min",
+      "horaires": [
+        "10:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/59/f6/59f64dbaa7f88901fba3c5db67e4995b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000039625-degel/"
     },
     {
       "titre": "Tombé du ciel",
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "18:30"
+        "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000032856-tombe-du-ciel/"
     },
     {
-      "titre": "Spider-Man: Brand New Day",
-      "genre": "Film",
-      "duree": "2h 25min",
-      "horaires": [
-        "18:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/276608-spider-man-brand-new-day/"
-    },
-    {
-      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
+      "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "17:30"
+        "15:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
+    },
+    {
+      "titre": "Lawrence d'Arabie",
+      "genre": "Film",
+      "duree": "3h 46min",
+      "horaires": [
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8b/55/8b5584e08ae3b9656f8bb67c84ccf884.jpeg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/4749-lawrence-darabie/"
     }
   ]
 }
