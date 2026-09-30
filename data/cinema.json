@@ -5,17 +5,28 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-09-29T21:44:53.086Z",
+  "dateUpdate": "2026-09-30T03:29:57.505Z",
   "films": [
+    {
+      "titre": "Notre salut",
+      "genre": "Film",
+      "duree": "2h 39min",
+      "horaires": [
+        "13:55",
+        "18:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007388-notre-salut/"
+    },
     {
       "titre": "Garance",
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
         "13:50",
-        "20:30"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000026039-garance/"
@@ -25,8 +36,8 @@
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "16:20",
-        "20:55"
+        "16:50",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000000085-heart-of-the-beast/"
@@ -36,111 +47,82 @@
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "13:55",
-        "18:40"
+        "16:10",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000028944-justin-le-juste/"
     },
     {
-      "titre": "L'Invitation",
+      "titre": "Les Contrebandiers",
       "genre": "Film",
-      "duree": "1h 47min",
+      "duree": "1h 53min",
       "horaires": [
-        "16:10"
+        "20:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/b1/31b1faa3ca361d78ca82078f8accda1e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/317219-linvitation/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/20/142026a9ee3fb83800e19232c9cc0998.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019874-les-contrebandiers/"
     },
     {
       "titre": "Resident Evil",
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "21:00"
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1d/65/1d653b3f832f0f7ca7016e650207798f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018854-resident-evil/"
+    },
+    {
+      "titre": "Si tu penses bien",
+      "genre": "Film",
+      "duree": "1h 34min",
+      "horaires": [
+        "14:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/10/ef/10ef2a762195d43d7ddaebcf19e161d4.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000043221-si-tu-penses-bien/"
     },
     {
       "titre": "Adieu monde cruel",
       "genre": "Film",
       "duree": "1h 33min",
       "horaires": [
-        "16:15"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/df/db/dfdb8f83b9bb92e5ba76f43452af06cd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000012310-adieu-monde-cruel/"
     },
     {
-      "titre": "La Vie d'une femme",
+      "titre": "Les Ensorceleuses 2",
+      "genre": "Film",
+      "duree": "2h 10min",
+      "horaires": [
+        "16:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/05/d0/05d0dcb033bc9dced645815301b59394.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004679-les-ensorceleuses-2/"
+    },
+    {
+      "titre": "Les Survivants du Che",
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/327941-la-vie-dune-femme/"
-    },
-    {
-      "titre": "Les Héros du Louvre",
-      "genre": "Film",
-      "duree": "1h 45min",
-      "horaires": [
-        "18:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/2e/5b2e76c638253f412a5deea5a9d849e7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/323826-les-heros-du-louvre/"
-    },
-    {
-      "titre": "Pressure",
-      "genre": "Film",
-      "duree": "1h 40min",
-      "horaires": [
-        "16:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/fb/92fb57911489ab17bfa8ecf0b29712c5.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004458-pressure/"
-    },
-    {
-      "titre": "Rose",
-      "genre": "Film",
-      "duree": "1h 34min",
-      "horaires": [
         "18:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/34/89/34896ce3efb274395de7187b29642a8e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/319893-rose/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9a/84/9a8430fcb28326ce1b8780231c8c026b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/318226-les-survivants-du-che/"
     },
     {
-      "titre": "Dégel",
+      "titre": "Cars",
       "genre": "Film",
-      "duree": "1h 48min",
+      "duree": "1h 57min",
       "horaires": [
-        "14:10"
+        "13:50",
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/59/f6/59f64dbaa7f88901fba3c5db67e4995b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000039625-degel/"
-    },
-    {
-      "titre": "Une affaire turque",
-      "genre": "Film",
-      "duree": "1h 32min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/af/fb/affbc85d8e3d646b39700d0bd0dc1cfd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000034332-une-affaire-turque/"
-    },
-    {
-      "titre": "Akira",
-      "genre": "Film",
-      "duree": "2h 4min",
-      "horaires": [
-        "20:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/15/bf/15bf220d29691722e98298080cccdfb7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/6429-akira/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/59/da/59da33b9de0e915a94ce75dcd407df2d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/55774-cars/"
     }
   ]
 }
