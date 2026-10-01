@@ -5,17 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-09-30T21:45:29.549Z",
+  "dateUpdate": "2026-10-01T03:35:13.977Z",
   "films": [
     {
       "titre": "Notre salut",
       "genre": "Film",
       "duree": "2h 39min",
       "horaires": [
-        "13:55",
-        "18:00"
+        "15:55",
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007388-notre-salut/"
@@ -26,7 +26,7 @@
       "duree": "1h 55min",
       "horaires": [
         "13:50",
-        "18:40"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000026039-garance/"
@@ -36,8 +36,8 @@
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "16:50",
-        "21:00"
+        "14:20",
+        "18:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000000085-heart-of-the-beast/"
@@ -47,8 +47,8 @@
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "16:10",
-        "20:40"
+        "14:00",
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000028944-justin-le-juste/"
@@ -58,7 +58,7 @@
       "genre": "Film",
       "duree": "1h 53min",
       "horaires": [
-        "20:50"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/20/142026a9ee3fb83800e19232c9cc0998.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019874-les-contrebandiers/"
@@ -68,7 +68,7 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "20:45"
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1d/65/1d653b3f832f0f7ca7016e650207798f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018854-resident-evil/"
@@ -84,45 +84,54 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000043221-si-tu-penses-bien/"
     },
     {
-      "titre": "Adieu monde cruel",
+      "titre": "La Vie d'une femme",
       "genre": "Film",
-      "duree": "1h 33min",
+      "duree": "1h 38min",
       "horaires": [
-        "16:00"
+        "16:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/df/db/dfdb8f83b9bb92e5ba76f43452af06cd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012310-adieu-monde-cruel/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/327941-la-vie-dune-femme/"
     },
     {
       "titre": "Les Ensorceleuses 2",
       "genre": "Film",
       "duree": "2h 10min",
       "horaires": [
-        "16:10"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/05/d0/05d0dcb033bc9dced645815301b59394.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000004679-les-ensorceleuses-2/"
     },
     {
-      "titre": "Les Survivants du Che",
+      "titre": "Rose",
       "genre": "Film",
-      "duree": "1h 38min",
+      "duree": "1h 34min",
       "horaires": [
-        "18:50"
+        "16:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9a/84/9a8430fcb28326ce1b8780231c8c026b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318226-les-survivants-du-che/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/34/89/34896ce3efb274395de7187b29642a8e.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/319893-rose/"
     },
     {
-      "titre": "Cars",
+      "titre": "Tombé du ciel",
       "genre": "Film",
-      "duree": "1h 57min",
+      "duree": "1h 32min",
       "horaires": [
-        "13:50",
-        "18:20"
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/59/da/59da33b9de0e915a94ce75dcd407df2d.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/55774-cars/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000032856-tombe-du-ciel/"
+    },
+    {
+      "titre": "Akira",
+      "genre": "Film",
+      "duree": "2h 4min",
+      "horaires": [
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/15/bf/15bf220d29691722e98298080cccdfb7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/6429-akira/"
     }
   ]
 }
