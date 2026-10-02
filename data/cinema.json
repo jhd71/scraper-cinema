@@ -5,17 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-10-01T20:02:43.976Z",
+  "dateUpdate": "2026-10-02T00:25:17.248Z",
   "films": [
     {
       "titre": "Notre salut",
       "genre": "Film",
       "duree": "2h 39min",
       "horaires": [
-        "15:55",
-        "20:20"
+        "13:55",
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007388-notre-salut/"
@@ -25,8 +25,8 @@
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "13:50",
-        "18:30"
+        "13:45",
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000026039-garance/"
@@ -36,8 +36,8 @@
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "14:20",
-        "18:55"
+        "21:00",
+        "16:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000000085-heart-of-the-beast/"
@@ -47,8 +47,8 @@
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "14:00",
-        "18:10"
+        "14:10",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000028944-justin-le-juste/"
@@ -58,7 +58,7 @@
       "genre": "Film",
       "duree": "1h 53min",
       "horaires": [
-        "16:10"
+        "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/20/142026a9ee3fb83800e19232c9cc0998.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019874-les-contrebandiers/"
@@ -78,17 +78,27 @@
       "genre": "Film",
       "duree": "1h 34min",
       "horaires": [
-        "14:00"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/10/ef/10ef2a762195d43d7ddaebcf19e161d4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000043221-si-tu-penses-bien/"
+    },
+    {
+      "titre": "Adieu monde cruel",
+      "genre": "Film",
+      "duree": "1h 33min",
+      "horaires": [
+        "14:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/df/db/dfdb8f83b9bb92e5ba76f43452af06cd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012310-adieu-monde-cruel/"
     },
     {
       "titre": "La Vie d'une femme",
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "16:30"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/327941-la-vie-dune-femme/"
@@ -98,7 +108,7 @@
       "genre": "Film",
       "duree": "2h 10min",
       "horaires": [
-        "20:30"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/05/d0/05d0dcb033bc9dced645815301b59394.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000004679-les-ensorceleuses-2/"
@@ -108,30 +118,20 @@
       "genre": "Film",
       "duree": "1h 34min",
       "horaires": [
-        "16:10"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/34/89/34896ce3efb274395de7187b29642a8e.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/319893-rose/"
     },
     {
-      "titre": "Tombé du ciel",
+      "titre": "Spider-Man: Brand New Day",
       "genre": "Film",
-      "duree": "1h 32min",
+      "duree": "2h 25min",
       "horaires": [
-        "18:30"
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000032856-tombe-du-ciel/"
-    },
-    {
-      "titre": "Akira",
-      "genre": "Film",
-      "duree": "2h 4min",
-      "horaires": [
-        "20:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/15/bf/15bf220d29691722e98298080cccdfb7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/6429-akira/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/276608-spider-man-brand-new-day/"
     }
   ]
 }
