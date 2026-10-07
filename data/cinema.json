@@ -5,17 +5,71 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-10-06T19:56:33.342Z",
+  "dateUpdate": "2026-10-07T00:18:15.199Z",
   "films": [
+    {
+      "titre": "Ducobu et le fantôme de Saint-Potache",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "14:30",
+        "16:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
+    },
+    {
+      "titre": "Fausse note",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "16:10",
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/08/a5081c99da97f696eaf2a157422bac63.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000030290-fausse-note/"
+    },
+    {
+      "titre": "Joyeuse Jungle !",
+      "genre": "Film",
+      "duree": "1h 16min",
+      "horaires": [
+        "16:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e8/6c/e86c9876fe8dc5abacfaacbd1bcd1cb3.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/302738-joyeuse-jungle/"
+    },
+    {
+      "titre": "La Maison de nos rêves",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "16:40",
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031247-la-maison-de-nos-reves/"
+    },
+    {
+      "titre": "Ni vue, ni connue",
+      "genre": "Film",
+      "duree": "1h 55min",
+      "horaires": [
+        "13:55",
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/04/d2/04d24a4f7815a30efe7dd1202384832f.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023992-ni-vue-ni-connue/"
+    },
     {
       "titre": "Notre salut",
       "genre": "Film",
       "duree": "2h 39min",
       "horaires": [
-        "15:55",
-        "20:20"
+        "13:50",
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007388-notre-salut/"
@@ -25,8 +79,7 @@
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "14:00",
-        "18:45"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000026039-garance/"
@@ -36,102 +89,40 @@
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "14:10",
-        "21:00"
+        "18:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000000085-heart-of-the-beast/"
     },
     {
-      "titre": "Justin le Juste",
+      "titre": "Primetime",
       "genre": "Film",
-      "duree": "1h 50min",
+      "duree": "1h 49min",
       "horaires": [
-        "14:15",
-        "18:30"
+        "21:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000028944-justin-le-juste/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/33/b2335224732f2a74fd22019277712f13.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013908-primetime/"
     },
     {
       "titre": "Les Contrebandiers",
       "genre": "Film",
       "duree": "1h 53min",
       "horaires": [
-        "16:30"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/20/142026a9ee3fb83800e19232c9cc0998.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019874-les-contrebandiers/"
     },
     {
-      "titre": "Resident Evil",
+      "titre": "Cars",
       "genre": "Film",
-      "duree": "1h 37min",
+      "duree": "1h 57min",
       "horaires": [
-        "18:55"
+        "14:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/1d/65/1d653b3f832f0f7ca7016e650207798f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018854-resident-evil/"
-    },
-    {
-      "titre": "Adieu monde cruel",
-      "genre": "Film",
-      "duree": "1h 33min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/df/db/dfdb8f83b9bb92e5ba76f43452af06cd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000012310-adieu-monde-cruel/"
-    },
-    {
-      "titre": "La Vie d'une femme",
-      "genre": "Film",
-      "duree": "1h 38min",
-      "horaires": [
-        "16:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/327941-la-vie-dune-femme/"
-    },
-    {
-      "titre": "Les Ensorceleuses 2",
-      "genre": "Film",
-      "duree": "2h 10min",
-      "horaires": [
-        "20:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/05/d0/05d0dcb033bc9dced645815301b59394.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000004679-les-ensorceleuses-2/"
-    },
-    {
-      "titre": "Les Survivants du Che",
-      "genre": "Film",
-      "duree": "1h 38min",
-      "horaires": [
-        "18:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9a/84/9a8430fcb28326ce1b8780231c8c026b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318226-les-survivants-du-che/"
-    },
-    {
-      "titre": "Rose",
-      "genre": "Film",
-      "duree": "1h 34min",
-      "horaires": [
-        "16:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/34/89/34896ce3efb274395de7187b29642a8e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/319893-rose/"
-    },
-    {
-      "titre": "Akira",
-      "genre": "Film",
-      "duree": "2h 4min",
-      "horaires": [
-        "20:55"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/15/bf/15bf220d29691722e98298080cccdfb7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/6429-akira/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/59/da/59da33b9de0e915a94ce75dcd407df2d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/55774-cars/"
     }
   ]
 }
