@@ -7,8 +7,18 @@
   },
   "date": "2026-10-15",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-10-15T18:49:09.078Z",
+  "dateUpdate": "2026-10-15T23:29:49.964Z",
   "films": [
+    {
+      "titre": "Le Corset",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321790-le-corset/"
+    },
     {
       "titre": "Les Misérables",
       "genre": "Film",
@@ -21,12 +31,22 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/326160-les-miserables/"
     },
     {
+      "titre": "Ducobu et le fantôme de Saint-Potache",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
+    },
+    {
       "titre": "Fausse note",
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "14:00",
-        "18:00"
+        "14:10",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/08/a5081c99da97f696eaf2a157422bac63.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000030290-fausse-note/"
@@ -36,8 +56,8 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "16:00",
-        "20:40"
+        "16:45",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000031247-la-maison-de-nos-reves/"
@@ -47,8 +67,7 @@
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "16:10",
-        "20:45"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/04/d2/04d24a4f7815a30efe7dd1202384832f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000023992-ni-vue-ni-connue/"
@@ -58,7 +77,7 @@
       "genre": "Film",
       "duree": "1h 57min",
       "horaires": [
-        "13:50"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/80/a68035287b2d9e0818ce43dd84822074.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000026296-memoire-de-fille/"
@@ -68,7 +87,7 @@
       "genre": "Film",
       "duree": "2h 39min",
       "horaires": [
-        "15:50"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007388-notre-salut/"
@@ -78,37 +97,17 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "18:30"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f0/bf/f0bfbb3dc69cb51a8dadfbef66d50c07.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000015739-verity/"
-    },
-    {
-      "titre": "Fini de rire ! L'humour politique au garde-à-vous ?",
-      "genre": "Film",
-      "duree": "1h 37min",
-      "horaires": [
-        "18:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e5/a1/e5a1946e5fd253382f636dc7a26252db.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000048319-fini-de-rire-lhumour-politique-au-garde-a-vous/"
-    },
-    {
-      "titre": "Garance",
-      "genre": "Film",
-      "duree": "1h 55min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026039-garance/"
     },
     {
       "titre": "Heart Of The Beast",
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "20:50"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000000085-heart-of-the-beast/"
@@ -118,10 +117,20 @@
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "13:45"
+        "17:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000028944-justin-le-juste/"
+    },
+    {
+      "titre": "Hunger Games - L'embrasement",
+      "genre": "Film",
+      "duree": "2h 26min",
+      "horaires": [
+        "20:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/13/ac/13acec041093db4933277c31074661ab.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/196666-hunger-games-lembrasement/"
     }
   ]
 }
