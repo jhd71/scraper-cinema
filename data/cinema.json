@@ -7,15 +7,15 @@
   },
   "date": "2026-10-17",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-10-17T19:57:16.277Z",
+  "dateUpdate": "2026-10-17T22:48:54.500Z",
   "films": [
     {
       "titre": "Le Corset",
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "14:00",
-        "18:55"
+        "10:20",
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/321790-le-corset/"
@@ -25,8 +25,8 @@
       "genre": "Film",
       "duree": "2h 56min",
       "horaires": [
-        "13:50",
-        "20:00"
+        "14:20",
+        "17:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/326160-les-miserables/"
@@ -36,29 +36,19 @@
       "genre": "Film",
       "duree": "1h 25min",
       "horaires": [
-        "14:00",
-        "18:00"
+        "12:30",
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013643-mochy/"
-    },
-    {
-      "titre": "Petite Casbah",
-      "genre": "Film",
-      "duree": "1h 24min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/17/54/17541c911a486e7b1a8a08911805be6e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000047512-petite-casbah/"
     },
     {
       "titre": "Ducobu et le fantôme de Saint-Potache",
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "16:00",
-        "21:00"
+        "14:30",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
@@ -68,7 +58,8 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "16:30"
+        "10:20",
+        "15:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/08/a5081c99da97f696eaf2a157422bac63.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000030290-fausse-note/"
@@ -78,8 +69,9 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "17:10",
-        "20:45"
+        "12:15",
+        "16:10",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000031247-la-maison-de-nos-reves/"
@@ -89,18 +81,29 @@
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "14:10",
-        "18:30"
+        "12:40",
+        "16:50",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/04/d2/04d24a4f7815a30efe7dd1202384832f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000023992-ni-vue-ni-connue/"
+    },
+    {
+      "titre": "Mémoire de fille",
+      "genre": "Film",
+      "duree": "1h 57min",
+      "horaires": [
+        "10:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/80/a68035287b2d9e0818ce43dd84822074.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026296-memoire-de-fille/"
     },
     {
       "titre": "Notre salut",
       "genre": "Film",
       "duree": "2h 39min",
       "horaires": [
-        "17:45"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007388-notre-salut/"
@@ -110,10 +113,41 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "20:50"
+        "21:00",
+        "10:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f0/bf/f0bfbb3dc69cb51a8dadfbef66d50c07.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000015739-verity/"
+    },
+    {
+      "titre": "Fini de rire ! L'humour politique au garde-à-vous ?",
+      "genre": "Film",
+      "duree": "1h 37min",
+      "horaires": [
+        "19:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e5/a1/e5a1946e5fd253382f636dc7a26252db.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000048319-fini-de-rire-lhumour-politique-au-garde-a-vous/"
+    },
+    {
+      "titre": "Garance",
+      "genre": "Film",
+      "duree": "1h 55min",
+      "horaires": [
+        "12:05"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026039-garance/"
+    },
+    {
+      "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
+      "genre": "Film",
+      "duree": "2h 40min",
+      "horaires": [
+        "20:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
     }
   ]
 }
