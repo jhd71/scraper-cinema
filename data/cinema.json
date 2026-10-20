@@ -7,15 +7,46 @@
   },
   "date": "2026-10-20",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-10-20T18:51:24.764Z",
+  "dateUpdate": "2026-10-20T23:34:42.524Z",
   "films": [
+    {
+      "titre": "Karma",
+      "genre": "Film",
+      "duree": "2h 20min",
+      "horaires": [
+        "13:50",
+        "20:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018384-karma/"
+    },
+    {
+      "titre": "L'île des souvenirs",
+      "genre": "Film",
+      "duree": "1h 48min",
+      "horaires": [
+        "15:50",
+        "20:55"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/296642-lile-des-souvenirs/"
+    },
+    {
+      "titre": "Shaun le Mouton : La Bêêête d'Halloween",
+      "genre": "Film",
+      "duree": "1h 20min",
+      "horaires": [
+        "13:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/da/4fda4090f417ac9b0e78ccc48f43ea2c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024131-shaun-le-mouton-la-beeete-dhalloween/"
+    },
     {
       "titre": "Le Corset",
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "16:00",
-        "18:55"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/321790-le-corset/"
@@ -25,8 +56,8 @@
       "genre": "Film",
       "duree": "2h 56min",
       "horaires": [
-        "13:50",
-        "20:00"
+        "20:00",
+        "15:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/326160-les-miserables/"
@@ -37,28 +68,17 @@
       "duree": "1h 25min",
       "horaires": [
         "14:00",
-        "18:10"
+        "18:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013643-mochy/"
-    },
-    {
-      "titre": "Petite Casbah",
-      "genre": "Film",
-      "duree": "1h 24min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/17/54/17541c911a486e7b1a8a08911805be6e.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000047512-petite-casbah/"
     },
     {
       "titre": "Ducobu et le fantôme de Saint-Potache",
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "16:10",
-        "20:50"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
@@ -68,52 +88,50 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "16:30"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/08/a5081c99da97f696eaf2a157422bac63.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000030290-fausse-note/"
-    },
-    {
-      "titre": "La Maison de nos rêves",
-      "genre": "Film",
-      "duree": "1h 30min",
-      "horaires": [
-        "17:10",
-        "21:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031247-la-maison-de-nos-reves/"
     },
     {
       "titre": "Ni vue, ni connue",
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "14:15",
-        "18:30"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/04/d2/04d24a4f7815a30efe7dd1202384832f.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000023992-ni-vue-ni-connue/"
+    },
+    {
+      "titre": "Mémoire de fille",
+      "genre": "Film",
+      "duree": "1h 57min",
+      "horaires": [
+        "14:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/80/a68035287b2d9e0818ce43dd84822074.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026296-memoire-de-fille/"
     },
     {
       "titre": "Notre salut",
       "genre": "Film",
       "duree": "2h 39min",
       "horaires": [
-        "18:00"
+        "17:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007388-notre-salut/"
     },
     {
-      "titre": "Heart Of The Beast",
+      "titre": "Verity",
       "genre": "Film",
-      "duree": "1h 41min",
+      "duree": "1h 54min",
       "horaires": [
-        "21:00"
+        "20:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000085-heart-of-the-beast/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f0/bf/f0bfbb3dc69cb51a8dadfbef66d50c07.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000015739-verity/"
     }
   ]
 }
