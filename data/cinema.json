@@ -7,7 +7,7 @@
   },
   "date": "2026-10-22",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-10-22T02:58:55.908Z",
+  "dateUpdate": "2026-10-22T08:12:33.123Z",
   "films": [
     {
       "titre": "Karma",
@@ -44,7 +44,7 @@
     {
       "titre": "Le Corset",
       "genre": "Film",
-      "duree": "1h 30min",
+      "duree": "1h 31min",
       "horaires": [
         "16:30"
       ],
