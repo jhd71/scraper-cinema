@@ -7,7 +7,7 @@
   },
   "date": "2026-10-23",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-10-23T18:49:31.520Z",
+  "dateUpdate": "2026-10-23T23:42:38.293Z",
   "films": [
     {
       "titre": "Karma",
@@ -15,7 +15,7 @@
       "duree": "2h 20min",
       "horaires": [
         "16:00",
-        "20:40"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018384-karma/"
@@ -25,8 +25,8 @@
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "15:50",
-        "20:30"
+        "16:20",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/296642-lile-des-souvenirs/"
@@ -36,8 +36,8 @@
       "genre": "Film",
       "duree": "1h 20min",
       "horaires": [
-        "14:00",
-        "18:20"
+        "14:10",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/da/4fda4090f417ac9b0e78ccc48f43ea2c.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000024131-shaun-le-mouton-la-beeete-dhalloween/"
@@ -47,7 +47,7 @@
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "16:15",
+        "13:50",
         "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
@@ -59,7 +59,7 @@
       "duree": "2h 56min",
       "horaires": [
         "20:00",
-        "15:30"
+        "15:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/326160-les-miserables/"
@@ -69,8 +69,8 @@
       "genre": "Film",
       "duree": "1h 25min",
       "horaires": [
-        "13:50",
-        "18:45"
+        "14:00",
+        "18:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013643-mochy/"
@@ -80,40 +80,31 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
+        "14:00",
         "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
     },
     {
-      "titre": "Ni vue, ni connue",
+      "titre": "La Maison de nos rêves",
       "genre": "Film",
-      "duree": "1h 55min",
+      "duree": "1h 30min",
       "horaires": [
-        "13:55"
+        "20:55"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/04/d2/04d24a4f7815a30efe7dd1202384832f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023992-ni-vue-ni-connue/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031247-la-maison-de-nos-reves/"
     },
     {
-      "titre": "La Princesse, l'ogre et la fourmi",
+      "titre": "La Belle et la bête",
       "genre": "Film",
-      "duree": "0h 42min",
+      "duree": "1h 36min",
       "horaires": [
-        "14:15"
+        "16:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d4/4f/d44fc9a919162a0bdf8cc6bfa82ece89.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037359-la-princesse-logre-et-la-fourmi/"
-    },
-    {
-      "titre": "Hunger Games - La Révolte : Partie 1",
-      "genre": "Film",
-      "duree": "2h 3min",
-      "horaires": [
-        "20:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/59/5e/595e2c4249c13746be04d6f3f2b452e9.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/200088-hunger-games-la-revolte-partie-1/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/210/201/21020192_2013092716451197.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/772-la-belle-et-la-bete/"
     }
   ]
 }
