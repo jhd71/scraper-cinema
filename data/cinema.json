@@ -5,28 +5,16 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-10-25T22:58:36.026Z",
+  "dateUpdate": "2026-10-26T02:42:28.641Z",
   "films": [
-    {
-      "titre": "Moulin",
-      "genre": "Film",
-      "duree": "2h 14min",
-      "horaires": [
-        "14:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000020311-moulin/"
-    },
     {
       "titre": "Karma",
       "genre": "Film",
       "duree": "2h 20min",
       "horaires": [
-        "10:10",
-        "14:30",
-        "20:40"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018384-karma/"
@@ -36,8 +24,8 @@
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "14:15",
-        "18:10"
+        "13:55",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/296642-lile-des-souvenirs/"
@@ -47,8 +35,7 @@
       "genre": "Film",
       "duree": "1h 20min",
       "horaires": [
-        "12:05",
-        "17:10"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/da/4fda4090f417ac9b0e78ccc48f43ea2c.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000024131-shaun-le-mouton-la-beeete-dhalloween/"
@@ -58,8 +45,7 @@
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "12:45",
-        "17:00"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/321790-le-corset/"
@@ -69,8 +55,8 @@
       "genre": "Film",
       "duree": "2h 56min",
       "horaires": [
-        "15:30",
-        "20:10"
+        "20:00",
+        "15:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/326160-les-miserables/"
@@ -80,9 +66,7 @@
       "genre": "Film",
       "duree": "1h 25min",
       "horaires": [
-        "10:20",
-        "13:45",
-        "18:45"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000013643-mochy/"
@@ -92,48 +76,37 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "10:10",
-        "16:20"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
+    },
+    {
+      "titre": "Fausse note",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "18:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/08/a5081c99da97f696eaf2a157422bac63.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000030290-fausse-note/"
     },
     {
       "titre": "La Maison de nos rêves",
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "18:55"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000031247-la-maison-de-nos-reves/"
-    },
-    {
-      "titre": "Ni vue, ni connue",
-      "genre": "Film",
-      "duree": "1h 55min",
-      "horaires": [
-        "18:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/04/d2/04d24a4f7815a30efe7dd1202384832f.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023992-ni-vue-ni-connue/"
-    },
-    {
-      "titre": "Mémoire de fille",
-      "genre": "Film",
-      "duree": "1h 57min",
-      "horaires": [
-        "11:55"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/80/a68035287b2d9e0818ce43dd84822074.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026296-memoire-de-fille/"
     },
     {
       "titre": "Notre salut",
       "genre": "Film",
       "duree": "2h 39min",
       "horaires": [
-        "10:40"
+        "17:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000007388-notre-salut/"
@@ -143,20 +116,31 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "21:00"
+        "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f0/bf/f0bfbb3dc69cb51a8dadfbef66d50c07.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000015739-verity/"
     },
     {
-      "titre": "Heart Of The Beast",
+      "titre": "Salvation",
       "genre": "Film",
-      "duree": "1h 41min",
+      "duree": "2h 0min",
       "horaires": [
-        "21:00"
+        "13:50",
+        "20:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000085-heart-of-the-beast/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/af/cb/afcbdf0c4270301632930da3d4002981.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022260-salvation/"
+    },
+    {
+      "titre": "Chicas tristes",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "18:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/57/32/5732fc7877b55cb456ac1a47200b74fc.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000029301-chicas-tristes/"
     }
   ]
 }
