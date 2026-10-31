@@ -5,17 +5,17 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-10-30T21:51:51.420Z",
+  "dateUpdate": "2026-10-31T03:40:09.997Z",
   "films": [
     {
       "titre": "Le Fantôme de l'Opéra",
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "13:50",
-        "20:40"
+        "15:50",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019622-le-fantome-de-lopera/"
@@ -25,8 +25,8 @@
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "15:50",
-        "20:40"
+        "13:50",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020311-moulin/"
@@ -36,8 +36,8 @@
       "genre": "Film",
       "duree": "2h 20min",
       "horaires": [
-        "13:45",
-        "18:15"
+        "13:55",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018384-karma/"
@@ -47,8 +47,7 @@
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "13:50",
-        "17:55"
+        "13:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/296642-lile-des-souvenirs/"
@@ -58,11 +57,31 @@
       "genre": "Film",
       "duree": "1h 20min",
       "horaires": [
-        "16:20",
-        "18:55"
+        "14:00",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/da/4fda4090f417ac9b0e78ccc48f43ea2c.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000024131-shaun-le-mouton-la-beeete-dhalloween/"
+    },
+    {
+      "titre": "Englouti",
+      "genre": "Film",
+      "duree": "1h 46min",
+      "horaires": [
+        "18:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/73/3173f450f63ac497176b4d6c8fd08ea0.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/318791-englouti/"
+    },
+    {
+      "titre": "Le Corset",
+      "genre": "Film",
+      "duree": "1h 31min",
+      "horaires": [
+        "16:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321790-le-corset/"
     },
     {
       "titre": "Les Misérables",
@@ -70,50 +89,61 @@
       "duree": "2h 56min",
       "horaires": [
         "15:40",
-        "20:00"
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/326160-les-miserables/"
     },
     {
-      "titre": "Mochy",
+      "titre": "Malfaisante",
       "genre": "Film",
-      "duree": "1h 25min",
+      "duree": "1h 34min",
       "horaires": [
-        "14:00"
+        "18:10",
+        "22:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013643-mochy/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/c5/9ec5c971224bc443153c1a8da6c73e07.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023068-malfaisante/"
     },
     {
       "titre": "Street Fighter",
       "genre": "Film",
       "duree": "2h 0min",
       "horaires": [
-        "18:20"
+        "22:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fc/20/fc20187ddbbd4af991999e32c9a03fb4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/314939-street-fighter/"
     },
     {
-      "titre": "Doraemon et le Château sous-marin",
+      "titre": "Ducobu et le fantôme de Saint-Potache",
       "genre": "Film",
-      "duree": "1h 41min",
+      "duree": "1h 30min",
       "horaires": [
         "16:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/12/07/120736d4c8daa5a98e6d413e236ea509.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000040606-doraemon-et-le-chateau-sous-marin/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
     },
     {
-      "titre": "Hunger Games - La Révolte : Partie 2",
+      "titre": "Leviticus",
       "genre": "Film",
-      "duree": "2h 17min",
+      "duree": "1h 28min",
       "horaires": [
         "20:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/62/0f/620f0ffa8f7e08d590b5b973411af6ee.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/204925-hunger-games-la-revolte-partie-2/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/a6/2aa67bcd99f4cea228906e8f1c6129da.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000037443-leviticus/"
+    },
+    {
+      "titre": "Kraken",
+      "genre": "Film",
+      "duree": "",
+      "horaires": [
+        "22:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cc/22/cc222386da3f11bb9ae1dae2d1bc65bd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000032855-kraken/"
     }
   ]
 }
