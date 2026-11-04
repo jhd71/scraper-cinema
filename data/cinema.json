@@ -7,15 +7,37 @@
   },
   "date": "2026-11-04",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-11-04T00:59:35.256Z",
+  "dateUpdate": "2026-11-04T10:17:21.889Z",
   "films": [
+    {
+      "titre": "L'Affaire Marie-Claire",
+      "genre": "Film",
+      "duree": "1h 42min",
+      "horaires": [
+        "16:00",
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/3c/4a3cf95bb345d5d71bdc7acf3430323b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/323550-laffaire-marie-claire/"
+    },
+    {
+      "titre": "Un bon patron",
+      "genre": "Film",
+      "duree": "1h 27min",
+      "horaires": [
+        "14:10",
+        "18:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031925-un-bon-patron/"
+    },
     {
       "titre": "Le Fantôme de l'Opéra",
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "13:50",
-        "21:00"
+        "16:00",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019622-le-fantome-de-lopera/"
@@ -25,19 +47,28 @@
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "16:20",
-        "20:50"
+        "13:55",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020311-moulin/"
+    },
+    {
+      "titre": "Clayface",
+      "genre": "Film",
+      "duree": "1h 49min",
+      "horaires": [
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/98/f1/98f14da258dd56c0ff1bcb12a4929e85.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016901-clayface/"
     },
     {
       "titre": "Karma",
       "genre": "Film",
       "duree": "2h 20min",
       "horaires": [
-        "13:55",
-        "16:55"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018384-karma/"
@@ -47,71 +78,60 @@
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "18:10"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/296642-lile-des-souvenirs/"
     },
     {
-      "titre": "Les Misérables",
+      "titre": "Shaun le Mouton : La Bêêête d'Halloween",
       "genre": "Film",
-      "duree": "2h 56min",
+      "duree": "1h 20min",
       "horaires": [
-        "14:00",
-        "20:10"
+        "14:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/326160-les-miserables/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/da/4fda4090f417ac9b0e78ccc48f43ea2c.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000024131-shaun-le-mouton-la-beeete-dhalloween/"
     },
     {
-      "titre": "Malfaisante",
+      "titre": "Englouti",
       "genre": "Film",
-      "duree": "1h 34min",
+      "duree": "1h 46min",
       "horaires": [
-        "19:10"
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/c5/9ec5c971224bc443153c1a8da6c73e07.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023068-malfaisante/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/73/3173f450f63ac497176b4d6c8fd08ea0.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/318791-englouti/"
     },
     {
-      "titre": "Minotaure",
+      "titre": "Mochy",
       "genre": "Film",
-      "duree": "2h 20min",
+      "duree": "1h 25min",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000013643-mochy/"
+    },
+    {
+      "titre": "Street Fighter",
+      "genre": "Film",
+      "duree": "2h 0min",
+      "horaires": [
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fc/20/fc20187ddbbd4af991999e32c9a03fb4.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314939-street-fighter/"
+    },
+    {
+      "titre": "Ducobu et le fantôme de Saint-Potache",
+      "genre": "Film",
+      "duree": "1h 30min",
       "horaires": [
         "16:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f9/db/f9dbbc962b3358af6569ec1739edfa54.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022205-minotaure/"
-    },
-    {
-      "titre": "Così fan tutte (Metropolitan Opera)",
-      "genre": "Film",
-      "duree": "3h 57min",
-      "horaires": [
-        "19:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d1/9d/d19de0686e05c9a32c18310d8d51a2d1.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000043022-cosi-fan-tutte-metropolitan-opera/"
-    },
-    {
-      "titre": "Notre salut",
-      "genre": "Film",
-      "duree": "2h 39min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007388-notre-salut/"
-    },
-    {
-      "titre": "Heart Of The Beast",
-      "genre": "Film",
-      "duree": "1h 41min",
-      "horaires": [
-        "18:55"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000000085-heart-of-the-beast/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
     }
   ]
 }
