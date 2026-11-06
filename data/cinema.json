@@ -7,15 +7,15 @@
   },
   "date": "2026-11-06",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-11-06T01:18:30.932Z",
+  "dateUpdate": "2026-11-06T10:14:10.461Z",
   "films": [
     {
       "titre": "L'Affaire Marie-Claire",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "14:00",
-        "18:20"
+        "16:30",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/3c/4a3cf95bb345d5d71bdc7acf3430323b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/323550-laffaire-marie-claire/"
@@ -25,8 +25,8 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "14:10",
-        "18:40"
+        "13:50",
+        "18:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000031925-un-bon-patron/"
@@ -36,8 +36,8 @@
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "13:45",
-        "18:00"
+        "14:00",
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019622-le-fantome-de-lopera/"
@@ -47,8 +47,8 @@
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "16:10",
-        "20:40"
+        "13:50",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020311-moulin/"
@@ -58,7 +58,7 @@
       "genre": "Film",
       "duree": "1h 49min",
       "horaires": [
-        "20:50"
+        "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/98/f1/98f14da258dd56c0ff1bcb12a4929e85.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016901-clayface/"
@@ -68,7 +68,7 @@
       "genre": "Film",
       "duree": "2h 20min",
       "horaires": [
-        "20:30"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018384-karma/"
@@ -78,7 +78,7 @@
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "16:15"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/11/211184243b4ab7c37127ace9ced2e939.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000030383-le-roi-du-game/"
@@ -88,50 +88,50 @@
       "genre": "Film",
       "duree": "",
       "horaires": [
-        "13:50"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/7f/927fd5891c142dc643f5851ba85d8393.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000026725-une-femme-aujourdhui/"
     },
     {
-      "titre": "Malfaisante",
+      "titre": "Les Misérables",
       "genre": "Film",
-      "duree": "1h 34min",
+      "duree": "2h 56min",
+      "horaires": [
+        "15:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/326160-les-miserables/"
+    },
+    {
+      "titre": "La Maison de nos rêves",
+      "genre": "Film",
+      "duree": "1h 30min",
       "horaires": [
         "18:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/c5/9ec5c971224bc443153c1a8da6c73e07.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000023068-malfaisante/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031247-la-maison-de-nos-reves/"
     },
     {
-      "titre": "Minotaure",
+      "titre": "Haute solitude, Jean Zay prisonnier politique",
       "genre": "Film",
-      "duree": "2h 20min",
+      "duree": "1h 38min",
       "horaires": [
-        "16:00"
+        "16:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f9/db/f9dbbc962b3358af6569ec1739edfa54.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022205-minotaure/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/25/c8/25c8bcdb0f418ddda4d9f5752eb5998d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000046253-haute-solitude-jean-zay-prisonnier-politique/"
     },
     {
-      "titre": "Ton animal maternel",
+      "titre": "Hunger Games: la Ballade du serpent et de l'oiseau chanteur",
       "genre": "Film",
-      "duree": "1h 45min",
-      "horaires": [
-        "16:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f5/49/f549c77401560798e02b0c2d182f8448.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/299748-ton-animal-maternel/"
-    },
-    {
-      "titre": "Taxi",
-      "genre": "Film",
-      "duree": "1h 26min",
+      "duree": "2h 38min",
       "horaires": [
         "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/medias/nmedia/00/02/49/22/affiche.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/17106-taxi/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/83/fd/83fdacdaceb7e25b257d44bef7f6d133.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/258080-hunger-games-la-ballade-du-serpent-et-de-loiseau-chanteur/"
     }
   ]
 }
