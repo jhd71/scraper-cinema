@@ -5,16 +5,27 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-11-09T21:49:55.612Z",
+  "dateUpdate": "2026-11-10T05:36:32.321Z",
   "films": [
+    {
+      "titre": "Scrooge",
+      "genre": "Film",
+      "duree": "1h 56min",
+      "horaires": [
+        "18:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ee/1d/ee1d9a9f275b9d7332cf8dff0c5dfd27.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000034007-scrooge/"
+    },
     {
       "titre": "L'Affaire Marie-Claire",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "14:00"
+        "16:30",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/3c/4a3cf95bb345d5d71bdc7acf3430323b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/323550-laffaire-marie-claire/"
@@ -24,8 +35,8 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "13:50",
-        "18:10"
+        "16:55",
+        "21:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000031925-un-bon-patron/"
@@ -35,7 +46,8 @@
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "15:50"
+        "15:50",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019622-le-fantome-de-lopera/"
@@ -45,8 +57,8 @@
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "13:50",
-        "18:15"
+        "16:10",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020311-moulin/"
@@ -56,91 +68,70 @@
       "genre": "Film",
       "duree": "2h 20min",
       "horaires": [
-        "18:20"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018384-karma/"
     },
     {
-      "titre": "Englouti",
+      "titre": "Le Roi du Game",
       "genre": "Film",
-      "duree": "1h 46min",
+      "duree": "1h 28min",
       "horaires": [
-        "20:50"
+        "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/73/3173f450f63ac497176b4d6c8fd08ea0.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318791-englouti/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/11/211184243b4ab7c37127ace9ced2e939.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000030383-le-roi-du-game/"
     },
     {
-      "titre": "Les Misérables",
+      "titre": "Une femme aujourd’hui",
       "genre": "Film",
-      "duree": "2h 56min",
+      "duree": "",
       "horaires": [
-        "20:00"
+        "13:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/326160-les-miserables/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/7f/927fd5891c142dc643f5851ba85d8393.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026725-une-femme-aujourdhui/"
     },
     {
-      "titre": "Minotaure",
+      "titre": "Le Corset",
       "genre": "Film",
-      "duree": "2h 22min",
+      "duree": "1h 31min",
       "horaires": [
-        "15:35"
+        "18:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f9/db/f9dbbc962b3358af6569ec1739edfa54.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000022205-minotaure/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/321790-le-corset/"
     },
     {
-      "titre": "La Maison de nos rêves",
-      "genre": "Film",
-      "duree": "1h 30min",
-      "horaires": [
-        "21:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031247-la-maison-de-nos-reves/"
-    },
-    {
-      "titre": "Ton animal maternel",
-      "genre": "Film",
-      "duree": "1h 45min",
-      "horaires": [
-        "16:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f5/49/f549c77401560798e02b0c2d182f8448.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/299748-ton-animal-maternel/"
-    },
-    {
-      "titre": "Écrire la vie : Annie Ernaux racontée par des lycéennes et des lycéens",
-      "genre": "Film",
-      "duree": "1h 30min",
-      "horaires": [
-        "14:00",
-        "20:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3d/1c/3d1c834b2dfa29e4ac131563769755ff.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000028074-ecrire-la-vie-annie-ernaux-racontee-par-des-lyceennes-et-des-lyceens/"
-    },
-    {
-      "titre": "Haute solitude, Jean Zay prisonnier politique",
-      "genre": "Film",
-      "duree": "1h 38min",
-      "horaires": [
-        "16:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/25/c8/25c8bcdb0f418ddda4d9f5752eb5998d.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000046253-haute-solitude-jean-zay-prisonnier-politique/"
-    },
-    {
-      "titre": "Trois adieux",
+      "titre": "Street Fighter",
       "genre": "Film",
       "duree": "2h 0min",
       "horaires": [
         "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/c0/b7c02de28cf26d48eab1a78a340e887c.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019852-trois-adieux/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fc/20/fc20187ddbbd4af991999e32c9a03fb4.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/314939-street-fighter/"
+    },
+    {
+      "titre": "Notre salut",
+      "genre": "Film",
+      "duree": "2h 39min",
+      "horaires": [
+        "13:55"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007388-notre-salut/"
+    },
+    {
+      "titre": "La Dame de Shanghai",
+      "genre": "Film",
+      "duree": "1h 27min",
+      "horaires": [
+        "18:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/18/85/1885d4d4c6f1520410352dcc1108c4b7.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/514-la-dame-de-shanghai/"
     }
   ]
 }
