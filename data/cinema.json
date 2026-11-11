@@ -5,16 +5,29 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-11-10T21:08:31.304Z",
+  "dateUpdate": "2026-11-11T04:08:35.322Z",
   "films": [
+    {
+      "titre": "Il faut brûler Maman",
+      "genre": "Film",
+      "duree": "1h 21min",
+      "horaires": [
+        "14:00",
+        "18:55"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/22/b722617d1263956a4b556c739a49afc3.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000039483-il-faut-bruler-maman/"
+    },
     {
       "titre": "Scrooge",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "18:50"
+        "14:00",
+        "16:30",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ee/1d/ee1d9a9f275b9d7332cf8dff0c5dfd27.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000034007-scrooge/"
@@ -24,8 +37,8 @@
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "16:30",
-        "20:50"
+        "14:10",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/3c/4a3cf95bb345d5d71bdc7acf3430323b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/323550-laffaire-marie-claire/"
@@ -35,8 +48,8 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "16:55",
-        "21:10"
+        "14:00",
+        "18:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000031925-un-bon-patron/"
@@ -46,8 +59,7 @@
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "15:50",
-        "20:50"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019622-le-fantome-de-lopera/"
@@ -57,81 +69,61 @@
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "16:10",
-        "20:40"
+        "15:50",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020311-moulin/"
+    },
+    {
+      "titre": "Quelques mots d'amour",
+      "genre": "Film",
+      "duree": "1h 37min",
+      "horaires": [
+        "16:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e4/d2e423fe953024eca9f0ebb7b2552db2.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000036515-quelques-mots-damour/"
     },
     {
       "titre": "Karma",
       "genre": "Film",
       "duree": "2h 20min",
       "horaires": [
-        "13:50"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018384-karma/"
     },
     {
-      "titre": "Le Roi du Game",
+      "titre": "L'île des souvenirs",
       "genre": "Film",
-      "duree": "1h 28min",
+      "duree": "1h 48min",
       "horaires": [
-        "14:00"
+        "16:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/11/211184243b4ab7c37127ace9ced2e939.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000030383-le-roi-du-game/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/296642-lile-des-souvenirs/"
     },
     {
-      "titre": "Une femme aujourd’hui",
+      "titre": "Ducobu et le fantôme de Saint-Potache",
       "genre": "Film",
-      "duree": "",
-      "horaires": [
-        "13:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/7f/927fd5891c142dc643f5851ba85d8393.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000026725-une-femme-aujourdhui/"
-    },
-    {
-      "titre": "Le Corset",
-      "genre": "Film",
-      "duree": "1h 31min",
-      "horaires": [
-        "18:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/321790-le-corset/"
-    },
-    {
-      "titre": "Street Fighter",
-      "genre": "Film",
-      "duree": "2h 0min",
+      "duree": "1h 30min",
       "horaires": [
         "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fc/20/fc20187ddbbd4af991999e32c9a03fb4.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/314939-street-fighter/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
     },
     {
-      "titre": "Notre salut",
+      "titre": "Le Monde à l'envers",
       "genre": "Film",
-      "duree": "2h 39min",
+      "duree": "0h 45min",
       "horaires": [
-        "13:55"
+        "15:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000007388-notre-salut/"
-    },
-    {
-      "titre": "La Dame de Shanghai",
-      "genre": "Film",
-      "duree": "1h 27min",
-      "horaires": [
-        "18:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/18/85/1885d4d4c6f1520410352dcc1108c4b7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/514-la-dame-de-shanghai/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/69/54/695460e78e996175a81de234a0603f87.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000045582-le-monde-a-lenvers/"
     }
   ]
 }
