@@ -5,40 +5,28 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-11-11T21:41:27.300Z",
+  "dateUpdate": "2026-11-12T05:20:23.470Z",
   "films": [
     {
       "titre": "Il faut brûler Maman",
       "genre": "Film",
       "duree": "1h 21min",
       "horaires": [
-        "14:00",
-        "18:55"
+        "16:45",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/22/b722617d1263956a4b556c739a49afc3.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000039483-il-faut-bruler-maman/"
-    },
-    {
-      "titre": "Scrooge",
-      "genre": "Film",
-      "duree": "1h 56min",
-      "horaires": [
-        "14:00",
-        "16:30",
-        "20:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ee/1d/ee1d9a9f275b9d7332cf8dff0c5dfd27.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000034007-scrooge/"
     },
     {
       "titre": "L'Affaire Marie-Claire",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "14:10",
-        "18:20"
+        "13:45",
+        "17:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/3c/4a3cf95bb345d5d71bdc7acf3430323b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/323550-laffaire-marie-claire/"
@@ -48,18 +36,28 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "14:00",
-        "18:45"
+        "13:55",
+        "18:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000031925-un-bon-patron/"
+    },
+    {
+      "titre": "Irish Travellers",
+      "genre": "Film",
+      "duree": "1h 36min",
+      "horaires": [
+        "14:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/68/57/6857fdb3b89fdd00da7d32b5f2faea69.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000033620-irish-travellers/"
     },
     {
       "titre": "Le Fantôme de l'Opéra",
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "20:30"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000019622-le-fantome-de-lopera/"
@@ -69,8 +67,7 @@
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "15:50",
-        "20:30"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020311-moulin/"
@@ -80,50 +77,70 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "16:15"
+        "15:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e4/d2e423fe953024eca9f0ebb7b2552db2.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000036515-quelques-mots-damour/"
+    },
+    {
+      "titre": "Clayface",
+      "genre": "Film",
+      "duree": "1h 49min",
+      "horaires": [
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/98/f1/98f14da258dd56c0ff1bcb12a4929e85.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016901-clayface/"
     },
     {
       "titre": "Karma",
       "genre": "Film",
       "duree": "2h 20min",
       "horaires": [
-        "20:40"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000018384-karma/"
     },
     {
-      "titre": "L'île des souvenirs",
+      "titre": "Les Misérables",
       "genre": "Film",
-      "duree": "1h 48min",
+      "duree": "2h 56min",
       "horaires": [
-        "16:50"
+        "15:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/296642-lile-des-souvenirs/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/326160-les-miserables/"
     },
     {
-      "titre": "Ducobu et le fantôme de Saint-Potache",
+      "titre": "Haute solitude, Jean Zay prisonnier politique",
       "genre": "Film",
-      "duree": "1h 30min",
+      "duree": "1h 38min",
       "horaires": [
-        "18:30"
+        "18:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/25/c8/25c8bcdb0f418ddda4d9f5752eb5998d.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000046253-haute-solitude-jean-zay-prisonnier-politique/"
     },
     {
-      "titre": "Le Monde à l'envers",
+      "titre": "La Grazia",
       "genre": "Film",
-      "duree": "0h 45min",
+      "duree": "2h 13min",
       "horaires": [
-        "15:50"
+        "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/69/54/695460e78e996175a81de234a0603f87.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000045582-le-monde-a-lenvers/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b3/04/b304756795412a5113195b5f6e600829.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000016512-la-grazia/"
+    },
+    {
+      "titre": "La Cité des femmes",
+      "genre": "Film",
+      "duree": "2h 20min",
+      "horaires": [
+        "19:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/medias/nmedia/18/85/97/16/19815462.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1243-la-cite-des-femmes/"
     }
   ]
 }
