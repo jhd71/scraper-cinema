@@ -7,25 +7,15 @@
   },
   "date": "2026-11-21",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-11-21T01:55:00.593Z",
+  "dateUpdate": "2026-11-21T10:31:54.207Z",
   "films": [
-    {
-      "titre": "La Nuit de la Glisse 2026 – The Call",
-      "genre": "Film",
-      "duree": "1h 51min",
-      "horaires": [
-        "21:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e5/59/e5592e4382ef350298fef765160288b0.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000051726-la-nuit-de-la-glisse-2026-the-call/"
-    },
     {
       "titre": "Camembert",
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "14:00",
-        "18:55"
+        "16:45",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/de/01/de019123ff2a620ecfc2c45bc743ab01.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/316136-camembert/"
@@ -35,7 +25,8 @@
       "genre": "Film",
       "duree": "2h 38min",
       "horaires": [
-        "15:55",
+        "13:50",
+        "18:00",
         "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/24/f124e39fa139536fceb9005cab53fc04.jpg",
@@ -46,29 +37,19 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "15:35",
-        "21:15"
+        "14:00",
+        "19:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2f/ab/2fabb861ff01b7c43b24c0cdafb0931a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022995-jupiter/"
-    },
-    {
-      "titre": "Face à face",
-      "genre": "Film",
-      "duree": "1h 24min",
-      "horaires": [
-        "14:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fa/0a/fa0a0d5d947a0fd8fa095219777db6e1.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000040446-face-a-face/"
     },
     {
       "titre": "Il faut brûler Maman",
       "genre": "Film",
       "duree": "1h 21min",
       "horaires": [
-        "16:20",
-        "20:45"
+        "14:00",
+        "18:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/22/b722617d1263956a4b556c739a49afc3.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000039483-il-faut-bruler-maman/"
@@ -78,37 +59,19 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "19:00"
+        "13:45",
+        "16:55",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ee/1d/ee1d9a9f275b9d7332cf8dff0c5dfd27.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000034007-scrooge/"
-    },
-    {
-      "titre": "L'Affaire Marie-Claire",
-      "genre": "Film",
-      "duree": "1h 42min",
-      "horaires": [
-        "13:55"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/3c/4a3cf95bb345d5d71bdc7acf3430323b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/323550-laffaire-marie-claire/"
-    },
-    {
-      "titre": "Un bon patron",
-      "genre": "Film",
-      "duree": "1h 27min",
-      "horaires": [
-        "18:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031925-un-bon-patron/"
     },
     {
       "titre": "Wild Horse Nine",
       "genre": "Film",
       "duree": "1h 58min",
       "horaires": [
-        "18:40"
+        "18:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/19/2c/192c21b88207a32bb9c1a043c51f053b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/298024-wild-horse-nine/"
@@ -124,24 +87,34 @@
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020311-moulin/"
     },
     {
-      "titre": "Quelques mots d'amour",
+      "titre": "Karma",
       "genre": "Film",
-      "duree": "1h 37min",
+      "duree": "2h 20min",
       "horaires": [
-        "13:45"
+        "20:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e4/d2e423fe953024eca9f0ebb7b2552db2.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000036515-quelques-mots-damour/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000018384-karma/"
     },
     {
-      "titre": "La Dame de Shanghai",
+      "titre": "L'île des souvenirs",
       "genre": "Film",
-      "duree": "1h 27min",
+      "duree": "1h 48min",
       "horaires": [
-        "17:15"
+        "15:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/18/85/1885d4d4c6f1520410352dcc1108c4b7.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/514-la-dame-de-shanghai/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/296642-lile-des-souvenirs/"
+    },
+    {
+      "titre": "Le Monde à l'envers",
+      "genre": "Film",
+      "duree": "0h 45min",
+      "horaires": [
+        "15:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/69/54/695460e78e996175a81de234a0603f87.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000045582-le-monde-a-lenvers/"
     }
   ]
 }
