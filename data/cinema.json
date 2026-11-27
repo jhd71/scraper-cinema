@@ -5,17 +5,28 @@
     "adresse": "30 Quai Jules Chagot, 71300 Montceau-les-Mines",
     "url": "https://www.cinemacapitole-montceau.fr"
   },
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "dateLabel": "Aujourd'hui",
-  "dateUpdate": "2026-11-26T20:48:13.174Z",
+  "dateUpdate": "2026-11-27T03:25:08.800Z",
   "films": [
+    {
+      "titre": "Billie, à la croisée des mondes",
+      "genre": "Film",
+      "duree": "1h 46min",
+      "horaires": [
+        "18:30",
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e1/e2/e1e26762a29dabe9fec6d1bf189bb4fa.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/312529-billie-a-la-croisee-des-mondes/"
+    },
     {
       "titre": "Mon beau-père, ma belle-fille et moi",
       "genre": "Film",
       "duree": "1h 46min",
       "horaires": [
-        "16:00",
-        "20:45"
+        "14:00",
+        "18:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/e7/b2/e7b2d3047feb71205387d7e2b34d02a2.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000016814-mon-beau-pere-ma-belle-fille-et-moi/"
@@ -25,8 +36,8 @@
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "14:00",
-        "18:20"
+        "16:30",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/de/01/de019123ff2a620ecfc2c45bc743ab01.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/316136-camembert/"
@@ -36,6 +47,7 @@
       "genre": "Film",
       "duree": "2h 38min",
       "horaires": [
+        "15:45",
         "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/24/f124e39fa139536fceb9005cab53fc04.jpg",
@@ -46,8 +58,8 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "16:40",
-        "20:55"
+        "13:55",
+        "18:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2f/ab/2fabb861ff01b7c43b24c0cdafb0931a.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000022995-jupiter/"
@@ -57,90 +69,60 @@
       "genre": "Film",
       "duree": "1h 21min",
       "horaires": [
-        "18:30"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/22/b722617d1263956a4b556c739a49afc3.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000039483-il-faut-bruler-maman/"
+    },
+    {
+      "titre": "Scrooge",
+      "genre": "Film",
+      "duree": "1h 56min",
+      "horaires": [
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ee/1d/ee1d9a9f275b9d7332cf8dff0c5dfd27.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/1000034007-scrooge/"
     },
     {
       "titre": "Club Kid",
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "18:15"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/13/ce/13ce08b4b1cd5a6f30247161eea15143.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000036932-club-kid/"
-    },
-    {
-      "titre": "Godzilla Minus Zero",
-      "genre": "Film",
-      "duree": "2h 15min",
-      "horaires": [
-        "20:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/62/57/625799426a89e53445b5fb0b842cd241.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000014492-godzilla-minus-zero/"
     },
     {
       "titre": "L'Affaire Marie-Claire",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "16:15"
+        "13:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/3c/4a3cf95bb345d5d71bdc7acf3430323b.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/323550-laffaire-marie-claire/"
-    },
-    {
-      "titre": "Un bon patron",
-      "genre": "Film",
-      "duree": "1h 27min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000031925-un-bon-patron/"
-    },
-    {
-      "titre": "Wild Horse Nine",
-      "genre": "Film",
-      "duree": "1h 58min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/19/2c/192c21b88207a32bb9c1a043c51f053b.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/298024-wild-horse-nine/"
     },
     {
       "titre": "Moulin",
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "15:45"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
       "lien": "https://www.cinemacapitole-montceau.fr/films/1000020311-moulin/"
     },
     {
-      "titre": "Quelques mots d'amour",
+      "titre": "Les Misérables",
       "genre": "Film",
-      "duree": "1h 37min",
+      "duree": "2h 56min",
       "horaires": [
-        "13:50"
+        "15:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e4/d2e423fe953024eca9f0ebb7b2552db2.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/1000036515-quelques-mots-damour/"
-    },
-    {
-      "titre": "La Gradiva",
-      "genre": "Film",
-      "duree": "2h 25min",
-      "horaires": [
-        "13:55"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/23/a7/23a7c2106f6141b87e1381da3beaf635.jpg",
-      "lien": "https://www.cinemacapitole-montceau.fr/films/318225-la-gradiva/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
+      "lien": "https://www.cinemacapitole-montceau.fr/films/326160-les-miserables/"
     }
   ]
 }
